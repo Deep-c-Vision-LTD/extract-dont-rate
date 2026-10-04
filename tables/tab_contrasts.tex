@@ -1,0 +1,31 @@
+\begin{table*}[p]
+\centering
+\caption{Differences between routes with two-level paired bootstrap 95\% intervals (1,000 resamples of both the training subsets and the test images). Hybrid $-$ PCA$2k$ compares codes of equal size that differ only in whether half of the dimensions are VLM attributes (complement test); Attributes $-$ PCA$k$ compares the VLM attributes with a dimension-matched, label-free compression of CLIP (substitute test). EmoSet differences are in accuracy, LaMem differences in Spearman $\rho$. Bold: the interval excludes zero.}
+\label{tab:contrasts}
+\footnotesize\setlength{\tabcolsep}{1.8pt}
+\begin{tabular}{@{}lrrrrrrrr@{}}
+\toprule
+Contrast \textbackslash{} $n$ & 20 & 40 & 80 & 160 & 320 & 640 & 1280 & full \\
+\midrule
+\multicolumn{9}{@{}l}{\textit{Claude Sonnet 4.6, EmoSet}} \\
+Hybrid $-$ PCA$2k$ & $\mathbf{+0.163}$ & $\mathbf{+0.147}$ & $\mathbf{+0.084}$ & $\mathbf{+0.048}$ & $\mathbf{+0.036}$ & $\mathbf{+0.030}$ & $\mathbf{+0.025}$ & $+0.018$ \\
+Attributes $-$ PCA$k$ & $\mathbf{+0.142}$ & $\mathbf{+0.054}$ & $+0.018$ & $-0.004$ & $-0.019$ & $\mathbf{-0.027}$ & $\mathbf{-0.029}$ & $\mathbf{-0.029}$ \\
+Hybrid $-$ CLIP & $\mathbf{+0.200}$ & $\mathbf{+0.138}$ & $\mathbf{+0.072}$ & $\mathbf{+0.034}$ & $\mathbf{+0.016}$ & $-0.003$ & $-0.010$ & $\mathbf{-0.025}$ \\
+\addlinespace
+\multicolumn{9}{@{}l}{\textit{Claude Sonnet 4.6, LaMem}} \\
+Hybrid $-$ PCA$2k$ & $+0.065$ & $\mathbf{+0.060}$ & $\mathbf{+0.030}$ & $+0.015$ & $+0.014$ & $+0.009$ & $+0.006$ & $+0.006$ \\
+Attributes $-$ PCA$k$ & $-0.057$ & $\mathbf{-0.055}$ & $\mathbf{-0.093}$ & $\mathbf{-0.084}$ & $\mathbf{-0.089}$ & $\mathbf{-0.085}$ & $\mathbf{-0.082}$ & $\mathbf{-0.082}$ \\
+Hybrid $-$ CLIP & $+0.071$ & $\mathbf{+0.115}$ & $\mathbf{+0.092}$ & $\mathbf{+0.043}$ & $+0.017$ & $-0.008$ & $\mathbf{-0.028}$ & $\mathbf{-0.036}$ \\
+\addlinespace
+\multicolumn{9}{@{}l}{\textit{Qwen2.5-VL-7B, EmoSet}} \\
+Hybrid $-$ PCA$2k$ & $\mathbf{+0.089}$ & $\mathbf{+0.076}$ & $\mathbf{+0.039}$ & $\mathbf{+0.017}$ & $+0.009$ & $+0.002$ & $-0.006$ & $-0.008$ \\
+Attributes $-$ PCA$k$ & $+0.044$ & $\mathbf{-0.071}$ & $\mathbf{-0.070}$ & $\mathbf{-0.091}$ & $\mathbf{-0.102}$ & $\mathbf{-0.100}$ & $\mathbf{-0.107}$ & $\mathbf{-0.109}$ \\
+Hybrid $-$ CLIP & $\mathbf{+0.126}$ & $\mathbf{+0.067}$ & $\mathbf{+0.028}$ & $+0.004$ & $-0.011$ & $\mathbf{-0.031}$ & $\mathbf{-0.041}$ & $\mathbf{-0.050}$ \\
+\addlinespace
+\multicolumn{9}{@{}l}{\textit{Qwen2.5-VL-7B, LaMem}} \\
+Hybrid $-$ PCA$2k$ & $+0.077$ & $+0.023$ & $+0.008$ & $+0.002$ & $+0.002$ & $-0.003$ & $-0.004$ & $-0.005$ \\
+Attributes $-$ PCA$k$ & $\mathbf{-0.144}$ & $\mathbf{-0.157}$ & $\mathbf{-0.164}$ & $\mathbf{-0.157}$ & $\mathbf{-0.152}$ & $\mathbf{-0.146}$ & $\mathbf{-0.140}$ & $\mathbf{-0.137}$ \\
+Hybrid $-$ CLIP & $+0.082$ & $\mathbf{+0.078}$ & $\mathbf{+0.071}$ & $\mathbf{+0.031}$ & $+0.005$ & $\mathbf{-0.019}$ & $\mathbf{-0.039}$ & $\mathbf{-0.047}$ \\
+\bottomrule
+\end{tabular}
+\end{table*}

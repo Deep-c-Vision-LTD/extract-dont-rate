@@ -1,0 +1,50 @@
+\begin{table*}[p]
+\centering
+\caption{Test performance of each route against the number of labelled training images (mean of 8 training subsets; regularization re-selected on every subset). $k$ = number of VLM attributes (10 EmoSet, 8 LaMem). Bold: highest mean at that size; Table~\ref{tab:contrasts} gives the intervals. The last row of each block is the full pool. Direct rating needs no labels.}
+\label{tab:curves}
+\small\setlength{\tabcolsep}{4pt}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llrccccc}
+\toprule
+VLM & Task & $n$ & Attributes & CLIP-PCA$k$ & CLIP (768-d) & Hybrid & Direct \\
+\midrule
+Claude Sonnet 4.6 & EmoSet (accuracy) & 20 & 0.584 & 0.443 & 0.391 & \textbf{0.591} & 0.585 \\
+ &  & 40 & 0.635 & 0.581 & 0.554 & \textbf{0.692} &  \\
+ &  & 80 & 0.653 & 0.635 & 0.636 & \textbf{0.708} &  \\
+ &  & 160 & 0.672 & 0.677 & 0.702 & \textbf{0.736} &  \\
+ &  & 320 & 0.687 & 0.706 & 0.744 & \textbf{0.760} &  \\
+ &  & 640 & 0.692 & 0.719 & \textbf{0.776} & 0.773 &  \\
+ &  & 1280 & 0.698 & 0.728 & \textbf{0.800} & 0.790 &  \\
+ &  & full (1917) & 0.700 & 0.729 & \textbf{0.817} & 0.792 &  \\
+\addlinespace
+ & LaMem (Spearman $\rho$) & 20 & 0.352 & \textbf{0.410} & 0.321 & 0.390 & 0.243 \\
+ &  & 40 & 0.436 & 0.490 & 0.400 & \textbf{0.514} &  \\
+ &  & 80 & 0.451 & 0.545 & 0.462 & \textbf{0.554} &  \\
+ &  & 160 & 0.488 & 0.573 & 0.543 & \textbf{0.587} &  \\
+ &  & 320 & 0.494 & 0.582 & 0.587 & \textbf{0.604} &  \\
+ &  & 640 & 0.505 & 0.590 & \textbf{0.624} & 0.616 &  \\
+ &  & 1280 & 0.509 & 0.591 & \textbf{0.647} & 0.619 &  \\
+ &  & full (1997) & 0.510 & 0.592 & \textbf{0.658} & 0.622 &  \\
+\addlinespace
+\midrule
+Qwen2.5-VL-7B & EmoSet (accuracy) & 20 & 0.486 & 0.443 & 0.391 & \textbf{0.517} & 0.464 \\
+ &  & 40 & 0.511 & 0.581 & 0.554 & \textbf{0.621} &  \\
+ &  & 80 & 0.565 & 0.635 & 0.636 & \textbf{0.664} &  \\
+ &  & 160 & 0.586 & 0.677 & 0.702 & \textbf{0.705} &  \\
+ &  & 320 & 0.604 & 0.706 & \textbf{0.744} & 0.733 &  \\
+ &  & 640 & 0.619 & 0.719 & \textbf{0.776} & 0.746 &  \\
+ &  & 1280 & 0.621 & 0.728 & \textbf{0.800} & 0.759 &  \\
+ &  & full (1917) & 0.620 & 0.729 & \textbf{0.817} & 0.766 &  \\
+\addlinespace
+ & LaMem (Spearman $\rho$) & 20 & 0.263 & \textbf{0.410} & 0.321 & 0.401 & 0.101 \\
+ &  & 40 & 0.334 & \textbf{0.490} & 0.400 & 0.477 &  \\
+ &  & 80 & 0.381 & \textbf{0.545} & 0.462 & 0.533 &  \\
+ &  & 160 & 0.414 & 0.573 & 0.543 & \textbf{0.574} &  \\
+ &  & 320 & 0.432 & 0.582 & 0.587 & \textbf{0.592} &  \\
+ &  & 640 & 0.444 & 0.590 & \textbf{0.624} & 0.605 &  \\
+ &  & 1280 & 0.451 & 0.591 & \textbf{0.647} & 0.609 &  \\
+ &  & full (1997) & 0.455 & 0.592 & \textbf{0.658} & 0.612 &  \\
+\addlinespace
+\bottomrule
+\end{tabular}}
+\end{table*}

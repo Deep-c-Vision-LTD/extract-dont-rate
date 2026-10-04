@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.aux
+*.log
+*.spl
+*.out
+batch_id_*.txt
+.DS_Store
+*_dinov2l.npz
+*_siglipl.npz

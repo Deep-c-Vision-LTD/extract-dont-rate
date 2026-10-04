@@ -1,0 +1,26 @@
+\begin{table}[t]
+\centering
+\caption{Dependence on the frozen encoder. \emph{Recov.}: mean Pearson $r$ with which the encoder recovers the VLM's attributes (5-fold ridge). \emph{Complement}: label budgets at which the hybrid significantly beats the equal-size code PCA$2k$. \emph{Substitute}: budgets at which the attributes significantly beat (+) or trail ($-$) the dimension-matched code PCA$k$. \emph{Full}: the full encoder probe with the full pool (accuracy or Spearman $\rho$).}
+\label{tab:encoders}
+\footnotesize\setlength{\tabcolsep}{3pt}
+\begin{tabular}{@{}lllccccc@{}}
+\toprule
+Encoder & VLM & Task & Recov. & Complement & Subst.\\ (+) & Subst.\\ ($-$) & Full \\
+\midrule
+CLIP L/14 & Claude & EmoSet & 0.87 & 20--1280 & 20--40 & 640--full & 0.817 \\
+ &  & LaMem & 0.80 & 40--80 & none & 40--full & 0.658 \\
+ & Qwen & EmoSet & 0.80 & 20--160 & none & 40--full & 0.817 \\
+ &  & LaMem & 0.74 & none & none & all & 0.658 \\
+\midrule
+SigLIP-L & Claude & EmoSet & 0.86 & all & 20--80 & none & 0.800 \\
+ &  & LaMem & 0.83 & 40--full & none & 80--full & 0.669 \\
+ & Qwen & EmoSet & 0.80 & 20--40 & none & 80--full & 0.800 \\
+ &  & LaMem & 0.77 & 80--160 & none & all & 0.669 \\
+\midrule
+DINOv2-L & Claude & EmoSet & 0.76 & all & all & none & 0.715 \\
+ &  & LaMem & 0.66 & 40--full & 40--160 & none & 0.572 \\
+ & Qwen & EmoSet & 0.69 & all & 20 & none & 0.715 \\
+ &  & LaMem & 0.61 & 40--full & none & none & 0.572 \\
+\bottomrule
+\end{tabular}
+\end{table}

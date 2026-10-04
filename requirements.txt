@@ -1,0 +1,12 @@
+numpy
+scipy
+scikit-learn
+pillow
+matplotlib
+
+# Only needed for extract_features.py and label_with_qwen.py (Full reproduction)
+torch
+transformers>=4.49
+
+# Only needed for label_with_vlm.py (Full reproduction, costs money)
+anthropic
