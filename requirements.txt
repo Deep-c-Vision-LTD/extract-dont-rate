@@ -1,0 +1,15 @@
+# Versions used for every result in results/ (Python 3.12)
+numpy==2.5.0
+scipy==1.18.0
+scikit-learn==1.9.0
+pillow==12.2.0
+matplotlib==3.11.0
+
+# Only for embeddings and the open-VLM labelling scripts (extract_features.py, extract_alt_encoders.py,
+# prep_new_datasets.py, label_with_qwen.py, label_with_open_vlm.py)
+torch==2.12.0
+transformers==5.12.1
+huggingface_hub
+
+# Only for label_with_vlm.py (Claude; Full reproduction, costs money)
+anthropic

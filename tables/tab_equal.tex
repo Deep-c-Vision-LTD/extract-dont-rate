@@ -1,0 +1,29 @@
+\begin{table}[t]
+\centering
+\caption{Equal-size test: hybrid minus CLIP-PCA$2k$. Emotion datasets in accuracy points, memorability datasets in Spearman $\rho$; mean of 30 training subsets per budget (one fit at the full pool: EmoSet 1,917, ArtPhoto 548, Abstract 160, LaMem 1,997, MemCat 1,975 images; budgets not smaller than the pool appear only under Full). $^{\dagger}$significant under Holm correction over all 336 contrasts of Tables~\ref{tab:added}--\ref{tab:subst} and \ref{tab:equal}, which include the 640- and 1,280-label budgets not shown; $^{*}$significant under Benjamini--Hochberg only.}
+\label{tab:equal}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{@{}llrrrrrr@{}}
+\toprule
+Dataset & VLM & 20 & 40 & 80 & 160 & 320 & Full \\
+\midrule
+EmoSet (pts) & Claude & $+17.0$$^{\dagger}$ & $+13.4$$^{\dagger}$ & $+7.7$$^{\dagger}$ & $+5.2$$^{\dagger}$ & $+4.1$$^{\dagger}$ & $+1.8$ \\
+ & Qwen & $+8.9$$^{\dagger}$ & $+5.9$$^{\dagger}$ & $+2.9$$^{*}$ & $+1.0$ & $+0.5$ & $-0.7$ \\
+ & Gemma & $+11.2$$^{\dagger}$ & $+8.0$$^{\dagger}$ & $+4.2$$^{\dagger}$ & $+1.9$$^{*}$ & $+0.6$ & $-1.6$ \\
+\addlinespace
+ArtPhoto (pts) & Qwen & $+5.5$$^{*}$ & $+6.6$$^{\dagger}$ & $+7.0$$^{\dagger}$ & $+5.6$$^{*}$ & $+4.9$ & $+1.7$ \\
+ & Gemma & $+7.3$$^{\dagger}$ & $+7.0$$^{\dagger}$ & $+8.2$$^{\dagger}$ & $+6.2$$^{*}$ & $+6.3$$^{*}$ & $+6.2$ \\
+\addlinespace
+Abstract (pts) & Qwen & $+6.2$$^{*}$ & $+8.0$$^{*}$ & $+7.1$ & -- & -- & $+2.9$ \\
+ & Gemma & $+6.3$$^{*}$ & $+9.0$$^{*}$ & $+6.3$ & -- & -- & $-0.1$ \\
+\addlinespace
+LaMem ($\rho$) & Claude & $+0.075$$^{*}$ & $+0.074$$^{\dagger}$ & $+0.026$$^{*}$ & $+0.009$ & $+0.006$ & $+0.006$ \\
+ & Qwen & $+0.018$ & $+0.040$$^{*}$ & $+0.011$ & $-0.000$ & $-0.005$ & $-0.005$ \\
+ & Gemma & $+0.011$ & $+0.023$ & $-0.005$ & $-0.014$ & $-0.017$$^{*}$ & $-0.015$$^{*}$ \\
+\addlinespace
+MemCat ($\rho$) & Qwen & $+0.124$$^{\dagger}$ & $+0.053$$^{\dagger}$ & $+0.011$ & $+0.003$ & $+0.001$ & $-0.000$ \\
+ & Gemma & $+0.112$$^{\dagger}$ & $+0.053$$^{\dagger}$ & $+0.003$ & $-0.002$ & $-0.004$ & $-0.003$ \\
+\bottomrule
+\end{tabular}
+\end{table}

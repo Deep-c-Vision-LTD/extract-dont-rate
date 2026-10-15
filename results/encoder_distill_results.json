@@ -1,0 +1,74 @@
+{
+ "claude_clip": {
+  "emoset_mean_r": 0.873,
+  "emoset_range": [
+   0.814,
+   0.919
+  ],
+  "lamem_mean_r": 0.803,
+  "lamem_range": [
+   0.736,
+   0.892
+  ]
+ },
+ "claude_siglipl": {
+  "emoset_mean_r": 0.865,
+  "emoset_range": [
+   0.8,
+   0.929
+  ],
+  "lamem_mean_r": 0.828,
+  "lamem_range": [
+   0.771,
+   0.905
+  ]
+ },
+ "claude_dinov2l": {
+  "emoset_mean_r": 0.761,
+  "emoset_range": [
+   0.7,
+   0.86
+  ],
+  "lamem_mean_r": 0.655,
+  "lamem_range": [
+   0.544,
+   0.842
+  ]
+ },
+ "qwen_clip": {
+  "emoset_mean_r": 0.798,
+  "emoset_range": [
+   0.714,
+   0.886
+  ],
+  "lamem_mean_r": 0.744,
+  "lamem_range": [
+   0.617,
+   0.872
+  ]
+ },
+ "qwen_siglipl": {
+  "emoset_mean_r": 0.795,
+  "emoset_range": [
+   0.71,
+   0.891
+  ],
+  "lamem_mean_r": 0.769,
+  "lamem_range": [
+   0.642,
+   0.894
+  ]
+ },
+ "qwen_dinov2l": {
+  "emoset_mean_r": 0.693,
+  "emoset_range": [
+   0.598,
+   0.823
+  ],
+  "lamem_mean_r": 0.61,
+  "lamem_range": [
+   0.471,
+   0.847
+  ]
+ }
+}

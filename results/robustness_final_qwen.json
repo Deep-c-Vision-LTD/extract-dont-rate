@@ -1,0 +1,84 @@
+{
+ "emoset_drop_one": {
+  "base": 0.7660972404730617,
+  "valence_7": -0.0059,
+  "arousal_5": -0.0085,
+  "has_threat_or_danger": 0.0026,
+  "has_disgusting_content": -0.0007,
+  "novelty_5": 0.0,
+  "playfulness_5": -0.0059,
+  "warmth_5": -0.0026,
+  "energy_5": -0.0007,
+  "aesthetic_5": 0.0,
+  "has_people": -0.0026
+ },
+ "emoset_mlp": [
+  {
+   "n": 80,
+   "attrs": 0.5568,
+   "pcak": 0.6243,
+   "clip": 0.635,
+   "hybrid": 0.6621
+  },
+  {
+   "n": 320,
+   "attrs": 0.5981,
+   "pcak": 0.7088,
+   "clip": 0.7401,
+   "hybrid": 0.7295
+  },
+  {
+   "n": 1917,
+   "attrs": 0.6347,
+   "pcak": 0.749,
+   "clip": 0.8009,
+   "hybrid": 0.776
+  }
+ ],
+ "lamem_mlp": [
+  {
+   "n": 80,
+   "attrs": 0.3144,
+   "pcak": 0.4713,
+   "clip": 0.4667,
+   "hybrid": 0.463
+  },
+  {
+   "n": 320,
+   "attrs": 0.4142,
+   "pcak": 0.5525,
+   "clip": 0.544,
+   "hybrid": 0.4982
+  },
+  {
+   "n": 1997,
+   "attrs": 0.4915,
+   "pcak": 0.6229,
+   "clip": 0.6042,
+   "hybrid": 0.6184
+  }
+ ],
+ "lamem_fixed_alpha100": [
+  {
+   "n": 80,
+   "attrs": 0.3904,
+   "pcak": 0.5428,
+   "clip": 0.446,
+   "hybrid": 0.5407
+  },
+  {
+   "n": 320,
+   "attrs": 0.4328,
+   "pcak": 0.5816,
+   "clip": 0.4751,
+   "hybrid": 0.5927
+  },
+  {
+   "n": 1997,
+   "attrs": 0.4539,
+   "pcak": 0.5923,
+   "clip": 0.5984,
+   "hybrid": 0.6116
+  }
+ ]
+}

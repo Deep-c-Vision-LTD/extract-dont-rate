@@ -1,0 +1,29 @@
+\begin{table}[t]
+\centering
+\caption{The compact hybrid against the full 768-dimensional CLIP probe: hybrid minus CLIP. Emotion datasets in accuracy points, memorability datasets in Spearman $\rho$; mean of 30 training subsets per budget (one fit at the full pool: EmoSet 1,917, ArtPhoto 548, Abstract 160, LaMem 1,997, MemCat 1,975 images; budgets not smaller than the pool appear only under Full). $^{\dagger}$significant under Holm correction over all 336 contrasts of Tables~\ref{tab:added}--\ref{tab:subst} and \ref{tab:equal}, which include the 640- and 1,280-label budgets not shown; $^{*}$significant under Benjamini--Hochberg only.}
+\label{tab:vsclip}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{@{}llrrrrrr@{}}
+\toprule
+Dataset & VLM & 20 & 40 & 80 & 160 & 320 & Full \\
+\midrule
+EmoSet (pts) & Claude & $+19.1$$^{\dagger}$ & $+13.1$$^{\dagger}$ & $+7.2$$^{\dagger}$ & $+3.9$$^{\dagger}$ & $+1.8$$^{*}$ & $-2.5$$^{*}$ \\
+ & Qwen & $+11.1$$^{\dagger}$ & $+5.6$$^{\dagger}$ & $+2.4$$^{*}$ & $-0.3$ & $-1.8$$^{*}$ & $-5.0$$^{\dagger}$ \\
+ & Gemma & $+13.4$$^{\dagger}$ & $+7.6$$^{\dagger}$ & $+3.6$$^{\dagger}$ & $+0.6$ & $-1.7$$^{*}$ & $-5.9$$^{\dagger}$ \\
+\addlinespace
+ArtPhoto (pts) & Qwen & $+5.5$$^{*}$ & $+3.9$$^{*}$ & $+3.7$ & $+2.1$ & $-1.9$ & $-8.3$$^{*}$ \\
+ & Gemma & $+7.3$$^{\dagger}$ & $+4.3$$^{*}$ & $+4.9$$^{*}$ & $+2.8$ & $-0.3$ & $-3.9$ \\
+\addlinespace
+Abstract (pts) & Qwen & $+5.2$$^{*}$ & $+7.3$$^{*}$ & $+5.1$ & -- & -- & $+1.5$ \\
+ & Gemma & $+5.3$$^{*}$ & $+8.5$$^{*}$ & $+4.3$ & -- & -- & $-1.1$ \\
+\addlinespace
+LaMem ($\rho$) & Claude & $+0.099$$^{\dagger}$ & $+0.113$$^{\dagger}$ & $+0.076$$^{\dagger}$ & $+0.036$$^{\dagger}$ & $+0.009$ & $-0.036$$^{\dagger}$ \\
+ & Qwen & $+0.042$ & $+0.079$$^{\dagger}$ & $+0.061$$^{\dagger}$ & $+0.026$$^{*}$ & $-0.003$ & $-0.046$$^{\dagger}$ \\
+ & Gemma & $+0.034$ & $+0.061$$^{\dagger}$ & $+0.045$$^{\dagger}$ & $+0.012$ & $-0.015$ & $-0.057$$^{\dagger}$ \\
+\addlinespace
+MemCat ($\rho$) & Qwen & $+0.024$ & $+0.013$ & $-0.001$ & $-0.017$$^{*}$ & $-0.034$$^{\dagger}$ & $-0.074$$^{\dagger}$ \\
+ & Gemma & $+0.012$ & $+0.014$ & $-0.010$ & $-0.023$$^{*}$ & $-0.039$$^{\dagger}$ & $-0.077$$^{\dagger}$ \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,29 @@
+\begin{table}[t]
+\centering
+\caption{Adding VLM attributes to the same compressed encoder: hybrid minus CLIP-PCA$k$. Emotion datasets in accuracy points, memorability datasets in Spearman $\rho$; mean of 30 training subsets per budget (one fit at the full pool: EmoSet 1,917, ArtPhoto 548, Abstract 160, LaMem 1,997, MemCat 1,975 images; budgets not smaller than the pool appear only under Full). $^{\dagger}$significant under Holm correction over all 336 contrasts of Tables~\ref{tab:added}--\ref{tab:subst} and \ref{tab:equal}, which include the 640- and 1,280-label budgets not shown; $^{*}$significant under Benjamini--Hochberg only.}
+\label{tab:added}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{@{}llrrrrrr@{}}
+\toprule
+Dataset & VLM & 20 & 40 & 80 & 160 & 320 & Full \\
+\midrule
+EmoSet (pts) & Claude & $+14.0$$^{\dagger}$ & $+10.7$$^{\dagger}$ & $+7.8$$^{\dagger}$ & $+6.2$$^{\dagger}$ & $+5.8$$^{\dagger}$ & $+6.2$$^{\dagger}$ \\
+ & Qwen & $+5.9$$^{\dagger}$ & $+3.2$$^{*}$ & $+3.0$$^{\dagger}$ & $+2.1$$^{*}$ & $+2.3$$^{*}$ & $+3.7$$^{\dagger}$ \\
+ & Gemma & $+8.2$$^{\dagger}$ & $+5.2$$^{\dagger}$ & $+4.2$$^{\dagger}$ & $+3.0$$^{\dagger}$ & $+2.4$$^{*}$ & $+2.8$$^{*}$ \\
+\addlinespace
+ArtPhoto (pts) & Qwen & $+6.5$$^{\dagger}$ & $+6.8$$^{\dagger}$ & $+6.2$$^{*}$ & $+7.3$$^{*}$ & $+6.9$$^{*}$ & $+4.9$ \\
+ & Gemma & $+8.4$$^{\dagger}$ & $+7.1$$^{\dagger}$ & $+7.4$$^{\dagger}$ & $+7.9$$^{\dagger}$ & $+8.4$$^{*}$ & $+9.4$$^{*}$ \\
+\addlinespace
+Abstract (pts) & Qwen & $+4.2$$^{*}$ & $+5.8$$^{*}$ & $+5.2$ & -- & -- & $-4.3$ \\
+ & Gemma & $+4.3$ & $+7.0$$^{*}$ & $+4.5$ & -- & -- & $-7.4$ \\
+\addlinespace
+LaMem ($\rho$) & Claude & $-0.004$ & $+0.019$$^{*}$ & $+0.010$ & $+0.013$ & $+0.020$$^{*}$ & $+0.030$$^{\dagger}$ \\
+ & Qwen & $-0.061$$^{*}$ & $-0.014$ & $-0.005$ & $+0.004$ & $+0.009$ & $+0.019$$^{*}$ \\
+ & Gemma & $-0.069$$^{*}$ & $-0.032$$^{*}$ & $-0.021$$^{*}$ & $-0.010$ & $-0.004$ & $+0.009$$^{*}$ \\
+\addlinespace
+MemCat ($\rho$) & Qwen & $+0.013$ & $-0.003$ & $-0.002$ & $+0.004$ & $+0.009$ & $+0.016$$^{*}$ \\
+ & Gemma & $+0.002$ & $-0.003$ & $-0.010$ & $-0.002$ & $+0.004$ & $+0.013$$^{*}$ \\
+\bottomrule
+\end{tabular}
+\end{table}

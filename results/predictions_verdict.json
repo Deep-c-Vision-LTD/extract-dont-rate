@@ -1,0 +1,119 @@
+{
+ "P1": {
+  "cells": {
+   "qwen/artphoto/20": false,
+   "qwen/artphoto/40": true,
+   "qwen/abstract/20": false,
+   "qwen/abstract/40": false,
+   "qwen/memcat/20": true,
+   "qwen/memcat/40": true,
+   "gemma/artphoto/20": true,
+   "gemma/artphoto/40": true,
+   "gemma/abstract/20": false,
+   "gemma/abstract/40": false,
+   "gemma/memcat/20": true,
+   "gemma/memcat/40": true
+  },
+  "confirmed": false
+ },
+ "P2": {
+  "cells": {
+   "qwen/artphoto": {
+    "first": 0.0549,
+    "full": -0.0829,
+    "shrinks": true
+   },
+   "qwen/abstract": {
+    "first": 0.0523,
+    "full": 0.015,
+    "shrinks": true
+   },
+   "qwen/memcat": {
+    "first": 0.0237,
+    "full": -0.0736,
+    "shrinks": true
+   },
+   "gemma/artphoto": {
+    "first": 0.0734,
+    "full": -0.0386,
+    "shrinks": true
+   },
+   "gemma/abstract": {
+    "first": 0.053,
+    "full": -0.0107,
+    "shrinks": true
+   },
+   "gemma/memcat": {
+    "first": 0.0122,
+    "full": -0.0768,
+    "shrinks": true
+   }
+  },
+  "memcat_full_not_sig_better": {
+   "qwen": true,
+   "gemma": true
+  },
+  "confirmed": true
+ },
+ "P3": {
+  "cells": {
+   "artphoto": {
+    "zero_shot": {
+     "qwen": 0.4066390041493776,
+     "gemma": 0.44813278008298757
+    },
+    "gain_at_20": {
+     "qwen": 0.0545,
+     "gemma": 0.0728
+    },
+    "holds": true
+   },
+   "abstract": {
+    "zero_shot": {
+     "qwen": 0.2753623188405797,
+     "gemma": 0.4057971014492754
+    },
+    "gain_at_20": {
+     "qwen": 0.0619,
+     "gemma": 0.063
+    },
+    "holds": true
+   },
+   "memcat": {
+    "zero_shot": {
+     "qwen": 0.004190183045795955,
+     "gemma": -0.029295848294316435
+    },
+    "gain_at_20": {
+     "qwen": 0.1236,
+     "gemma": 0.1116
+    },
+    "holds": true
+   }
+  },
+  "confirmed": true
+ },
+ "P4": {
+  "cells": {
+   "qwen/artphoto/160": true,
+   "qwen/artphoto/320": true,
+   "qwen/artphoto/548": true,
+   "qwen/abstract/160": true,
+   "qwen/memcat/160": true,
+   "qwen/memcat/320": true,
+   "qwen/memcat/640": true,
+   "qwen/memcat/1280": true,
+   "qwen/memcat/1975": true,
+   "gemma/artphoto/160": true,
+   "gemma/artphoto/320": true,
+   "gemma/artphoto/548": true,
+   "gemma/abstract/160": true,
+   "gemma/memcat/160": true,
+   "gemma/memcat/320": true,
+   "gemma/memcat/640": true,
+   "gemma/memcat/1280": true,
+   "gemma/memcat/1975": true
+  },
+  "confirmed": true
+ }
+}

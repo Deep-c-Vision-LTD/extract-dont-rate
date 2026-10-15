@@ -1,0 +1,970 @@
+[
+{
+"image": "amusement_0489.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0494.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0504.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0507.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0512.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0513.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0514.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0515.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0516.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0520.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0525.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0534.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0535.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0538.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0541.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0543.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0547.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0722.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0723.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0724.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0727.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0730.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0731.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0739.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0741.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0744.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0750.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0752.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0753.jpg",
+"label": "amusement"
+},
+{
+"image": "amusement_0754.jpg",
+"label": "amusement"
+},
+{
+"image": "anger_0001.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0006.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0008.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0011.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0016.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0020.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0023.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0024.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0027.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0028.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0029.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0252.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0257.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0260.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0263.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0268.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0800.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0802.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0803.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0808.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0813.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0814.jpg",
+"label": "anger"
+},
+{
+"image": "anger_0826.jpg",
+"label": "anger"
+},
+{
+"image": "awe_0032.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0049.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0051.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0052.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0053.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0055.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0056.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0057.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0058.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0060.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0579.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0583.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0591.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0597.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0598.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0599.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0600.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0603.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0832.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0841.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0843.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0847.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0848.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0850.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0852.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0860.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0863.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0865.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0870.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0876.jpg",
+"label": "awe"
+},
+{
+"image": "awe_0877.jpg",
+"label": "awe"
+},
+{
+"image": "contentment_0062.jpg",
+"label": "contentment"
+},
+{
+"image": "contentment_0067.jpg",
+"label": "contentment"
+},
+{
+"image": "contentment_0079.jpg",
+"label": "contentment"
+},
+{
+"image": "contentment_0081.jpg",
+"label": "contentment"
+},
+{
+"image": "contentment_0083.jpg",
+"label": "contentment"
+},
+{
+"image": "contentment_0086.jpg",
+"label": "contentment"
+},
+{
+"image": "contentment_0088.jpg",
+"label": "contentment"
+},
+{
+"image": "contentment_0089.jpg",
+"label": "contentment"
+},
+{
+"image": "contentment_0091.jpg",
+"label": "contentment"
+},
+{
+"image": "contentment_0095.jpg",
+"label": "contentment"
+},
+{
+"image": "contentment_0100.jpg",
+"label": "contentment"
+},
+{
+"image": "contentment_0103.jpg",
+"label": "contentment"
+},
+{
+"image": "contentment_0104.jpg",
+"label": "contentment"
+},
+{
+"image": "contentment_0105.jpg",
+"label": "contentment"
+},
+{
+"image": "contentment_0108.jpg",
+"label": "contentment"
+},
+{
+"image": "contentment_0112.jpg",
+"label": "contentment"
+},
+{
+"image": "contentment_0116.jpg",
+"label": "contentment"
+},
+{
+"image": "contentment_0118.jpg",
+"label": "contentment"
+},
+{
+"image": "contentment_0121.jpg",
+"label": "contentment"
+},
+{
+"image": "contentment_0122.jpg",
+"label": "contentment"
+},
+{
+"image": "contentment_0128.jpg",
+"label": "contentment"
+},
+{
+"image": "disgust_0760.jpg",
+"label": "disgust"
+},
+{
+"image": "disgust_0761.jpg",
+"label": "disgust"
+},
+{
+"image": "disgust_0770.jpg",
+"label": "disgust"
+},
+{
+"image": "disgust_0780.jpg",
+"label": "disgust"
+},
+{
+"image": "disgust_0782.jpg",
+"label": "disgust"
+},
+{
+"image": "disgust_0784.jpg",
+"label": "disgust"
+},
+{
+"image": "disgust_0787.jpg",
+"label": "disgust"
+},
+{
+"image": "disgust_0792.jpg",
+"label": "disgust"
+},
+{
+"image": "disgust_0796.jpg",
+"label": "disgust"
+},
+{
+"image": "disgust_0800.jpg",
+"label": "disgust"
+},
+{
+"image": "disgust_0802.jpg",
+"label": "disgust"
+},
+{
+"image": "disgust_0803.jpg",
+"label": "disgust"
+},
+{
+"image": "disgust_0807.jpg",
+"label": "disgust"
+},
+{
+"image": "disgust_0882.jpg",
+"label": "disgust"
+},
+{
+"image": "disgust_0884.jpg",
+"label": "disgust"
+},
+{
+"image": "disgust_0885.jpg",
+"label": "disgust"
+},
+{
+"image": "disgust_0887.jpg",
+"label": "disgust"
+},
+{
+"image": "disgust_0889.jpg",
+"label": "disgust"
+},
+{
+"image": "disgust_0897.jpg",
+"label": "disgust"
+},
+{
+"image": "disgust_0898.jpg",
+"label": "disgust"
+},
+{
+"image": "disgust_0901.jpg",
+"label": "disgust"
+},
+{
+"image": "excitement_0161.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0164.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0166.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0167.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0172.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0174.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0175.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0177.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0180.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0182.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0185.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0188.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0192.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0197.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0198.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0199.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0202.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0210.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0217.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0218.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0220.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0227.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0228.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0240.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0247.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0254.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0256.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0260.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0263.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0264.jpg",
+"label": "excitement"
+},
+{
+"image": "excitement_0267.jpg",
+"label": "excitement"
+},
+{
+"image": "fear_0670.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0672.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0680.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0681.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0682.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0686.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0690.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0692.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0693.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0699.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0702.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0704.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0713.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0904.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0905.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0907.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0908.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0911.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0912.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0919.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0923.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0926.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0929.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0930.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0931.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0933.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0937.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0940.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0941.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0944.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0945.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0955.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0961.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0967.jpg",
+"label": "fear"
+},
+{
+"image": "fear_0973.jpg",
+"label": "fear"
+},
+{
+"image": "sad_0291.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0298.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0299.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0302.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0304.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0305.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0313.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0317.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0323.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0327.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0333.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0338.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0345.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0350.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0356.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0363.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0368.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0371.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0373.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0379.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0380.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0381.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0384.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0388.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0402.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0417.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0418.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0421.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0422.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0424.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0432.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0438.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0445.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0452.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0453.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0463.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0465.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0611.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0613.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0615.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0618.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0628.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0629.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0632.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0633.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0634.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0638.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0644.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0646.jpg",
+"label": "sadness"
+},
+{
+"image": "sad_0650.jpg",
+"label": "sadness"
+}
+]

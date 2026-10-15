@@ -1,0 +1,230 @@
+id,reasoning,valence_7,arousal_5,has_people,has_threat_or_danger,has_disgusting_content,novelty_5,playfulness_5,warmth_5,energy_5,aesthetic_5
+abstract_0001,The image evokes a sense of awe due to its vibrant colors and abstract composition.,6,4,none,1,1,5,2,3,3,5
+abstract_0002,"The image evokes a sense of contentment due to the serene and warm atmosphere, with people enjoying a rainy day together.",6,2,people_present,1,1,1,1,5,2,5
+abstract_0004,"The image evokes a sense of awe due to its abstract and textured appearance, suggesting a grand and mysterious atmosphere.",4,4,none,1,1,3,1,2,3,3
+abstract_0005,"The image evokes a sense of awe due to its abstract and ethereal quality, reminiscent of smoke or ink in water.",6,4,none,1,1,5,2,3,3,5
+abstract_0007,"The image evokes a sense of awe due to its abstract and ethereal quality, suggesting a grand and mysterious atmosphere.",6,4,none,1,1,5,1,2,3,4
+abstract_0009,The image evokes a sense of calm and introspection due to the solitary figure under the umbrella amidst vibrant colors.,4,2,people_present,1,1,1,1,3,2,5
+abstract_0010,"The image evokes a sense of contentment due to the serene sunset and calm waters, suggesting relaxation and peace.",6,2,none,1,1,1,1,5,1,5
+abstract_0011,"The image evokes a sense of awe due to its abstract and textured appearance, suggesting grandeur and mystery.",4,4,none,1,1,3,1,2,3,3
+abstract_0012,The image evokes a sense of contentment due to the vibrant colors and the intimate moment shared by two people under an umbrella.,6,3,prominent_faces,1,1,2,2,4,3,5
+abstract_0013,The image evokes a sense of awe due to its vibrant colors and grand architectural elements.,6,4,none,1,1,5,2,3,3,5
+abstract_0014,"The image evokes a sense of playfulness and whimsy due to its abstract, colorful, and patterned design.",6,3,none,1,1,2,5,2,2,4
+abstract_0015,The image evokes a sense of awe due to its striking contrast and the serene yet mysterious atmosphere.,6,4,none,2,1,4,1,3,3,5
+abstract_0016,"The image evokes a sense of awe due to its dark, textured appearance and the subtle light highlighting the surface.",4,3,none,1,1,2,1,2,2,3
+abstract_0019,"The image evokes a sense of awe due to its abstract and ethereal quality, with a soft, warm color palette and a sense of mystery.",4,3,none,1,1,2,1,3,2,3
+abstract_0020,"The image evokes a sense of awe due to its abstract and vibrant composition, suggesting a grand and mysterious atmosphere.",6,4,none,1,1,5,2,1,3,5
+abstract_0021,The image evokes a sense of awe due to its fantastical and otherworldly appearance.,6,5,none,1,1,5,2,1,4,5
+abstract_0025,"The image evokes a sense of awe due to its intricate and abstract nature, suggesting a grand and mysterious quality.",6,4,none,1,1,5,2,3,3,5
+abstract_0026,The image evokes a sense of excitement due to the vibrant colors and dynamic composition.,6,5,people_present,1,1,3,2,3,5,4
+abstract_0027,"The image evokes a sense of dread and foreboding due to the dark, ominous colors and the barren tree.",1,5,none,5,2,1,1,1,3,2
+abstract_0029,The image evokes a sense of awe due to its intricate and vibrant floral design.,6,4,none,1,1,5,2,3,3,5
+abstract_0030,The painting evokes a sense of awe due to its vibrant colors and abstract composition.,6,4,none,1,1,4,2,3,3,4
+abstract_0032,"The image evokes a sense of awe due to the surreal and grand scale of the scene, with a person standing at the end of a long, narrow path leading into the distance.",6,5,none,1,1,5,1,1,5,5
+abstract_0035,"The image evokes a sense of awe due to its vibrant colors and abstract forms, suggesting a grand and mysterious atmosphere.",6,4,none,1,1,5,2,3,3,5
+abstract_0036,"The image conveys a sense of awe due to its abstract and vibrant composition, suggesting a grand and unexpected visual experience.",6,5,none,1,1,5,2,1,5,4
+abstract_0037,The vibrant colors and abstract shapes evoke a sense of excitement and playfulness.,6,5,none,1,1,5,5,2,5,5
+abstract_0039,"The vibrant, swirling colors evoke a sense of excitement and awe due to their dynamic and unexpected nature.",6,5,none,1,1,5,3,2,5,5
+abstract_0041,The vibrant colors and dynamic brushstrokes evoke a sense of excitement and energy.,6,5,none,1,1,2,1,1,5,4
+abstract_0043,"The image evokes a sense of awe due to its abstract and dynamic composition, suggesting a powerful and mysterious force.",4,5,none,2,1,5,1,1,5,4
+abstract_0045,The vibrant colors and chaotic energy suggest excitement and playfulness.,6,5,none,1,1,2,5,1,5,3
+abstract_0046,"The image evokes a sense of awe due to its abstract and mysterious nature, suggesting something grand and unexpected.",4,4,none,2,2,4,1,2,3,3
+abstract_0049,The image evokes a sense of awe due to its abstract composition and vibrant colors.,6,4,none,1,1,4,2,3,3,4
+abstract_0050,The vibrant and chaotic patterns evoke a sense of awe and excitement due to their complexity and vivid colors.,6,5,none,1,1,5,5,2,5,5
+abstract_0052,The image evokes a sense of awe due to its abstract and vibrant composition.,6,4,none,1,1,5,2,3,3,4
+abstract_0053,The vibrant and dynamic colors evoke a sense of awe and excitement.,6,5,none,1,1,5,2,1,5,5
+abstract_0055,"The image conveys a sense of awe due to its abstract and chaotic nature, suggesting a grand and mysterious scale.",4,5,none,1,1,5,1,1,5,2
+abstract_0056,"The image evokes a sense of calm and contentment due to the serene landscape and the presence of a bird, suggesting a peaceful moment.",6,2,none,1,1,1,1,5,1,5
+abstract_0057,"The image evokes a sense of awe due to its abstract, geometric pattern and the contrast between the dark, structured elements and the bright blue cat.",6,4,none,1,1,4,2,2,3,4
+abstract_0058,The abstract composition evokes a sense of mystery and intrigue due to its complex pattern and lack of clear form.,4,3,none,1,1,2,1,1,2,3
+abstract_0060,"The image evokes a sense of awe due to its abstract and ethereal quality, suggesting a grand and mysterious atmosphere.",6,4,none,1,1,5,1,2,3,5
+abstract_0061,"The image evokes a sense of awe due to its intricate and vibrant patterns, suggesting a grand and unexpected scale.",6,5,none,1,1,5,4,2,4,5
+abstract_0062,"The image evokes a sense of awe due to its abstract representation of a ship amidst turbulent waves, suggesting grandeur and the power of nature.",6,5,none,2,1,4,1,1,5,4
+abstract_0063,"The image evokes a sense of awe due to its abstract and vibrant colors, suggesting a grand and mysterious atmosphere.",6,4,none,1,1,5,2,1,3,5
+abstract_0066,The vibrant colors and dynamic shapes evoke a sense of excitement and energy.,6,5,none,1,1,5,5,2,5,5
+abstract_0068,"The image evokes a sense of awe due to its abstract and complex composition, suggesting a grand and mysterious scale.",6,4,none,1,1,5,1,2,3,5
+abstract_0069,"The image evokes a sense of awe due to its abstract and mysterious composition, suggesting a deep, possibly otherworldly experience.",4,4,none,1,1,5,1,1,2,4
+abstract_0073,"The image evokes a sense of awe due to the large, imposing rock and the vibrant, layered landscape beneath it.",6,4,none,1,1,5,1,2,3,4
+abstract_0075,The image evokes a sense of calm and contentment due to the serene landscape and solitary figure.,6,2,people_present,1,1,1,1,5,1,5
+abstract_0077,"The image evokes a sense of awe due to the vast number of people climbing a mountain made of letters, symbolizing a monumental achievement.",6,5,prominent_faces,1,1,5,1,1,5,5
+abstract_0078,"The image evokes a sense of awe due to its surreal and imaginative elements, blending urban and fantastical landscapes.",6,4,none,1,1,5,2,2,3,4
+abstract_0080,"The image evokes a sense of awe due to its abstract and vibrant colors, suggesting a grand and mysterious atmosphere.",6,4,none,1,1,5,2,2,3,5
+abstract_0081,"The image evokes a sense of unease due to the stark contrast and splatter effects, suggesting a violent or disturbing theme.",1,5,none,5,5,1,1,1,5,1
+abstract_0085,The vibrant colors and dynamic patterns evoke a sense of excitement and awe.,6,5,none,1,1,5,3,2,5,5
+abstract_0086,"The abstract painting conveys a sense of calm and introspection, with muted colors and a lack of strong emotional cues.",4,2,none,1,1,2,1,3,2,3
+abstract_0087,The image conveys a sense of joy and celebration through vibrant colors and dynamic brushstrokes.,6,4,prominent_faces,1,1,2,4,3,4,4
+abstract_0088,"The image evokes a sense of awe due to its intricate details and vibrant colors, suggesting a grand and beautiful scene.",6,4,none,1,1,5,2,3,3,5
+abstract_0091,"The image evokes a sense of awe due to its abstract and dynamic composition, suggesting a grand and mysterious energy.",6,5,none,1,1,5,1,2,5,5
+abstract_0092,The vibrant colors and dynamic shapes evoke a sense of excitement and wonder.,6,5,none,1,1,5,5,2,5,5
+abstract_0094,"The image evokes a sense of awe due to its vibrant colors, intricate details, and surreal composition.",6,5,prominent_faces,1,1,5,2,1,5,5
+abstract_0097,"The image conveys a sense of awe due to its vast, layered composition and the subtle interplay of light and shadow.",6,4,none,1,1,5,1,2,3,5
+abstract_0098,"The image evokes a sense of awe due to its vibrant colors and intricate patterns, suggesting a grand and unexpected scale.",6,5,none,1,1,5,2,1,5,5
+abstract_0099,The image evokes a sense of calm and contentment due to the serene rainy street scene with people walking leisurely under umbrellas.,6,2,people_present,1,1,1,1,4,2,5
+abstract_0100,"The image evokes a sense of awe due to its abstract, fluid-like appearance and vibrant blue tones.",6,4,none,1,1,5,2,1,4,5
+abstract_0101,"The image evokes a sense of awe due to its abstract and surreal composition, blending human form with natural textures.",6,4,prominent_faces,1,1,5,2,3,3,5
+abstract_0102,"The image evokes a sense of awe due to its abstract and ethereal quality, suggesting a vast and mysterious landscape.",4,3,none,1,1,3,1,2,2,4
+abstract_0104,"The image evokes a sense of awe due to its vibrant colors and the ethereal quality of the figure, suggesting a divine or otherworldly presence.",6,4,prominent_faces,1,1,5,1,2,3,5
+abstract_0105,The image evokes a sense of awe due to its vibrant colors and abstract composition.,6,4,none,1,1,4,2,3,3,4
+abstract_0107,"The image evokes a sense of awe due to its abstract and mysterious composition, with a strong presence of dark and light contrasts.",4,4,none,2,1,4,1,1,3,4
+abstract_0108,The intricate and vibrant depiction of seashells evokes a sense of awe due to its detailed and mesmerizing nature.,6,4,none,1,1,5,2,3,3,5
+abstract_0109,"The image evokes a sense of awe due to its surreal and fantastical elements, such as the floating figure and the dreamlike atmosphere.",6,4,none,1,1,5,2,1,3,4
+abstract_0111,"The image evokes a sense of awe due to its vibrant colors and abstract, cosmic-like composition.",6,4,none,1,1,5,2,3,4,5
+abstract_0112,"The image evokes a sense of awe due to its abstract and layered composition, suggesting a complex and intriguing narrative.",6,4,none,1,2,5,3,2,3,4
+abstract_0114,"The image evokes a sense of awe due to its abstract representation of human figures as trees, suggesting a connection between nature and humanity.",6,4,prominent_faces,1,1,5,1,2,3,4
+abstract_0117,"The abstract painting conveys a sense of mystery and intrigue, suggesting a feeling of awe.",4,4,none,1,1,2,1,2,3,3
+abstract_0118,"The image evokes a sense of awe due to its abstract, geometric pattern and vibrant red hues.",6,4,none,1,1,3,2,3,3,4
+abstract_0119,"The image evokes a sense of contentment due to the serene autumn scene with people walking together under an umbrella, suggesting companionship and calmness.",6,2,people_present,1,1,1,1,5,2,5
+abstract_0120,The image evokes a sense of contentment due to the serene autumnal setting and the peaceful walk of two figures.,6,2,people_present,1,1,3,1,5,2,5
+abstract_0125,"The image evokes a sense of awe due to its vibrant colors and abstract, flowing forms.",6,5,none,1,1,5,2,3,5,5
+abstract_0126,The image evokes a sense of excitement due to its vibrant colors and dynamic brushstrokes.,6,5,none,1,1,2,4,3,5,4
+abstract_0127,"The image evokes a sense of awe due to its intricate and complex patterns, reminiscent of microscopic life forms.",6,4,none,1,2,5,3,2,3,5
+abstract_0128,The image evokes a sense of awe due to its vibrant colors and the serene yet dynamic atmosphere.,6,4,none,1,1,3,2,4,3,5
+abstract_0129,"The image conveys a sense of playfulness and creativity, with vibrant colors and abstract forms suggesting a joyful and energetic mood.",6,4,none,1,1,3,4,2,4,3
+abstract_0131,"The painting evokes a sense of awe due to its dramatic use of color and scale, creating a powerful and emotionally intense atmosphere.",6,5,none,1,1,5,1,2,5,5
+abstract_0134,The image evokes a sense of contentment due to the serene and harmonious composition of the houses and the calm sea.,6,2,none,1,1,1,1,5,1,5
+abstract_0135,The vibrant colors and dynamic shapes evoke a sense of excitement and playfulness.,6,5,none,1,1,5,5,2,5,5
+abstract_0140,"The image evokes a sense of awe due to its abstract and dynamic composition, suggesting a powerful and mysterious force.",6,5,none,2,1,5,1,1,5,4
+abstract_0145,"The painting evokes a sense of calm and contentment due to its warm, golden hues and serene depiction of a sailboat.",6,2,none,1,1,1,1,5,1,5
+abstract_0150,The image conveys a sense of joy and warmth through its vibrant colors and playful figures.,6,4,people_present,1,1,2,5,5,3,4
+abstract_0151,"The image conveys a sense of playfulness and movement, suggesting excitement and joy.",6,5,none,1,1,2,5,1,5,4
+abstract_0152,"The image conveys a sense of mystery and contemplation, with muted colors and soft lighting.",3,2,none,1,1,2,1,2,1,3
+abstract_0153,The painting evokes a sense of awe due to its vibrant colors and abstract forms.,6,4,none,1,1,4,2,3,3,4
+abstract_0155,"The image evokes a sense of awe due to its complex and abstract composition, filled with intricate details and a mysterious atmosphere.",4,4,none,2,2,4,1,1,3,3
+abstract_0157,The abstract composition with flowing lines and contrasting colors evokes a sense of awe due to its complexity and visual intrigue.,6,4,none,1,1,5,2,1,3,4
+abstract_0161,The abstract composition with vibrant colors and dynamic shapes conveys a sense of excitement and energy.,6,5,none,1,1,4,4,2,5,4
+abstract_0164,"The vibrant, swirling patterns evoke a sense of awe and excitement due to their complexity and energy.",6,5,none,1,1,5,3,2,5,5
+abstract_0165,"The swirling, vibrant colors evoke a sense of awe and wonder, suggesting a deep emotional engagement.",6,5,none,1,1,5,2,1,4,5
+abstract_0166,"The image evokes a sense of awe due to its abstract, swirling patterns and vibrant colors.",6,5,none,1,1,5,2,1,5,5
+abstract_0167,"The image evokes a sense of awe due to its minimalist and abstract nature, suggesting vastness and mystery.",4,3,none,1,1,2,1,1,2,3
+abstract_0168,The vibrant colors and abstract style evoke a sense of awe and wonder.,6,4,prominent_faces,1,1,5,2,3,3,5
+abstract_0171,"The abstract painting conveys a sense of mystery and intrigue, suggesting a feeling of awe.",4,4,none,2,1,4,1,2,3,3
+abstract_0173,The image evokes a sense of curiosity and wonder due to its abstract and geometric composition.,4,3,none,1,1,3,2,2,2,3
+abstract_0174,"The image evokes a sense of awe due to its vibrant, abstract patterns and the dynamic interplay of colors.",6,5,none,1,2,5,1,1,5,5
+abstract_0176,"The image evokes a sense of awe due to its abstract and vibrant color palette, suggesting a grand and mysterious atmosphere.",6,4,none,1,1,5,2,3,3,4
+abstract_0182,The vibrant colors and chaotic arrangement evoke a sense of excitement and playfulness.,6,5,none,1,1,5,5,2,5,5
+abstract_0186,"The swirling patterns evoke a sense of awe and wonder, reminiscent of natural phenomena like clouds or water currents.",6,4,none,1,1,5,2,3,3,5
+abstract_0187,The image evokes a sense of contentment due to its vibrant colors and playful arrangement of circles.,6,3,none,1,1,2,5,4,2,5
+abstract_0188,"The image conveys a sense of warmth and coziness with its soft, warm colors and gentle patterns.",6,2,none,1,1,1,1,5,1,4
+abstract_0189,"The image evokes a sense of awe due to its abstract and vibrant composition, with a strong sense of movement and energy.",6,5,none,1,1,5,3,2,5,4
+abstract_0191,"The image evokes a sense of awe due to its abstract, flowing lines and the contrast between light and dark areas.",6,4,none,2,1,4,1,2,3,4
+abstract_0192,"The image evokes a sense of whimsy and playfulness due to the stylized owl wearing a crown and surrounded by abstract, glowing elements.",6,4,none,1,1,4,5,4,2,5
+abstract_0194,"The image evokes a sense of awe due to its fantastical and otherworldly elements, combined with a high level of energy and dynamic movement.",6,5,none,2,1,5,1,1,5,5
+abstract_0195,"The image conveys a sense of awe due to its abstract and complex composition, evoking curiosity and wonder.",6,4,none,1,1,5,2,3,3,4
+abstract_0196,"The image evokes a sense of awe due to the surreal combination of a human figure in a spacesuit holding a bird, set against a vibrant, abstract background.",6,4,prominent_faces,1,1,5,2,3,3,4
+abstract_0199,The painting evokes a sense of awe due to its vibrant colors and abstract forms.,6,5,none,1,1,5,2,1,5,5
+abstract_0200,"The image evokes a sense of awe due to its intricate, flowing lines and vibrant colors, suggesting grandeur and beauty.",6,4,none,1,1,5,2,3,4,5
+abstract_0203,"The image evokes a sense of intense emotion and movement, suggesting excitement or awe.",6,5,none,2,1,3,1,1,5,3
+abstract_0204,"The image evokes a sense of awe due to its abstract and complex texture, suggesting a grand and mysterious quality.",4,4,none,1,2,4,1,2,3,3
+abstract_0205,"The image conveys a sense of playful chaos and energy, suggesting excitement.",6,5,none,1,1,2,5,1,5,2
+abstract_0206,The image conveys a sense of sadness due to the muted colors and the text suggesting an attempt to suppress emotion.,2,2,none,1,1,1,1,1,1,3
+abstract_0207,"The image evokes a sense of contentment due to the warm lighting, reflective wet ground, and solitary figure walking peacefully.",6,2,people_present,1,1,2,1,5,2,5
+abstract_0208,The image evokes a sense of joy and playfulness due to its vibrant colors and whimsical design.,6,4,none,1,1,2,5,3,3,4
+abstract_0210,"The image conveys a sense of awe due to its abstract and complex composition, evoking curiosity and wonder.",6,4,none,1,1,5,2,3,3,4
+abstract_0214,"The image conveys a sense of decay and abandonment, evoking feelings of sadness and melancholy.",2,3,none,1,3,1,1,1,2,2
+abstract_0217,The abstract painting conveys a sense of awe and mystery due to its complex and layered composition.,4,4,none,2,2,4,1,2,3,3
+abstract_0218,"The image conveys a sense of intense emotional turmoil and movement, suggesting a strong negative valence.",1,5,prominent_faces,3,2,2,1,1,5,2
+abstract_0220,The image evokes a sense of awe due to the ethereal and majestic depiction of the angelic figure.,6,5,prominent_faces,1,1,5,1,2,5,5
+abstract_0221,"The swirling, dynamic movement and vibrant colors evoke a sense of awe and excitement.",6,5,none,1,1,5,2,1,5,5
+abstract_0222,"The image conveys a sense of awe due to its abstract and textured appearance, suggesting grandeur and mystery.",4,4,none,1,1,3,1,2,2,3
+abstract_0227,"The image evokes a sense of awe due to its intricate patterns and the presence of a glowing light source, suggesting a mysterious and grand scale.",6,4,none,1,1,5,2,3,3,5
+abstract_0228,"The image evokes a sense of awe due to its abstract and mysterious composition, with a figure seemingly interacting with nature.",4,4,prominent_faces,2,1,4,1,3,3,4
+abstract_0229,"The image evokes a sense of awe due to its abstract and artistic representation of an ear with a heart shape, suggesting a deep emotional connection.",6,4,none,1,1,3,2,3,3,5
+abstract_0231,The image conveys a sense of calm and playfulness with its abstract design and soft color palette.,4,2,none,1,1,3,4,3,2,4
+abstract_0234,The swirling patterns evoke a sense of awe and wonder due to their intricate and dynamic nature.,6,5,none,1,1,5,2,3,5,5
+abstract_0236,"The image evokes a sense of awe due to its vibrant colors and grandeur, suggesting a majestic sunset over a cityscape.",6,5,none,1,1,5,1,5,5,5
+abstract_0237,The image evokes a sense of calm and warmth due to its soft color gradients and lack of any threatening elements.,6,2,none,1,1,1,1,5,1,5
+abstract_0238,"The image evokes a sense of awe due to its vibrant, abstract style and the dynamic movement of the bird.",6,5,none,1,1,5,2,3,5,5
+abstract_0239,The image evokes a sense of awe due to its vibrant colors and abstract nature.,6,4,none,1,1,3,2,3,3,5
+abstract_0240,"The intricate and dark design of the butterfly evokes a sense of mystery and intrigue, suggesting a feeling of awe.",4,4,none,2,1,3,1,1,3,4
+abstract_0242,The image evokes a sense of awe due to its intricate and visually complex composition.,6,4,none,1,1,5,2,3,3,5
+abstract_0248,"The image conveys a sense of awe due to its abstract and vibrant composition, suggesting a grand and mysterious atmosphere.",6,4,none,2,1,4,1,2,3,4
+abstract_0250,"The image evokes a sense of awe due to its abstract and mysterious nature, with a strong presence of dark, organic forms against a bright background.",4,4,none,2,2,4,1,1,3,4
+abstract_0251,"The image evokes a sense of awe due to its intricate and fantastical nature, filled with organic and surreal elements.",6,5,none,2,3,5,2,1,5,5
+abstract_0252,"The image evokes a sense of awe due to its vibrant, abstract composition and the interplay of light and color.",6,4,none,1,1,5,2,3,3,5
+abstract_0253,"The image evokes a sense of awe due to its abstract and surreal composition, filled with vibrant colors and dynamic elements.",6,5,none,1,1,5,3,2,5,5
+abstract_0254,The vibrant colors and abstract shapes evoke a sense of excitement and playfulness.,6,5,none,1,1,5,5,2,5,5
+abstract_0259,"The image evokes a sense of awe due to its abstract and dramatic composition, with a strong contrast between light and shadow.",6,5,none,2,1,4,1,1,4,4
+abstract_0263,The image evokes a sense of calm and contentment due to its soft colors and serene composition.,6,2,none,1,1,2,2,5,1,4
+abstract_0264,"The image evokes a sense of awe due to its abstract, deep blue tones and the mysterious, almost cosmic atmosphere it creates.",4,4,none,1,1,5,1,1,2,4
+abstract_0265,"The swirling, ethereal light evokes a sense of wonder and awe.",6,4,none,1,1,5,2,1,3,5
+abstract_0266,"The image evokes a sense of awe due to its intricate and abstract design, suggesting a grand and mysterious quality.",6,4,none,1,1,5,2,3,3,5
+abstract_0267,"The image evokes a sense of awe due to its vibrant colors and abstract forms, suggesting a grand and unexpected scale.",6,5,none,1,1,5,2,3,4,5
+abstract_0268,"The image evokes a sense of fear due to its dark, ominous atmosphere and the presence of what appears to be a damaged structure.",1,5,none,5,2,1,1,1,1,1
+abstract_0270,"The swirling red and purple hues evoke a sense of intense energy and movement, suggesting excitement.",6,5,none,1,1,2,1,1,5,4
+abstract_0271,The swirling green pattern evokes a sense of awe due to its mesmerizing and dynamic nature.,6,5,none,1,1,5,2,1,5,5
+abstract_0272,"The image evokes a sense of awe due to the vast, textured surface resembling ice or rock, with a deep crack suggesting grandeur and mystery.",4,4,none,2,1,4,1,1,3,3
+abstract_0273,"The image evokes a sense of awe due to its abstract and ethereal quality, suggesting a profound connection between the figures.",6,4,prominent_faces,1,1,5,2,3,3,5
+abstract_0274,"The image evokes a sense of awe due to its intricate and dynamic patterns, suggesting a grand and mysterious quality.",6,5,none,2,3,5,1,1,5,5
+abstract_0276,"The image evokes a sense of awe due to its abstract and ethereal quality, with a mix of vibrant colors and organic forms.",6,4,none,1,1,5,2,3,3,5
+abstract_0278,"The image evokes a sense of nostalgia and melancholy due to the muted colors and the old, weathered appearance of the fence.",2,2,none,1,1,1,1,2,1,2
+abstract_0280,"The image evokes a sense of disgust due to the dark, blood-like substance dripping down a surface.",1,2,none,5,5,1,1,1,1,1
+abstract_0283,The image evokes a sense of awe due to its abstract composition and the stark contrast between the red and black elements against the monochromatic background.,6,4,none,1,1,3,1,2,3,4
+abstract_0006,The vibrant colors and lively street scene evoke a sense of excitement and joy.,6,5,people_present,1,1,2,5,3,5,5
+abstract_0008,"The image evokes a sense of awe due to its vibrant, abstract composition and the dynamic interplay of colors.",6,4,none,1,1,5,2,3,4,5
+abstract_0023,The image evokes a sense of awe due to its grand scale and the upward trajectory of figures towards the sky.,6,5,prominent_faces,1,1,5,1,2,5,5
+abstract_0028,The image evokes a sense of awe due to its intricate and otherworldly design.,6,4,none,2,1,5,1,3,3,5
+abstract_0031,"The image evokes a sense of awe due to its abstract and dynamic composition, suggesting a grand and mysterious energy.",6,5,none,2,1,5,1,1,5,5
+abstract_0033,The image evokes a sense of awe due to its vibrant colors and dynamic brushstrokes.,6,5,none,1,1,5,1,3,5,5
+abstract_0034,The image evokes a sense of awe due to its vibrant colors and intricate patterns.,6,5,none,1,1,5,5,4,5,5
+abstract_0038,"The image evokes a sense of awe due to its abstract, flowing patterns and vibrant colors.",6,4,none,1,1,5,2,3,3,5
+abstract_0042,"The abstract painting conveys a sense of mystery and contemplation, evoking a feeling of awe due to its complex and layered composition.",4,3,none,1,1,2,1,2,2,3
+abstract_0044,The vibrant colors and abstract forms evoke a sense of awe and excitement.,6,5,none,1,1,5,3,2,5,5
+abstract_0047,"The image evokes a sense of awe due to its vibrant colors and abstract forms, suggesting a grand and unexpected scale.",6,4,none,1,1,5,2,3,3,4
+abstract_0064,The image conveys a sense of awe and excitement due to its vibrant colors and dynamic composition.,6,5,none,1,1,5,3,2,5,4
+abstract_0065,"The image evokes a sense of awe due to its abstract and complex composition, with a mix of dark and light elements creating a dramatic effect.",6,5,none,2,3,4,1,1,4,4
+abstract_0070,The image evokes a sense of contentment due to the serene autumnal setting and the solitary figure walking peacefully.,6,2,people_present,1,1,1,1,5,1,5
+abstract_0079,"The image evokes a sense of awe due to its intricate patterns and vibrant colors, suggesting a grand and beautiful experience.",6,4,none,1,1,5,2,3,3,5
+abstract_0084,The image evokes a sense of awe due to its vibrant colors and dynamic composition.,6,5,none,1,1,5,2,3,5,5
+abstract_0090,The image evokes a sense of awe due to its vibrant geometric patterns and the contrast between the abstract foreground and the human figures in the background.,6,4,people_present,1,1,5,2,3,3,4
+abstract_0095,"The image evokes a sense of awe due to its abstract composition and the presence of a red bird soaring above a group of people, suggesting a grand and inspiring moment.",6,4,prominent_faces,1,1,5,2,3,3,4
+abstract_0106,"The image evokes a sense of awe due to its abstract, ethereal quality and the presence of what appears to be falling snowflakes against a vibrant, dynamic background.",6,4,none,1,1,5,2,3,3,5
+abstract_0110,"The image evokes a sense of disgust due to its dark, organic, and somewhat unsettling appearance.",1,2,none,3,5,1,1,1,1,1
+abstract_0116,"The image evokes a sense of awe due to its abstract and ethereal quality, with a warm color palette and a mysterious central figure.",6,4,none,1,1,3,2,4,2,4
+abstract_0124,The vibrant colors and dynamic brushstrokes evoke a sense of excitement and energy.,6,5,none,1,1,5,2,1,5,5
+abstract_0130,"The image evokes a sense of awe due to its abstract, deep blue tones and intricate patterns that suggest a mysterious, otherworldly environment.",6,4,none,2,1,5,1,1,3,5
+abstract_0133,The image evokes a sense of calm and contemplation due to its abstract and serene color palette.,4,2,none,1,1,2,1,4,2,4
+abstract_0138,"The vibrant colors and whimsical, abstract design evoke a sense of playfulness and joy.",6,4,none,1,1,5,5,2,4,5
+abstract_0142,The image evokes a sense of awe due to its vibrant colors and abstract composition.,6,4,none,1,1,3,2,3,3,4
+abstract_0143,"The image conveys a sense of intense emotional turmoil and distress, with chaotic markings and text suggesting deep personal conflict.",1,5,none,3,2,1,1,1,5,1
+abstract_0144,The image evokes a sense of contentment due to the serene landscape and the intimate moment between two people.,6,2,prominent_faces,1,1,2,1,5,2,4
+abstract_0147,The image evokes a sense of awe due to its intricate floral patterns and the ethereal quality of the figure.,6,4,prominent_faces,1,1,5,2,3,3,5
+abstract_0148,The image evokes a sense of awe due to its vibrant colors and grand architectural structure.,6,4,people_present,1,1,4,1,2,3,5
+abstract_0149,The image evokes a sense of awe due to its abstract and grandiose composition with vibrant yellow tones and layered textures.,6,4,none,1,1,5,2,3,3,4
+abstract_0154,The vibrant colors and abstract patterns evoke a sense of excitement and playfulness.,6,5,none,1,1,5,5,2,5,5
+abstract_0158,The image evokes a sense of awe due to its abstract and dramatic color palette and composition.,6,5,none,2,1,4,1,1,4,4
+abstract_0159,"The image evokes a sense of awe due to its vibrant colors and abstract forms, suggesting a grand and mysterious atmosphere.",6,5,none,2,1,5,1,2,5,5
+abstract_0160,"The swirling patterns evoke a sense of dynamic movement and energy, suggesting excitement.",6,5,none,1,1,2,1,1,5,4
+abstract_0162,"The image evokes a sense of awe due to its intricate and fantastical design, with swirling patterns and vibrant colors.",6,4,none,1,1,5,2,1,3,5
+abstract_0170,The image evokes a sense of intense fear due to the chaotic and dark red splatters that resemble blood.,1,5,none,5,5,1,1,1,5,1
+abstract_0178,"The image conveys a sense of calm and introspection, with muted colors and abstract forms.",4,2,none,1,1,2,1,3,2,4
+abstract_0180,The image evokes a sense of awe due to its grand architectural scale and intricate design.,6,4,none,1,1,5,1,2,3,4
+abstract_0181,"The vibrant, chaotic colors and energetic brushstrokes evoke a sense of excitement and dynamism.",6,5,none,1,1,2,3,1,5,3
+abstract_0183,"The image evokes a sense of fear due to the dark, textured background and the ominous red 'X' symbol.",1,5,none,5,1,1,1,1,2,1
+abstract_0184,"The image evokes a sense of awe due to its vibrant, abstract colors and dynamic composition.",6,5,none,1,1,5,1,1,5,5
+abstract_0190,The vibrant colors and abstract shapes evoke a sense of excitement and playfulness.,6,5,none,1,1,5,5,2,5,5
+abstract_0193,"The image evokes fear due to the presence of masked figures and a skeletal figure, creating a sense of threat and unease.",1,5,prominent_faces,5,5,1,1,1,5,1
+abstract_0197,"The painting evokes a sense of calm and warmth, suggesting contentment.",6,2,none,1,1,1,1,5,1,5
+abstract_0202,"The image conveys a sense of calm and contemplation with its soft, muted colors and abstract composition.",4,2,none,1,1,2,1,3,2,4
+abstract_0209,"The vibrant, abstract colors evoke a sense of excitement and energy.",6,5,none,1,1,2,4,1,5,4
+abstract_0212,"The image evokes a sense of awe due to its vibrant, abstract composition and the ethereal quality of the light and colors.",6,4,none,1,1,5,2,2,3,5
+abstract_0215,"The image conveys intense emotion and movement, suggesting excitement or awe.",6,5,none,2,1,3,1,1,5,4
+abstract_0216,The image evokes a sense of disgust due to its grotesque and unsettling depiction of what appears to be a human body part.,1,5,none,5,5,1,1,1,5,1
+abstract_0219,"The image evokes a sense of awe due to its intricate and detailed patterns, which create a mesmerizing effect.",6,4,prominent_faces,1,1,5,2,3,3,5
+abstract_0225,"The image evokes a sense of awe due to its abstract and ethereal quality, suggesting a profound connection to nature.",6,4,prominent_faces,1,1,5,1,2,2,5
+abstract_0226,"The abstract composition conveys a sense of unease and tension, suggesting fear or anxiety.",1,5,none,5,1,1,1,1,5,2
+abstract_0232,"The image evokes a sense of awe due to its vibrant colors and intricate design, suggesting a grand and beautiful experience.",6,4,none,1,1,5,2,4,3,5
+abstract_0243,The image evokes a sense of awe due to its intricate texture and the central brush stroke resembling a radiant light.,6,4,none,1,1,4,1,2,3,3
+abstract_0245,"The image evokes a sense of awe due to its vibrant colors and abstract, otherworldly elements.",6,5,none,2,1,5,1,1,5,5
+abstract_0246,"The image evokes a sense of awe due to its intricate and vibrant design, suggesting a grand and mysterious quality.",6,4,none,2,1,5,2,3,3,5
+abstract_0247,The painting evokes a sense of contemplation and introspection due to the abstract nature and muted colors.,4,2,none,1,1,2,1,3,1,4
+abstract_0249,The vibrant colors and abstract patterns evoke a sense of awe and excitement.,6,5,none,1,1,5,5,1,5,5
+abstract_0256,The image evokes a sense of awe due to its vibrant colors and serene yet dynamic composition.,6,4,none,1,1,4,2,4,3,5
+abstract_0257,The swirling colors and dynamic movement evoke a sense of awe and excitement.,6,5,none,1,1,5,2,1,5,5
+abstract_0258,"The image evokes a sense of awe due to its abstract and complex composition, suggesting a grand and mysterious atmosphere.",4,4,none,2,1,4,1,1,3,4
+abstract_0261,"The painting conveys a sense of calm and introspection, with muted colors and abstract forms suggesting a quiet contemplation.",4,2,none,1,1,2,1,3,2,4
+abstract_0262,The image evokes a sense of calm and contemplation due to its muted colors and serene urban landscape.,4,2,none,1,1,1,1,2,1,3
+abstract_0269,The image evokes a sense of disgust due to its grotesque and unsettling portrayal of human anatomy.,1,5,none,5,5,1,1,1,1,1
+abstract_0275,"The image evokes a sense of awe due to its vast and mysterious landscape, suggesting grandeur and wonder.",6,4,none,1,1,5,1,2,3,4
+abstract_0277,"The image evokes a sense of awe due to its ethereal and dreamlike quality, with a figure seemingly reaching towards the sky under a luminous moon.",6,4,none,1,1,5,1,2,3,5
+abstract_0281,The image evokes a sense of awe due to its striking contrast and the unexpected pattern of green stones against a vibrant red background.,6,4,none,1,1,5,2,3,3,4
+abstract_0282,The image evokes a sense of awe due to its vibrant colors and abstract composition.,6,4,none,1,1,5,2,3,3,5
