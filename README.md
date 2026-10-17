@@ -60,7 +60,7 @@ for v in claude qwen gemma qwen35; do REPS=30 PROBE=linear python analysis.py $v
 for v in claude qwen; do REPS=10 PROBE=mlp python analysis.py $v; done
 # new datasets: ArtPhoto, Abstract, MemCat (Sections 5.2-5.5)
 for v in qwen gemma qwen35; do MEMCAT_CSV=/path/to/memcat_image_data.csv VLMS=qwen,gemma,qwen35 REPS=30 python analysis_new.py $v; done
-python check_predictions.py         # verdict on the first pre-registered predictions, P1-P4 (Table 5)
+python check_predictions.py         # verdict on the predictions fixed in advance for the new datasets, P1-P4 (Table 5)
 python make_assets.py               # tables/tab_{direct,added,vsclip,subst,equal,prereg}.tex, their JSON sources, figures/
 python check_predictions_qwen35.py  # verdict on Q1-Q5 for Qwen3.5-4B (Table 6); needs tables/zero_shot.json from make_assets.py
 python check_qwen35_records.py      # Qwen3.5-4B record checks of Supplementary S6 and S7 (results/qwen35_record_checks.json)
@@ -153,7 +153,7 @@ python encoder_distill.py; python make_encoder_table.py      # tables/tab_encode
   test image, and PCA-pool images that match a training or test image.
 - The MLP probe (10 subsets) and the carried-over encoder, schema and fixed-regularizer analyses (8 subsets,
   1,000 resamples, uncorrected intervals; `analysis_v1.py`) cover EmoSet and LaMem with Claude and Qwen2.5 and are
-  not in the Holm family. The two pre-registered verdicts use the Holm families fixed in advance
+  not in the Holm family. The two verdicts on predictions fixed in advance use the Holm families fixed with them
   (`check_predictions.py`; `check_predictions_qwen35.py`, Qwen3.5-4B's 68 hybrid minus CLIP-PCA*k* and attributes
   minus CLIP-PCA*k* contrasts).
 - Budgets n ∈ {20, 40, 80, 160, 320, 640, 1280} below the pool size, plus the full pool; 30 training
@@ -175,7 +175,7 @@ python encoder_distill.py; python make_encoder_table.py      # tables/tab_encode
 ├── analysis_new.py            ArtPhoto, Abstract and MemCat
 ├── multitest.py               Holm and Benjamini-Hochberg over result files
 ├── prompt_check.py            agreement and results under the reworded emotion prompts
-├── check_predictions.py       verdict on the first pre-registered predictions (P1-P4)
+├── check_predictions.py       verdict on the predictions fixed in advance for the new datasets (P1-P4)
 ├── check_predictions_qwen35.py   verdict on the Qwen3.5-4B predictions (Q1-Q5), Table 6
 ├── check_qwen35_records.py    Qwen3.5-4B record checks (test run, fresh-process relabelling, the invalid rating)
 ├── checks/                    test-run records, relabel_check.py and its output (as run), the excluded rating
@@ -212,7 +212,7 @@ Result: the attributes agree across wordings (Spearman 0.86 to 0.93 per attribut
 Cohen's κ = 0.83, and the gain from appending the attributes to CLIP-PCA*k* is unchanged (+8.2 vs +8.3 points at
 20 labels; the 95% interval excludes zero at every budget under both wordings).
 
-`PREREGISTRATION_new_datasets.md` is reproduced unchanged (SHA-256 `872f3467...`). The script it names,
+`PREREGISTRATION_new_datasets.md` is reproduced unchanged (SHA-256 `872f3467...`). It was written on 11 October 2026 but not deposited publicly at the time; it was first published with the code, so its date rests on the document itself. `PREREGISTRATION_qwen35.md` is the publicly timestamped one (commit `514b884`). The script it names,
 `analysis_rev.py`, is released here as `analysis.py`; the 96-test basis it cites is
 `results/multitest_claude_linear_r30_qwen_linear_r30.json` (written by `multitest.py` before Gemma's EmoSet and LaMem
 labels existed, so its rows differ slightly from the final result files).

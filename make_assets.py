@@ -5,7 +5,7 @@ Tables and figures for the revised manuscript, all computed from results/*.json 
   tab_vsclip.tex   hybrid - full CLIP
   tab_subst.tex    attrs - CLIP-PCAk (substitute test)
   tab_equal.tex    hybrid - CLIP-PCA2k (equal-size test; supplementary)
-  tab_prereg.tex   verdict on the four pre-registered predictions
+  tab_prereg.tex   verdict on the four predictions fixed in advance for the new datasets
   fig_curves.png   learning curves, five datasets
   fig_rule.png     gain at 20 labels against zero-shot agreement, every dataset x VLM cell (17 with Qwen3.5-4B)
 Significance marks: Holm over every contrast in the four tables x dataset x VLM x budget (linear probe, 30 subsets);
