@@ -14,7 +14,7 @@ PCA is fitted on CLIP embeddings of a disjoint pool whose labels are never used
 
 REPS training subsets per budget (default 30), PROBE=linear|mlp, two-sided
 bootstrap p-values for every contrast (for Holm / Benjamini-Hochberg correction in multitest.py).
-Usage: REPS=30 PROBE=linear python analysis.py claude|qwen|gemma [emoset] [lamem] -> results/rev_<vlm>_<probe>_r<reps>.json
+Usage: REPS=30 PROBE=linear python analysis.py claude|qwen|gemma|qwen35 [emoset] [lamem] -> results/rev_<vlm>_<probe>_r<reps>.json
 """
 import csv, json, sys, warnings
 import numpy as np
@@ -45,8 +45,8 @@ def _done(task, pfx="qwen_"):
 
 # Evaluate each task on the images that EVERY available VLM labelled completely, so both VLMs see
 # identical sets once the second VLM's labels for that task exist.
-# Revision: every VLM whose labels for a task are complete (Claude, Qwen, Gemma) defines the common id set.
-VLMS_FOR_IDS = {t: [""] + [p for p in ("qwen_", "gemma_") if _done(t, p)] for t in ("emoset", "lamem")}
+# Revision: every VLM whose labels for a task are complete (Claude, Qwen2.5, Gemma, Qwen3.5) defines the common id set.
+VLMS_FOR_IDS = {t: [""] + [p for p in ("qwen_", "gemma_", "qwen35_") if _done(t, p)] for t in ("emoset", "lamem")}
 SEED, NBOOT = 0, 2000
 REPS = int(os.environ.get("REPS", 30))
 # Prompt-robustness check: VARIANT="_p2" reads <vlm>_<job>_p2_labels (reworded prompts); IDS_VARIANT="_p2" restricts

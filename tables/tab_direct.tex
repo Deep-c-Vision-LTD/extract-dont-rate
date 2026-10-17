@@ -2,16 +2,16 @@
 \centering
 \caption{Zero-shot direct rating against human labels on each test set: accuracy and Cohen's $\kappa$ for the eight-way emotion datasets (chance accuracy 12.5\% on balanced EmoSet), Spearman $\rho$ for the memorability datasets. Claude was run on EmoSet and LaMem only.}
 \label{tab:direct}
-\footnotesize
-\begin{tabular}{@{}lccc@{}}
+\footnotesize\setlength{\tabcolsep}{4pt}
+\begin{tabular}{@{}lcccc@{}}
 \toprule
-Dataset & Claude Sonnet 4.6 & Qwen2.5-VL-7B & Gemma-3-4B \\
+Dataset & Claude Sonnet 4.6 & Qwen2.5-VL-7B & Gemma-3-4B & Qwen3.5-4B \\
 \midrule
-EmoSet & 58.5\% ($\kappa = 0.53$) & 46.4\% ($\kappa = 0.39$) & 56.0\% ($\kappa = 0.50$) \\
-ArtPhoto & -- & 40.7\% ($\kappa = 0.32$) & 44.8\% ($\kappa = 0.36$) \\
-Abstract & -- & 27.5\% ($\kappa = 0.19$) & 40.6\% ($\kappa = 0.30$) \\
-LaMem & $\rho = 0.243$ & $\rho = 0.101$ & $\rho = 0.085$ \\
-MemCat & -- & $\rho = 0.004$ & $\rho = -0.029$ \\
+EmoSet & 58.5\% ($\kappa = 0.53$) & 46.4\% ($\kappa = 0.39$) & 56.0\% ($\kappa = 0.50$) & 56.1\% ($\kappa = 0.50$) \\
+ArtPhoto & -- & 40.7\% ($\kappa = 0.32$) & 44.8\% ($\kappa = 0.36$) & 40.7\% ($\kappa = 0.32$) \\
+Abstract & -- & 27.5\% ($\kappa = 0.19$) & 40.6\% ($\kappa = 0.30$) & 40.6\% ($\kappa = 0.32$) \\
+LaMem & $\rho = 0.243$ & $\rho = 0.101$ & $\rho = 0.085$ & $\rho = 0.177$ \\
+MemCat & -- & $\rho = 0.004$ & $\rho = -0.029$ & $\rho = 0.143$ \\
 \bottomrule
 \end{tabular}
 \end{table}

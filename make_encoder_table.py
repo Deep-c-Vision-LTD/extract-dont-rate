@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 HERE = Path(__file__).resolve().parent
 ENC = [("clip", "CLIP L/14"), ("siglipl", "SigLIP-L"), ("dinov2l", "DINOv2-L")]
-VLM = [("claude", "Claude"), ("qwen", "Qwen")]
+VLM = [("claude", "Claude"), ("qwen", "Qwen2.5")]
 TASK = [("emoset", "EmoSet"), ("lamem", "LaMem")]
 dist = json.load(open(HERE / "results" / "encoder_distill_results.json"))
 

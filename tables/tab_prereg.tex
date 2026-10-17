@@ -3,13 +3,13 @@
 \caption{Predictions fixed before any VLM label, CLIP feature or result existed for ArtPhoto, Abstract and MemCat, and their outcome (Qwen2.5-VL-7B and Gemma-3-4B; Holm correction over the pre-specified family of hybrid$-$CLIP-PCA$2k$, attributes$-$CLIP-PCA$k$ and hybrid$-$CLIP contrasts).}
 \label{tab:prereg}
 \small
-\begin{tabular}{@{}p{0.05\linewidth}p{0.35\linewidth}p{0.13\linewidth}p{0.37\linewidth}@{}}
+\begin{tabular}{@{}>{\raggedright\arraybackslash}p{0.05\linewidth}>{\raggedright\arraybackslash}p{0.35\linewidth}>{\raggedright\arraybackslash}p{0.13\linewidth}>{\raggedright\arraybackslash}p{0.37\linewidth}@{}}
 \toprule
 & Prediction & Outcome & Detail \\
 \midrule
-P1 & hybrid $>$ CLIP-PCA$2k$ at 20 and 40 labels, every dataset and VLM & Not confirmed & holds on MemCat for both VLMs; fails for ArtPhoto: Qwen at 20; Abstract: Qwen at 20 and 40, Gemma at 20 and 40 labels (gains positive but not Holm-significant) \\
+P1 & hybrid $>$ CLIP-PCA$2k$ at 20 and 40 labels, every dataset and VLM & Not confirmed & holds on MemCat for both VLMs; fails for ArtPhoto: Qwen2.5 at 20; Abstract: Qwen2.5 at 20 and 40, Gemma at 20 and 40 labels (gains positive but not Holm-significant) \\
 P2 & hybrid's advantage over full CLIP shrinks with labels; not significant on MemCat at the full pool & Confirmed & on every dataset and VLM \\
-P3 & the VLM with the higher zero-shot score gains more at 20 labels & Confirmed & ArtPhoto: Qwen $+0.054$, Gemma $+0.073$; Abstract: Qwen $+0.062$, Gemma $+0.063$; MemCat: Qwen $+0.124$, Gemma $+0.112$; every margin is small relative to its 95\% interval \\
+P3 & the VLM with the higher zero-shot score gains more at 20 labels & Confirmed & ArtPhoto: Qwen2.5 $+5.5$, Gemma $+7.3$ points; Abstract: Qwen2.5 $+6.2$, Gemma $+6.3$ points; MemCat: Qwen2.5 $+0.124$, Gemma $+0.112$ in $\rho$; every margin is small relative to its 95\% interval \\
 P4 & attributes alone do not beat CLIP-PCA$k$ at 160 labels or more & Confirmed & no Holm-significant exception \\
 \bottomrule
 \end{tabular}

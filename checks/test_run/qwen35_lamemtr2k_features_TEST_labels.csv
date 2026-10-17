@@ -1,0 +1,4 @@
+id,reasoning,has_people,focal_subject_clarity_5,distinctiveness_5,visual_complexity_5,color_vividness_5,is_indoor_scene,text_amount_5,emotional_charge_5
+00000016,"The image features two expressive faces in a candid outdoor setting, creating a strong emotional connection and distinctiveness that enhances memorability.",prominent_faces,4,4,3,1,outdoor,1,4
+00000055,"The dramatic, high-contrast sunset with rich colors and dynamic clouds creates a striking, memorable scene.",none,4,4,4,5,outdoor,1,4
+00000108,"The high-contrast silhouette of a lone figure against a massive arched window creates a striking, emotionally resonant focal point that drives memorability.",people_present,4,4,3,1,indoor,1,3

@@ -1,6 +1,6 @@
 \begin{table}[t]
 \centering
-\caption{Adding VLM attributes to the same compressed encoder: hybrid minus CLIP-PCA$k$. Emotion datasets in accuracy points, memorability datasets in Spearman $\rho$; mean of 30 training subsets per budget (one fit at the full pool: EmoSet 1,917, ArtPhoto 548, Abstract 160, LaMem 1,997, MemCat 1,975 images; budgets not smaller than the pool appear only under Full). $^{\dagger}$significant under Holm correction over all 336 contrasts of Tables~\ref{tab:added}--\ref{tab:subst} and \ref{tab:equal}, which include the 640- and 1,280-label budgets not shown; $^{*}$significant under Benjamini--Hochberg only.}
+\caption{Adding VLM attributes to the same compressed encoder: hybrid minus CLIP-PCA$k$. Emotion datasets in accuracy points, memorability datasets in Spearman $\rho$; mean of 30 training subsets per budget (one fit at the full pool: EmoSet 1,917, ArtPhoto 548, Abstract 160, LaMem 1,997, MemCat 1,975 images; budgets not smaller than the pool appear only under Full). $^{\dagger}$significant under Holm correction over all 472 contrasts of Tables~\ref{tab:added}--\ref{tab:subst} and \ref{tab:equal}, which include the 640- and 1,280-label budgets not shown; $^{*}$significant under Benjamini-Hochberg only.}
 \label{tab:added}
 \footnotesize
 \setlength{\tabcolsep}{4pt}
@@ -9,21 +9,26 @@
 Dataset & VLM & 20 & 40 & 80 & 160 & 320 & Full \\
 \midrule
 EmoSet (pts) & Claude & $+14.0$$^{\dagger}$ & $+10.7$$^{\dagger}$ & $+7.8$$^{\dagger}$ & $+6.2$$^{\dagger}$ & $+5.8$$^{\dagger}$ & $+6.2$$^{\dagger}$ \\
- & Qwen & $+5.9$$^{\dagger}$ & $+3.2$$^{*}$ & $+3.0$$^{\dagger}$ & $+2.1$$^{*}$ & $+2.3$$^{*}$ & $+3.7$$^{\dagger}$ \\
+ & Qwen2.5 & $+5.9$$^{\dagger}$ & $+3.2$$^{*}$ & $+3.0$$^{\dagger}$ & $+2.1$$^{*}$ & $+2.3$$^{*}$ & $+3.7$$^{\dagger}$ \\
  & Gemma & $+8.2$$^{\dagger}$ & $+5.2$$^{\dagger}$ & $+4.2$$^{\dagger}$ & $+3.0$$^{\dagger}$ & $+2.4$$^{*}$ & $+2.8$$^{*}$ \\
+ & Qwen3.5 & $+11.0$$^{\dagger}$ & $+8.1$$^{\dagger}$ & $+6.8$$^{\dagger}$ & $+4.5$$^{\dagger}$ & $+3.9$$^{\dagger}$ & $+4.2$$^{\dagger}$ \\
 \addlinespace
-ArtPhoto (pts) & Qwen & $+6.5$$^{\dagger}$ & $+6.8$$^{\dagger}$ & $+6.2$$^{*}$ & $+7.3$$^{*}$ & $+6.9$$^{*}$ & $+4.9$ \\
+ArtPhoto (pts) & Qwen2.5 & $+6.5$$^{\dagger}$ & $+6.8$$^{\dagger}$ & $+6.2$$^{*}$ & $+7.3$$^{*}$ & $+6.9$$^{*}$ & $+4.9$ \\
  & Gemma & $+8.4$$^{\dagger}$ & $+7.1$$^{\dagger}$ & $+7.4$$^{\dagger}$ & $+7.9$$^{\dagger}$ & $+8.4$$^{*}$ & $+9.4$$^{*}$ \\
+ & Qwen3.5 & $+8.8$$^{\dagger}$ & $+8.1$$^{\dagger}$ & $+8.7$$^{\dagger}$ & $+9.8$$^{\dagger}$ & $+10.4$$^{\dagger}$ & $+10.3$$^{*}$ \\
 \addlinespace
-Abstract (pts) & Qwen & $+4.2$$^{*}$ & $+5.8$$^{*}$ & $+5.2$ & -- & -- & $-4.3$ \\
+Abstract (pts) & Qwen2.5 & $+4.2$$^{*}$ & $+5.8$$^{*}$ & $+5.2$ & -- & -- & $-4.3$ \\
  & Gemma & $+4.3$ & $+7.0$$^{*}$ & $+4.5$ & -- & -- & $-7.4$ \\
+ & Qwen3.5 & $+5.3$ & $+6.3$ & $+4.8$ & -- & -- & $-4.5$ \\
 \addlinespace
 LaMem ($\rho$) & Claude & $-0.004$ & $+0.019$$^{*}$ & $+0.010$ & $+0.013$ & $+0.020$$^{*}$ & $+0.030$$^{\dagger}$ \\
- & Qwen & $-0.061$$^{*}$ & $-0.014$ & $-0.005$ & $+0.004$ & $+0.009$ & $+0.019$$^{*}$ \\
- & Gemma & $-0.069$$^{*}$ & $-0.032$$^{*}$ & $-0.021$$^{*}$ & $-0.010$ & $-0.004$ & $+0.009$$^{*}$ \\
+ & Qwen2.5 & $-0.061$$^{*}$ & $-0.014$ & $-0.005$ & $+0.004$ & $+0.009$ & $+0.019$$^{*}$ \\
+ & Gemma & $-0.069$$^{*}$ & $-0.032$$^{*}$ & $-0.021$$^{*}$ & $-0.010$ & $-0.004$ & $+0.009$ \\
+ & Qwen3.5 & $-0.078$$^{*}$ & $-0.007$ & $-0.006$ & $+0.001$ & $+0.007$ & $+0.016$$^{*}$ \\
 \addlinespace
-MemCat ($\rho$) & Qwen & $+0.013$ & $-0.003$ & $-0.002$ & $+0.004$ & $+0.009$ & $+0.016$$^{*}$ \\
+MemCat ($\rho$) & Qwen2.5 & $+0.013$ & $-0.003$ & $-0.002$ & $+0.004$ & $+0.009$ & $+0.016$$^{*}$ \\
  & Gemma & $+0.002$ & $-0.003$ & $-0.010$ & $-0.002$ & $+0.004$ & $+0.013$$^{*}$ \\
+ & Qwen3.5 & $-0.019$ & $-0.007$ & $-0.010$ & $-0.004$ & $+0.001$ & $+0.006$ \\
 \bottomrule
 \end{tabular}
 \end{table}

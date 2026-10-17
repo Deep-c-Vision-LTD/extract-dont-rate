@@ -1,6 +1,6 @@
 \begin{table}[t]
 \centering
-\caption{Substitute test: VLM attributes alone minus the dimension-matched CLIP-PCA$k$. Emotion datasets in accuracy points, memorability datasets in Spearman $\rho$; mean of 30 training subsets per budget (one fit at the full pool: EmoSet 1,917, ArtPhoto 548, Abstract 160, LaMem 1,997, MemCat 1,975 images; budgets not smaller than the pool appear only under Full). $^{\dagger}$significant under Holm correction over all 336 contrasts of Tables~\ref{tab:added}--\ref{tab:subst} and \ref{tab:equal}, which include the 640- and 1,280-label budgets not shown; $^{*}$significant under Benjamini--Hochberg only.}
+\caption{Substitute test: VLM attributes alone minus the dimension-matched CLIP-PCA$k$. Emotion datasets in accuracy points, memorability datasets in Spearman $\rho$; mean of 30 training subsets per budget (one fit at the full pool: EmoSet 1,917, ArtPhoto 548, Abstract 160, LaMem 1,997, MemCat 1,975 images; budgets not smaller than the pool appear only under Full). $^{\dagger}$significant under Holm correction over all 472 contrasts of Tables~\ref{tab:added}--\ref{tab:subst} and \ref{tab:equal}, which include the 640- and 1,280-label budgets not shown; $^{*}$significant under Benjamini-Hochberg only.}
 \label{tab:subst}
 \footnotesize
 \setlength{\tabcolsep}{4pt}
@@ -8,22 +8,27 @@
 \toprule
 Dataset & VLM & 20 & 40 & 80 & 160 & 320 & Full \\
 \midrule
-EmoSet (pts) & Claude & $+11.7$$^{\dagger}$ & $+5.4$$^{\dagger}$ & $+2.4$$^{*}$ & $-0.4$ & $-1.9$ & $-2.9$$^{*}$ \\
- & Qwen & $+1.0$ & $-5.9$$^{\dagger}$ & $-7.2$$^{\dagger}$ & $-9.9$$^{\dagger}$ & $-10.7$$^{\dagger}$ & $-10.9$$^{\dagger}$ \\
+EmoSet (pts) & Claude & $+11.7$$^{\dagger}$ & $+5.4$$^{\dagger}$ & $+2.4$ & $-0.4$ & $-1.9$ & $-2.9$$^{*}$ \\
+ & Qwen2.5 & $+1.0$ & $-5.9$$^{\dagger}$ & $-7.2$$^{\dagger}$ & $-9.9$$^{\dagger}$ & $-10.7$$^{\dagger}$ & $-10.9$$^{\dagger}$ \\
  & Gemma & $+1.5$ & $-3.7$$^{*}$ & $-5.2$$^{\dagger}$ & $-7.2$$^{\dagger}$ & $-7.6$$^{\dagger}$ & $-6.9$$^{\dagger}$ \\
+ & Qwen3.5 & $+8.5$$^{\dagger}$ & $+2.0$ & $-0.4$ & $-2.8$$^{*}$ & $-3.5$$^{*}$ & $-4.0$$^{*}$ \\
 \addlinespace
-ArtPhoto (pts) & Qwen & $+5.8$$^{*}$ & $+6.1$$^{*}$ & $+4.7$ & $+5.3$ & $+4.7$ & $+4.9$ \\
+ArtPhoto (pts) & Qwen2.5 & $+5.8$$^{*}$ & $+6.1$$^{*}$ & $+4.7$ & $+5.3$ & $+4.7$ & $+4.9$ \\
  & Gemma & $+8.9$$^{\dagger}$ & $+7.5$$^{*}$ & $+7.4$$^{*}$ & $+6.7$$^{*}$ & $+6.1$ & $+6.2$ \\
+ & Qwen3.5 & $+9.4$$^{\dagger}$ & $+7.8$$^{\dagger}$ & $+7.8$$^{*}$ & $+7.0$$^{*}$ & $+8.6$$^{*}$ & $+6.2$ \\
 \addlinespace
-Abstract (pts) & Qwen & $+4.4$ & $+4.6$ & $+3.6$ & -- & -- & $-1.6$ \\
+Abstract (pts) & Qwen2.5 & $+4.4$ & $+4.6$ & $+3.6$ & -- & -- & $-1.6$ \\
  & Gemma & $+5.3$ & $+8.1$ & $+4.7$ & -- & -- & $-7.3$ \\
+ & Qwen3.5 & $+4.4$ & $+5.5$ & $+4.1$ & -- & -- & $-1.5$ \\
 \addlinespace
 LaMem ($\rho$) & Claude & $-0.059$$^{*}$ & $-0.076$$^{\dagger}$ & $-0.092$$^{\dagger}$ & $-0.089$$^{\dagger}$ & $-0.091$$^{\dagger}$ & $-0.082$$^{\dagger}$ \\
- & Qwen & $-0.158$$^{\dagger}$ & $-0.171$$^{\dagger}$ & $-0.153$$^{\dagger}$ & $-0.151$$^{\dagger}$ & $-0.150$$^{\dagger}$ & $-0.138$$^{\dagger}$ \\
+ & Qwen2.5 & $-0.158$$^{\dagger}$ & $-0.171$$^{\dagger}$ & $-0.153$$^{\dagger}$ & $-0.151$$^{\dagger}$ & $-0.150$$^{\dagger}$ & $-0.138$$^{\dagger}$ \\
  & Gemma & $-0.183$$^{\dagger}$ & $-0.183$$^{\dagger}$ & $-0.177$$^{\dagger}$ & $-0.173$$^{\dagger}$ & $-0.167$$^{\dagger}$ & $-0.153$$^{\dagger}$ \\
+ & Qwen3.5 & $-0.175$$^{\dagger}$ & $-0.147$$^{\dagger}$ & $-0.152$$^{\dagger}$ & $-0.149$$^{\dagger}$ & $-0.146$$^{\dagger}$ & $-0.136$$^{\dagger}$ \\
 \addlinespace
-MemCat ($\rho$) & Qwen & $-0.098$$^{\dagger}$ & $-0.114$$^{\dagger}$ & $-0.121$$^{\dagger}$ & $-0.122$$^{\dagger}$ & $-0.116$$^{\dagger}$ & $-0.114$$^{\dagger}$ \\
+MemCat ($\rho$) & Qwen2.5 & $-0.098$$^{*}$ & $-0.114$$^{\dagger}$ & $-0.121$$^{\dagger}$ & $-0.122$$^{\dagger}$ & $-0.116$$^{\dagger}$ & $-0.114$$^{\dagger}$ \\
  & Gemma & $-0.090$$^{*}$ & $-0.088$$^{\dagger}$ & $-0.102$$^{\dagger}$ & $-0.102$$^{\dagger}$ & $-0.102$$^{\dagger}$ & $-0.101$$^{\dagger}$ \\
+ & Qwen3.5 & $-0.094$$^{*}$ & $-0.090$$^{\dagger}$ & $-0.099$$^{\dagger}$ & $-0.100$$^{\dagger}$ & $-0.096$$^{\dagger}$ & $-0.095$$^{\dagger}$ \\
 \bottomrule
 \end{tabular}
 \end{table}

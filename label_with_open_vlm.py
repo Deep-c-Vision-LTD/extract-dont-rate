@@ -5,11 +5,13 @@ Writes extract-dont-rate/labels/<prefix>_<job>_labels.csv.
 
 Usage: python label_with_open_vlm.py gemma <job> [<job> ...]   ("all" = original jobs, "new" = new-dataset jobs, "p2" = reworded emotion prompts on EmoSet, "test" = 3 images per job)
 Models: gemma = google/gemma-3-4b-it (Gemma terms of use; gated on Hugging Face);
-        qwen = Qwen/Qwen2.5-VL-7B-Instruct with label_with_qwen.py's processor settings (for the new datasets).
+        qwen = Qwen/Qwen2.5-VL-7B-Instruct with label_with_qwen.py's processor settings (for the new datasets);
+        qwen35 = Qwen/Qwen3.5-4B (Apache-2.0) with thinking mode disabled (enable_thinking=False), see PREREGISTRATION_qwen35.md.
 New-dataset jobs (CVIU resubmission): artphoto_/abstract_/memcat_features on pool + test, *_direct on test only,
 with the unchanged EmoSet emotion and LaMem memorability prompts and schemas.
 """
 import csv, json, os, sys, time
+import gc
 from pathlib import Path
 import torch
 from transformers import AutoProcessor, AutoModelForImageTextToText
@@ -22,7 +24,7 @@ from prompts import (DIRECT_EMOTION_TOOL, DIRECT_EMOTION_PROMPT, EMOTION_FEATURE
                      EMOTION_FEATURE_TOOL_P2, EMOTION_FEATURE_PROMPT_P2, DIRECT_EMOTION_TOOL_P2, DIRECT_EMOTION_PROMPT_P2)
 from label_with_qwen import build_prompt, parse, load_image
 
-MODELS = {"gemma": "google/gemma-3-4b-it", "qwen": "Qwen/Qwen2.5-VL-7B-Instruct"}
+MODELS = {"gemma": "google/gemma-3-4b-it", "qwen": "Qwen/Qwen2.5-VL-7B-Instruct", "qwen35": "Qwen/Qwen3.5-4B"}
 # EDIT ME: image folders (EmoSet: <dir>/image/<label>/<file>.jpg; LaMem: all images in one folder)
 EMOSET_DIR = os.environ.get("EMOSET_DIR", "/path/to/EmoSet-118K")
 LAMEM_TEST_DIR = os.environ.get("LAMEM_DIR", "/path/to/LaMem/images")
@@ -52,6 +54,10 @@ NEW_ORDER = ["artphoto_features", "abstract_features", "artphoto_direct", "abstr
 ORDER = ["emoset_features", "emoset2k_features", "emoset_direct", "lamem2k_features", "lamemtr2k_features", "lamem2k_direct"]
 
 
+MAX_PER_RUN = int(os.environ.get("MAX_PER_RUN", 0))       # 0 = never recycle
+DONE_THIS_RUN = 0
+
+
 def run(prefix, names, limit=None):
     dev = "cuda" if torch.cuda.is_available() else ("mps" if torch.backends.mps.is_available() else "cpu")
     mid = MODELS[prefix]
@@ -73,6 +79,10 @@ def run(prefix, names, limit=None):
             wr.writeheader()
         t0, fails = time.time(), 0
         for i, it in enumerate(todo):
+            if dev == "mps" and i:                # free the MPS buffer cache: inputs vary in size, so cached buffers pile up
+                torch.mps.empty_cache()           # (memory only; outputs are unchanged)
+                if i % 25 == 0:
+                    gc.collect()
             cid = os.path.splitext(os.path.basename(it[job["img_key"]]))[0]
             img = load_image(os.path.join(BASE[name], it[job["img_key"]]))
             if prefix == "qwen":                  # exactly as label_with_qwen.py
@@ -81,8 +91,9 @@ def run(prefix, names, limit=None):
                 inp = proc(text=[chat], images=[img], return_tensors="pt").to(dev)
             else:
                 msgs = [{"role": "user", "content": [{"type": "image", "image": img}, {"type": "text", "text": prompt}]}]
+                extra = {"enable_thinking": False} if prefix == "qwen35" else {}
                 inp = proc.apply_chat_template(msgs, add_generation_prompt=True, tokenize=True, return_dict=True,
-                                               return_tensors="pt").to(dev)
+                                               return_tensors="pt", **extra).to(dev)
             if "pixel_values" in inp:
                 inp["pixel_values"] = inp["pixel_values"].to(torch.bfloat16)
             row = None
@@ -100,6 +111,12 @@ def run(prefix, names, limit=None):
                     print("  INVALID:", txt[:300].replace("\n", " "), flush=True)
                 continue
             wr.writerow({"id": cid, **row}); fh.flush()
+            global DONE_THIS_RUN
+            DONE_THIS_RUN += 1
+            if MAX_PER_RUN and DONE_THIS_RUN >= MAX_PER_RUN:     # memory grows per new input shape on MPS: exit and let
+                fh.close()                                     # the wrapper restart (resume skips done ids; outputs
+                print(f"[{prefix} {name}] recycling process after {DONE_THIS_RUN} images", flush=True)
+                sys.exit(75)                                   # are unchanged across restarts)
             if limit or (i + 1) % 25 == 0 or i + 1 == len(todo):
                 rate = (time.time() - t0) / (i + 1)
                 print(f"  [{prefix} {name}] {i+1}/{len(todo)}  {rate:.1f}s/img  eta {rate*(len(todo)-i-1)/60:.0f} min"

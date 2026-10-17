@@ -1,0 +1,2 @@
+file,id,reasoning,emotion
+labels/qwen35_emoset_direct_labels.csv,excitement_02120,"The image depicts a lively, energetic celebration with participants smiling, waving flags, and actively participating in a parade, which evokes feelings of positive arousal.",excitement

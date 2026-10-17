@@ -12,7 +12,8 @@
   "direct_valid": 241,
   "vlms_for_ids": [
    "qwen",
-   "gemma"
+   "gemma",
+   "qwen35"
   ],
   "curve": [
    {
@@ -947,7 +948,8 @@
   "direct_valid": 69,
   "vlms_for_ids": [
    "qwen",
-   "gemma"
+   "gemma",
+   "qwen35"
   ],
   "curve": [
    {
@@ -1546,7 +1548,8 @@
   "direct_valid": 2000,
   "vlms_for_ids": [
    "qwen",
-   "gemma"
+   "gemma",
+   "qwen35"
   ],
   "curve": [
    {

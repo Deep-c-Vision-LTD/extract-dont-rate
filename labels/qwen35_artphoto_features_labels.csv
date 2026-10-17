@@ -1,0 +1,807 @@
+id,reasoning,valence_7,arousal_5,has_people,has_threat_or_danger,has_disgusting_content,novelty_5,playfulness_5,warmth_5,energy_5,aesthetic_5
+amusement_0487,The image evokes excitement and joy through the person's dynamic jumping pose and open arms against a serene beach backdrop.,6,4,people_present,1,1,2,5,4,4,3
+amusement_0488,"The image evokes a sense of shared intimacy and quiet joy through the couple's upward gaze and shared exhale, suggesting contentment and playfulness.",6,3,prominent_faces,1,1,2,4,4,2,4
+amusement_0490,The image evokes a feeling of playful joy and lightheartedness through the subject's dynamic pose and bright clothing.,6,4,people_present,1,1,3,5,3,4,4
+amusement_0491,"The image evokes a strong sense of joy and freedom through the dynamic movement of the figure and the vibrant, expansive poppy field.",7,5,people_present,1,1,4,5,4,5,5
+amusement_0492,"The image evokes a gentle, peaceful feeling through soft focus and pastel colors, suggesting contentment and calmness.",6,2,none,1,1,2,2,4,1,4
+amusement_0493,"The image evokes a sense of peaceful contentment through its serene landscape, vibrant green grass, and clear blue sky.",7,3,none,1,1,4,2,5,2,5
+amusement_0495,"The image evokes a sense of wonder and delight through the child's playful act of blowing tiny figures into the air, creating a whimsical and imaginative scene.",6,4,prominent_faces,1,1,5,5,4,4,4
+amusement_0496,"The image evokes a playful, whimsical feeling through the use of colorful buttons and dice, suggesting fun and creativity.",6,3,people_present,1,1,3,5,4,2,3
+amusement_0497,"The image evokes amusement through the child's genuine, wide-mouthed laughter and relaxed posture.",7,4,prominent_faces,1,1,2,5,5,3,4
+amusement_0498,"The image shows a person jumping joyfully in an urban square, conveying high energy and positive emotion.",6,5,people_present,1,1,2,5,3,5,3
+amusement_0499,"The image shows a simple, cheerful scene of colorful candies in a white cup, evoking a sense of playfulness and mild joy without strong emotional intensity.",5,2,none,1,1,2,4,3,1,3
+amusement_0500,"The image evokes a sense of contentment and warmth through the subject's gentle smile and the natural, peaceful setting.",6,2,prominent_faces,1,1,2,2,4,1,3
+amusement_0501,"The image evokes a sense of excitement and playfulness through the spinning ride and the presence of people, but the motion blur and slightly chaotic composition keep it from being purely joyful or calm.",5,4,people_present,1,1,3,4,3,4,3
+amusement_0502,The image evokes a sense of joy and freedom through the dynamic poses of the silhouetted figures against a beautiful twilight sky.,6,4,people_present,1,1,3,4,3,4,4
+amusement_0503,"The image shows a person laughing with a bright, open expression, conveying a strong sense of joy and lightheartedness.",7,4,prominent_faces,1,1,2,5,4,3,4
+amusement_0505,"The image evokes a sense of joy and freedom through the dynamic pose of the person jumping in a sunlit alley, creating a feeling of excitement and playfulness.",6,4,people_present,1,1,3,5,4,4,4
+amusement_0506,"The image evokes a sense of wonder and beauty through its vibrant colors and macro focus, suggesting awe and positive emotion.",7,4,none,1,1,5,3,5,3,5
+amusement_0508,"The image evokes a sense of joy and playfulness through children interacting with colorful origami boats in a puddle, surrounded by autumn leaves.",6,3,prominent_faces,1,1,2,5,4,2,4
+amusement_0509,The image evokes a sense of playful anticipation and mild disgust through the act of eating sprinkles.,4,3,prominent_faces,1,3,2,4,3,2,3
+amusement_0510,"The image evokes a quiet, slightly melancholic mood through its muted colors, vintage texture, and solitary object, suggesting sadness or nostalgia rather than strong positive or negative emotions.",3,2,none,1,1,2,2,2,1,3
+amusement_0511,"The image evokes a playful, quirky, and lighthearted mood through the subject's pose, colorful accessories, and bright clothing.",6,4,prominent_faces,1,1,3,5,3,3,4
+amusement_0517,The image evokes excitement and joy through the dynamic pose and bright sky.,7,5,people_present,1,1,3,5,4,5,4
+amusement_0518,The image evokes a sense of calm and natural beauty through its soft colors and gentle floral subjects.,6,2,none,1,1,2,2,4,1,4
+amusement_0519,The image evokes a sense of joy and playfulness through children interacting with colorful paper boats in a puddle.,6,3,prominent_faces,1,1,2,5,4,2,3
+amusement_0521,The image evokes amusement through the boy's smile and the group's playful poses.,6,3,prominent_faces,1,1,2,4,4,3,3
+amusement_0522,"The image evokes a sense of playful energy and lightheartedness through the subject's dynamic pose and the eclectic, youthful decor.",6,4,prominent_faces,1,1,3,5,4,4,3
+amusement_0523,"The image shows a person laughing with dynamic movement, conveying high positive affect and energy.",7,5,prominent_faces,1,1,2,5,4,5,4
+amusement_0524,"The owl's direct gaze and soft, warm lighting evoke a sense of gentle curiosity and calmness.",6,3,none,1,1,3,2,5,2,4
+amusement_0526,"The image evokes a strong sense of happiness and playfulness through the iconic smiley face, though the dark background creates a slightly mysterious or artificial atmosphere.",6,3,none,1,1,2,5,4,2,4
+amusement_0527,"The image evokes a strong sense of relaxation and happiness through the dog's open-mouthed, relaxed posture in a peaceful outdoor setting.",7,2,none,1,1,2,4,5,1,4
+amusement_0528,"The image features a classic yellow smiley face ball, which is universally recognized as a symbol of happiness and friendliness, evoking a strong sense of amusement and playfulness.",7,3,none,1,1,2,5,5,2,4
+amusement_0529,"The image shows a person laughing joyfully while lying on a colorful inflatable, conveying high energy and playfulness.",7,5,prominent_faces,1,1,3,5,4,5,4
+amusement_0530,The image evokes a strong sense of happiness and contentment through the subject's genuine smile and relaxed posture.,7,3,prominent_faces,1,1,2,4,5,2,5
+amusement_0531,"The image evokes a gentle, innocent, and peaceful mood through the child blowing bubbles and the floating balloons, suggesting contentment and playfulness.",6,2,prominent_faces,1,1,2,4,4,2,4
+amusement_0532,"The image shows a close-up of a smiling child, evoking a sense of happiness and warmth.",6,3,prominent_faces,1,1,2,4,5,2,4
+amusement_0533,"The image evokes excitement through its vibrant, high-energy colors and dynamic radial composition.",7,5,none,1,1,4,4,5,5,5
+amusement_0536,"The image shows a child in traditional dress smiling, conveying a sense of happiness and cultural pride.",6,3,prominent_faces,1,1,3,4,5,2,4
+amusement_0537,"The image evokes a sense of calm and wonder through its abstract, bubble-like texture and warm color gradient.",6,3,none,1,1,4,2,5,2,5
+amusement_0539,"The image evokes amusement through the playful, slightly absurd scenario of a person in a shopping cart being pushed by another, combined with the bright pink balloons.",6,4,prominent_faces,1,1,4,5,3,3,3
+amusement_0540,The image evokes a sense of calm and tranquility through its serene water droplets and soothing color palette.,6,2,none,1,1,3,2,4,1,5
+amusement_0542,"The image evokes a calm, gentle feeling through the soft focus and the cat's relaxed posture.",6,2,none,1,1,2,3,5,2,4
+amusement_0544,"The image evokes a gentle, happy feeling through the smiling balloon and the child's upward gaze, suggesting contentment and playfulness.",6,2,people_present,1,1,2,4,4,1,3
+amusement_0545,"The image evokes a playful, energetic, and slightly chaotic mood through the subject's dynamic pose and colorful, eclectic surroundings.",5,4,people_present,1,1,3,4,3,4,3
+amusement_0546,"The image evokes a sense of playful intimacy and warmth through the use of sunflowers as masks, creating a whimsical and affectionate mood.",6,3,prominent_faces,1,1,4,5,5,2,4
+amusement_0548,"The image evokes a sense of creative potential and organized chaos through the vibrant, radiating pencils, suggesting excitement and playfulness.",6,4,none,1,1,3,4,3,4,4
+amusement_0715,"The image evokes a sense of playful horror or absurdity through the anthropomorphic faces on fried eggs, creating a humorous yet slightly unsettling atmosphere.",3,3,none,2,3,4,4,2,2,2
+amusement_0717,"The image evokes a sense of playful innocence and lightheartedness through the combination of striped socks, a bright ball, and a soft, dreamy atmosphere.",6,3,people_present,1,1,2,5,4,2,4
+amusement_0718,"The image evokes a sense of overwhelming, almost suffocating intimacy or pressure, creating a feeling of being trapped or overwhelmed by a crowd.",2,4,prominent_faces,3,2,4,1,2,3,2
+amusement_0719,"The image evokes a sense of dark humor and surreal playfulness through the juxtaposition of a goth-style figure and a small animal sharing a snack, creating a whimsical yet slightly unsettling mood.",4,3,prominent_faces,2,1,4,4,2,2,3
+amusement_0720,"The image evokes a sense of calm and mundane routine, with no strong emotional triggers or dynamic elements.",4,1,people_present,1,1,1,1,2,1,2
+amusement_0721,"The image evokes amusement through the anthropomorphic carving of the apple, which gives it a playful, slightly mischievous expression.",5,3,none,2,1,4,5,3,2,3
+amusement_0725,The image evokes a sense of wonder and playfulness through the silhouette of a person climbing a dead tree against a vibrant sunset.,6,4,people_present,2,1,4,4,5,3,5
+amusement_0726,"The image evokes amusement through the playful, anthropomorphic drawings on the toes, creating a lighthearted and humorous scene.",6,3,none,1,1,4,5,4,2,3
+amusement_0728,The image evokes a sense of calm contentment through the relaxed posture of the individuals and the cozy setting.,5,2,prominent_faces,1,1,2,3,4,2,3
+amusement_0729,"The image evokes amusement through the horses' exaggerated, open-mouthed expressions against a clear sky.",6,4,none,1,2,3,5,4,3,4
+amusement_0732,"The image evokes a sense of whimsical delight and cuteness through the surreal juxtaposition of fluffy chicks and an egg, creating a playful and charming atmosphere.",6,3,none,1,1,4,5,4,2,4
+amusement_0733,"The image evokes amusement through the anthropomorphic faces drawn on eggs, with one winking and the other laughing, creating a lighthearted and humorous scene.",6,3,none,1,1,4,5,3,2,3
+amusement_0735,"The image evokes a sense of comfort and relaxation through the bath setting, with a playful touch from the starfish toy.",6,2,people_present,1,1,2,4,5,1,3
+amusement_0736,The image evokes a sense of whimsical nostalgia and quiet contentment through the juxtaposition of a vintage record hanging against a vast sky.,6,2,none,1,1,3,4,3,1,4
+amusement_0737,"The image evokes a sense of playful absurdity through the juxtaposition of innocent rubber ducks against a dramatic, almost apocalyptic wave, creating a humorous and slightly surreal feeling.",5,4,none,2,1,4,5,3,4,3
+amusement_0738,"The image evokes a sense of wonder and delight through the unexpected interaction between a squirrel and a camera, creating a charming and slightly humorous scene.",6,3,none,1,1,4,4,3,2,4
+amusement_0740,"The image evokes amusement and playfulness through the cartoonish character performing a dynamic, acrobatic pose against a bright beach backdrop.",6,4,none,1,1,4,5,3,4,4
+amusement_0742,"The image evokes a sense of contentment and warmth through the subject's gentle smile and relaxed posture, with no signs of distress or high energy.",6,2,prominent_faces,1,1,2,3,5,1,3
+amusement_0743,"The image evokes a strong sense of excitement and playfulness through the exaggerated facial expression and the surreal, fun context of being buried in popcorn.",6,5,prominent_faces,1,1,4,5,4,4,4
+amusement_0745,"The image evokes a sense of playful absurdity and mild unease through the juxtaposition of a formal wedding dress with a cartoonish, slightly unsettling paper lantern face.",4,3,people_present,2,1,4,4,3,2,3
+amusement_0746,The image evokes a sense of joy and freedom through the silhouettes of people jumping against a beautiful sunset.,7,5,people_present,1,1,4,5,4,5,5
+amusement_0747,"The image juxtaposes a focused, intense archer with a red traffic light, creating a surreal, slightly unsettling contrast that evokes mild unease or confusion rather than strong emotion.",3,3,prominent_faces,2,1,4,1,2,2,3
+amusement_0748,"The image evokes a sense of whimsy and lightheartedness through the juxtaposition of human legs and a striped animal tail, creating a playful and slightly surreal mood.",5,3,people_present,1,1,4,5,3,2,4
+amusement_0749,"The image evokes a sense of unease and potential danger due to the dark lighting, shadowy figure, and the intimate yet tense interaction between the two individuals.",2,4,prominent_faces,4,1,2,2,2,2,2
+amusement_0755,"The image evokes a strong sense of joy and playfulness through the cute, anthropomorphic cupcakes with smiling faces, bright colors, and a heart symbol.",7,4,none,1,1,3,5,5,3,4
+amusement_0756,The image evokes a strong sense of comfort and safety through the cozy cat bed and the affectionate embrace of the two cats.,6,2,none,1,1,2,3,5,1,4
+anger_0002,The image evokes a strong sense of playfulness and amusement through the subject's exaggerated facial expression and dynamic pose.,6,4,prominent_faces,1,1,2,5,3,4,4
+anger_0003,The image evokes a strong sense of excitement and high energy through the subject's intense facial expression and dynamic pose.,5,5,prominent_faces,1,1,3,2,2,5,4
+anger_0005,"The image evokes a sense of dread and foreboding through its dark, ominous storm clouds and murky water, suggesting fear and sadness.",2,3,none,4,1,4,1,1,2,3
+anger_0007,The image evokes a sense of awe and intimidation through the dramatic lightning and dark storm clouds over a vibrant field.,3,5,none,4,1,5,1,2,5,4
+anger_0009,"The image evokes a sense of mystery and introspection through the back view and the unique tattoo, creating a feeling of awe and curiosity.",4,3,people_present,1,1,4,1,2,2,3
+anger_0012,"The image evokes a sense of awe and wonder through its dramatic, colorful clouds against a dark sky, suggesting a powerful natural phenomenon.",5,4,none,2,1,4,1,3,3,4
+anger_0017,The image evokes a sense of awe and intensity through the sharp focus on the bird's piercing gaze and detailed plumage.,5,4,none,3,1,4,1,3,3,5
+anger_0018,"The image evokes a sense of awe and melancholy through its dramatic, moody sky and dark silhouettes.",3,4,none,2,1,4,1,2,3,4
+anger_0019,"The image evokes a sense of intense, chaotic energy with glowing, fiery elements that suggest danger or overwhelming power rather than comfort or playfulness.",3,5,none,4,2,4,1,3,5,3
+anger_0022,"The image evokes a sense of unease and decay through its dilapidated state, broken furniture, and eerie atmosphere.",2,3,none,4,3,4,1,1,2,2
+anger_0025,"The image evokes a sense of solemnity and melancholy through its dark, moody atmosphere and stormy sea.",2,4,none,3,1,4,1,1,3,4
+anger_0026,"The image evokes a somber, melancholic mood through its dark, stormy sky and barren landscape.",2,4,none,3,1,4,1,1,3,4
+anger_0031,"The image evokes a somber, melancholic mood through its desaturated colors, abandoned setting, and reflective puddle, suggesting sadness.",2,2,none,2,1,3,1,2,1,3
+anger_0249,"The image evokes a sense of warmth and beauty through its golden lighting and soft focus, creating a calm and aesthetically pleasing mood.",6,2,none,1,1,3,1,5,1,5
+anger_0250,"The image evokes a sense of intense, chaotic energy through its dynamic composition and the character's aggressive expression.",3,5,prominent_faces,4,2,5,1,1,5,4
+anger_0251,The image evokes a strong sense of disgust and fear due to the blood-stained shirt and grimacing expression.,1,4,prominent_faces,5,5,2,1,1,3,1
+anger_0253,"The image evokes a sense of awe and wonder through its abstract, fiery, and dynamic visual elements.",5,5,none,2,1,4,2,4,5,4
+anger_0254,"The image evokes a sense of awe and melancholy through its dramatic, dark clouds and vibrant sunset colors.",3,4,none,2,1,4,1,3,3,4
+anger_0255,"The image evokes a strong sense of horror and revulsion through its grotesque, distorted features and dark, chaotic elements.",1,5,prominent_faces,5,5,4,1,1,4,2
+anger_0256,The image evokes a strong sense of anger and aggression through the facial expression and body language.,1,5,prominent_faces,4,2,3,1,1,5,2
+anger_0258,"The image evokes excitement and energy through the dynamic, windblown hair and bold red background, creating a sense of movement and intensity.",5,5,people_present,2,1,4,3,2,5,4
+anger_0259,"The image shows a child screaming with wide eyes and an open mouth, conveying high emotional intensity and a sense of distress or anger.",2,5,prominent_faces,3,1,2,1,2,5,2
+anger_0261,"The image evokes a sense of awe and potential danger through its dramatic, fiery sky and ominous clouds.",3,5,none,4,1,5,1,2,5,4
+anger_0262,"The image depicts a graphic scene of violence and gore, evoking strong negative emotions like disgust and fear.",1,5,prominent_faces,5,5,3,1,1,4,1
+anger_0264,"The image evokes a somber, melancholic mood through its gloomy sky and turbulent waves, suggesting sadness.",2,4,none,2,1,3,1,1,4,3
+anger_0265,"The image evokes a strong sense of danger and unease through its intense red eye and dark, textured background.",2,5,none,5,2,4,1,1,4,3
+anger_0266,"The image depicts a violent, chaotic scene of a tree being uprooted or blown over by strong winds, evoking a sense of danger and loss of control.",2,5,none,5,1,3,1,1,5,2
+anger_0267,"The image evokes a strong sense of fear and intensity through the screaming expression and dark, dramatic lighting.",2,5,prominent_faces,4,2,3,1,1,5,3
+anger_0269,The image evokes a sense of playful energy and lightheartedness through the dynamic movement of hair and the visible smile.,6,4,prominent_faces,1,1,2,4,4,4,3
+anger_0270,"The image evokes a strong sense of unease and fear through the subject's intense, dark makeup and the unsettling, static pose.",2,4,prominent_faces,4,2,3,1,1,2,2
+anger_0271,"The image evokes a sense of unease and vulnerability due to the obscured face and the person's posture, suggesting fear or anxiety.",2,3,people_present,3,1,2,1,2,2,2
+anger_0272,"The image shows a close-up of an eye with a severely damaged or abnormal sclera, evoking a sense of unease and potential threat.",2,4,prominent_faces,4,4,3,1,1,2,1
+anger_0273,"The image evokes a strong sense of horror and distress through the figure's screaming expression and grimy, distressed appearance.",1,5,prominent_faces,5,4,3,1,1,4,2
+anger_0274,"The image depicts a person screaming with an intense, aggressive expression, conveying strong anger and high emotional energy.",2,5,prominent_faces,4,2,3,1,1,5,2
+anger_0275,"The image evokes a sense of awe and mystery through its ethereal, high-contrast lighting and the ambiguous, graceful pose of the figure.",5,4,people_present,1,1,5,2,2,3,4
+anger_0801,"The image evokes a sense of awe and wonder through its dramatic, colorful sunset sky and vast, dark landscape.",6,4,none,1,1,4,1,4,3,5
+anger_0804,"The image evokes a somber, introspective mood through its dark lighting and shadowed figure, suggesting sadness or melancholy rather than high energy or playfulness.",2,2,people_present,1,1,2,1,2,2,3
+anger_0806,"The image evokes a sense of melancholy and sadness through the close-up of a closed eye with teal makeup, suggesting introspection or sorrow.",2,2,people_present,1,1,3,1,2,1,3
+anger_0807,"The image evokes a strong sense of anger through the intense, narrowed eye and aggressive brushwork.",2,5,prominent_faces,4,2,4,1,2,5,3
+anger_0809,"The image evokes a strong sense of disgust and unease due to the grotesque, open-mouthed expression and the dark, grainy aesthetic.",2,4,prominent_faces,4,5,3,1,1,3,2
+anger_0810,"The image evokes a sense of awe and contemplation through its dramatic silhouette against a vast, textured sky.",5,3,people_present,1,1,4,1,2,2,4
+anger_0811,"The image evokes a cold, intense, and somewhat unsettling mood through the subject's piercing gaze, heavy makeup, and the blue-tinted lighting.",2,4,prominent_faces,3,2,3,1,1,2,3
+anger_0812,"The image evokes a strong sense of danger and threat through the woman pointing a gun, creating a tense and negative emotional atmosphere.",2,4,prominent_faces,5,1,3,1,1,4,2
+anger_0815,"The image evokes a sense of intense, dramatic emotion through the bold, theatrical makeup and the focused, piercing gaze of the eye.",3,5,prominent_faces,3,1,4,2,2,4,3
+anger_0816,"The image depicts a violent struggle with a weapon, evoking fear and danger.",2,5,prominent_faces,5,2,3,1,1,5,3
+anger_0817,The image evokes a strong sense of anger and aggression through the facial expression and dramatic lighting.,2,5,prominent_faces,4,2,3,1,1,5,3
+anger_0818,The image evokes a strong sense of anger and distress through the subject's intense facial expression and physical state.,2,5,prominent_faces,4,2,3,1,1,5,2
+anger_0819,"The image evokes a strong sense of fear and unease due to the doll's distorted facial expression, wide eyes, and open mouth, which are classic indicators of horror or threat.",2,4,none,5,3,3,1,1,2,2
+anger_0820,"The image shows a person screaming with a highly expressive face, conveying intense negative emotion.",2,5,prominent_faces,3,2,3,1,3,5,3
+anger_0821,"The image evokes a strong sense of unease and fear through the dark, gothic aesthetic and the subject's intense, piercing gaze behind a cage.",2,4,prominent_faces,4,2,4,1,1,3,3
+anger_0822,"The image evokes a strong sense of anger or rage through the open mouth, intense facial expression, and red mask, creating a high-energy, negative emotional state.",2,5,prominent_faces,4,2,3,1,1,5,3
+anger_0823,"The image evokes a sense of unease and potential danger through its dark, shadowy composition and ambiguous figures.",2,3,people_present,4,1,3,1,1,2,2
+anger_0824,"The image evokes a sense of danger and unease through the juxtaposition of a woman in a red dress holding a sword over another person, creating a dramatic and potentially threatening atmosphere.",3,4,prominent_faces,4,1,4,1,2,3,4
+anger_0825,"The image shows a person screaming with hands over ears, conveying intense distress or anger.",2,5,prominent_faces,3,1,2,1,1,5,2
+awe_0033,"The image evokes a sense of awe and wonder through the dramatic sky and celestial object, with a slightly ominous undertone due to the dark silhouettes and potential danger.",3,4,none,3,1,4,1,2,3,3
+awe_0034,"The image evokes a sense of calm beauty and natural wonder through its vibrant, soft colors and delicate floral structure.",6,3,none,1,1,3,2,4,2,5
+awe_0036,"The image evokes a sense of solitude and slight unease through the long shadow and isolated figure, leaning towards fear or sadness rather than positive emotions.",3,3,people_present,3,1,3,1,2,2,3
+awe_0037,"The image evokes a sense of vulnerability and mystery through its dark, shadowed composition and focus on a bare shoulder, creating a feeling of unease rather than comfort.",2,3,people_present,3,1,4,1,2,2,4
+awe_0038,"The image evokes a sense of peaceful solitude and quiet reflection, with a silhouette of a person gazing upward under a vast sky, suggesting contentment and awe.",6,2,people_present,1,1,4,1,4,2,4
+awe_0039,The image evokes a sense of awe and wonder through its dramatic lighting and grand natural landscape.,6,4,none,1,1,5,1,4,3,5
+awe_0041,"The image evokes excitement and awe through the dynamic action of the vehicle splashing through water, creating a sense of energy and movement.",5,5,none,2,2,4,3,2,5,3
+awe_0042,"The image evokes a sense of peaceful contentment through its serene landscape, soft lighting, and lack of human presence or conflict.",6,2,none,1,1,3,1,4,2,5
+awe_0043,The image evokes a sense of awe and contemplation through its silhouette composition and grandeur.,5,3,people_present,2,1,4,1,2,2,4
+awe_0046,"The image evokes a gentle, dreamy feeling through the soft lighting and the kitten's upward gaze.",6,2,none,1,1,3,3,5,1,4
+awe_0050,"The image evokes a sense of awe and tranquility through its vast, colorful sky and silhouette landscape.",6,3,none,1,1,4,1,4,2,4
+awe_0054,"The image evokes a sense of quiet melancholy and stillness through its cool, monochromatic blue tones and soft focus, suggesting sadness rather than joy or excitement.",3,1,none,1,1,2,1,2,1,3
+awe_0059,"The image evokes a sense of wonder and appreciation for nature's beauty, with the vibrant red mushroom standing out against a soft, blurred background.",6,3,none,2,1,4,2,3,2,5
+awe_0061,"The image evokes a sense of peaceful contentment through its serene beach setting, soft lighting, and calm ocean waves.",6,3,people_present,1,1,4,2,5,2,5
+awe_0576,"The image evokes a sense of wonder and curiosity through the juxtaposition of a child's innocent gaze against a dreamy, colorful bokeh background.",6,4,prominent_faces,1,1,4,3,5,2,5
+awe_0577,"The image evokes a quiet, melancholic mood through the soft focus and muted tones, suggesting sadness or introspection rather than strong positive or negative emotions.",3,2,people_present,1,1,2,1,3,1,3
+awe_0578,"The image evokes a gentle, hopeful, and peaceful feeling through its soft focus, white color palette, and the delicate flower held in a hand.",7,1,people_present,1,1,2,1,5,1,5
+awe_0580,The image evokes a sense of peacefulness and tranquility through its soft lighting and misty landscape.,6,2,none,1,1,4,1,5,1,4
+awe_0581,"The image evokes a sense of unease and intensity through the subject's direct, piercing gaze and the moody, dark aesthetic.",2,4,prominent_faces,3,1,3,1,1,3,3
+awe_0582,"The image evokes a sense of mystery and slight unease through the obscured face and intense gaze, leaning towards fear or awe rather than clear positive or negative emotions.",3,4,prominent_faces,3,1,4,1,2,3,4
+awe_0584,"The image evokes a calm, festive, and slightly melancholic mood through its soft focus, red star decorations, and gentle lighting.",5,2,none,1,1,2,3,4,1,3
+awe_0585,"The image evokes a somber, melancholic mood through the subject's upward gaze, dark clothing, and the stark, graffiti-marked background.",2,2,prominent_faces,2,1,3,1,2,1,3
+awe_0586,"The image evokes a sense of peaceful contentment and awe through the subject's serene expression and the vast, moody background.",6,2,prominent_faces,1,1,3,1,4,1,4
+awe_0587,"The image evokes a somber, melancholic mood through its stark contrast between deep shadows and a single, cold beam of light, suggesting isolation or sadness.",2,2,none,2,1,2,1,1,1,3
+awe_0588,The image evokes a sense of wonder and grandeur through the dramatic lighting and towering clouds.,7,4,none,1,1,5,1,3,3,5
+awe_0589,"The image evokes a calm, intimate, and slightly melancholic mood through soft lighting and a contemplative pose.",4,2,prominent_faces,1,1,2,1,4,1,3
+awe_0590,"The image evokes a sense of melancholy and loss through the withered, frost-covered plant against a bleak background.",2,1,none,1,1,3,1,1,1,3
+awe_0592,"The image evokes a sense of unease and slight fear through the intense gaze and tangled wires, creating a somewhat unsettling but intriguing atmosphere.",3,4,prominent_faces,3,2,4,2,2,3,3
+awe_0593,The image evokes a sense of calm and peacefulness with its serene beach and cliffs.,6,2,people_present,1,1,3,1,4,1,4
+awe_0594,"The image evokes a somber, melancholic mood through its dark silhouette and twilight setting, suggesting sadness.",2,2,people_present,1,1,3,1,2,1,4
+awe_0595,"The image evokes a sense of gentle care and tranquility through the soft focus, warm tones, and the delicate flower held in cupped hands.",6,2,people_present,1,1,3,2,5,1,4
+awe_0596,"The image evokes a sense of mystery and slight unease due to the obscured face and dark tones, leaning towards fear or sadness rather than positive emotions.",3,2,prominent_faces,2,1,3,1,2,1,3
+awe_0601,"The image evokes a quiet, slightly melancholic mood through its muted colors, shadowy foliage, and solitary streetlamp, suggesting a calm but somewhat somber atmosphere.",3,2,none,1,1,2,1,2,1,3
+awe_0602,"The image evokes a sense of melancholy and loss through the contrast between the vibrant red leaf and the barren, dark background.",2,2,none,1,1,4,1,2,1,4
+awe_0827,The image evokes a strong sense of cuteness and playfulness through the kitten's raised paws and soft features.,7,3,none,1,1,3,5,5,3,5
+awe_0828,"The image evokes a sense of awe and tranquility through its dramatic sky and long-exposure light trails, suggesting a calm yet dynamic scene.",6,4,none,1,1,4,1,3,4,5
+awe_0829,"The image evokes a sense of peaceful solitude and natural beauty, with a calm lake, clear sky, and reeds creating a serene atmosphere.",6,2,none,1,1,3,1,4,1,4
+awe_0830,"The image evokes a sense of awe and tranquility through its vast landscape, dramatic lighting, and solitary lighthouse, creating a feeling of peaceful grandeur.",7,3,none,1,1,5,1,4,2,5
+awe_0831,"The image evokes a sense of awe and tranquility through its dramatic, moody lighting and vast natural landscape.",5,3,none,1,1,4,1,3,2,5
+awe_0833,"The image evokes a sense of awe and wonder through its dramatic, colorful sky and serene, misty seascape.",6,4,none,1,1,5,1,3,3,5
+awe_0834,"The image evokes a sense of wonder and grandeur through the dramatic, colorful cloud formation against a deep blue sky, suggesting awe and beauty.",6,4,none,1,1,5,2,3,3,5
+awe_0835,"The image evokes a sense of calm and neutrality through the subject's expression and the soft lighting, with no strong emotional cues present.",4,2,prominent_faces,1,1,2,1,3,1,3
+awe_0836,"The image juxtaposes a calm, intense human face with a dramatic, fiery sky, evoking a sense of awe and emotional intensity rather than simple joy or fear.",4,5,prominent_faces,3,1,5,1,3,5,4
+awe_0837,"The image evokes a sense of solitude and slight unease through the long shadow and isolated figure, leaning towards fear or sadness rather than positive emotions.",3,3,people_present,3,1,3,1,2,2,3
+awe_0838,"The image evokes a sense of peaceful solitude and quiet reflection, with a silhouette of a person gazing upward under a vast sky, suggesting contentment and awe.",6,2,people_present,1,1,4,1,4,2,4
+awe_0839,"The image evokes a sense of vulnerability and introspection through the subject's upward gaze and soft lighting, creating a calm but emotionally open atmosphere.",5,3,prominent_faces,1,1,3,2,4,2,4
+awe_0840,The child's upward gaze and serene expression evoke a sense of wonder and peacefulness.,6,2,prominent_faces,1,1,3,2,4,1,4
+awe_0842,"The image evokes excitement through its dynamic, colorful, and energetic abstract light patterns.",5,5,none,1,1,4,4,3,5,4
+awe_0844,"The image evokes a sense of grandeur and natural beauty, with dramatic lighting and vast landscapes that inspire wonder.",6,4,none,1,1,5,1,4,3,5
+awe_0845,"The image evokes a sense of calm and awe through its vast, moody seascape and dramatic sky.",5,3,none,2,1,4,1,2,2,4
+awe_0846,"The image shows birds splashing in water, evoking a sense of innocent playfulness and lightheartedness.",6,4,none,1,1,3,5,4,3,4
+awe_0849,"The image evokes a sense of peaceful solitude and natural beauty through its surreal, high-contrast colors and solitary tree.",6,2,none,1,1,4,1,3,1,5
+awe_0851,"The image evokes a sense of wonder and fascination due to the vibrant, detailed close-up of a ladybug, which is visually striking and aesthetically pleasing.",6,4,none,1,1,4,2,3,2,5
+awe_0853,"The image evokes a sense of awe and wonder through its dramatic, colorful sky and serene reflection.",7,4,none,1,1,5,1,5,3,5
+awe_0854,"The image evokes a sense of wonder and awe through the surreal underwater scene of a white tiger, which is both beautiful and unexpected.",6,4,none,2,1,5,3,3,3,5
+awe_0855,"The image evokes a sense of melancholic beauty through its cool, misty atmosphere and blurred depth of field, suggesting a quiet, introspective mood rather than strong positive or negative emotion.",3,2,none,1,1,3,1,2,2,4
+awe_0856,"The image evokes a sense of isolation and potential danger through the dark, shadowy environment and the solitary figure.",2,3,people_present,4,1,3,1,1,2,3
+awe_0858,"The image evokes a sense of peaceful contentment through its soft focus, dreamy colors, and gentle dandelion subjects.",6,2,none,1,1,3,2,4,2,5
+awe_0859,"The image evokes a sense of awe and tranquility through its vast natural landscape, dramatic lighting, and serene ocean waves.",7,4,none,1,1,5,1,4,3,5
+awe_0861,"The image evokes a sense of awe and grandeur through its dramatic, moody sky and distant mountain range.",4,4,none,2,1,5,1,2,3,5
+awe_0862,"The image evokes a sense of awe and contemplation through the dramatic, high-contrast sky and the solitary silhouette.",6,4,people_present,2,1,5,1,3,4,5
+awe_0864,The image evokes a sense of awe and tranquility through the ethereal lighting and towering trees.,6,3,none,1,1,4,1,3,2,5
+awe_0866,"The image evokes a sense of peace and tranquility through its calm water, golden autumn trees, and soft sky.",7,2,none,1,1,4,1,5,1,5
+awe_0867,"The image evokes a sense of awe and tranquility through its dramatic, colorful sky and serene coastal landscape.",6,3,none,1,1,4,1,4,2,5
+awe_0868,"The image evokes a sense of awe and wonder through its grand, towering rock formations and narrow canyon, creating a feeling of smallness and reverence.",6,3,none,2,1,5,1,4,2,5
+awe_0871,"The image evokes a sense of awe and wonder through its dramatic, colorful sky and solitary tree, creating a feeling of grandeur and natural beauty.",6,4,none,1,1,5,1,3,3,5
+awe_0872,The image evokes a sense of awe and tranquility through its dramatic sky and flowing water.,6,4,none,2,1,5,1,3,3,5
+awe_0873,"The image evokes a sense of awe and melancholy through its dramatic, stormy sky and silhouetted landscape.",3,4,none,3,1,4,1,2,3,4
+awe_0874,"The image evokes a sense of awe and grandeur through the dramatic sunset, dramatic clouds, and cityscape silhouette.",6,4,none,1,1,5,1,4,3,5
+awe_0875,The image evokes a sense of awe and tranquility through the dramatic lighting and misty forest atmosphere.,6,3,none,1,1,4,1,4,2,5
+awe_0878,The image evokes a sense of melancholy and introspection through the subject's pensive expression and monochromatic tone.,3,2,prominent_faces,1,1,3,1,2,2,4
+contentment_0063,"The image evokes a sense of awe and melancholy through its dramatic, stormy sky and vast, dark ocean.",3,4,none,2,1,5,1,2,3,5
+contentment_0064,"The image evokes a sense of distress or anxiety through the subject's facial expression and hand placement near the head, suggesting an internal emotional struggle.",3,3,prominent_faces,2,1,2,1,2,2,4
+contentment_0065,"The image evokes a sense of awe and tranquility through its vast, frozen landscape and soft lighting.",6,2,none,1,1,4,1,2,2,5
+contentment_0066,"The image evokes a sense of awe and tranquility through its vast, dramatic sky and solitary boat.",5,3,none,1,1,4,1,3,2,5
+contentment_0068,"The image evokes a calm, cozy, and comforting feeling through the presence of a mug and biscuits, suggesting contentment and warmth.",5,2,none,1,1,2,2,4,1,3
+contentment_0069,The image evokes a sense of awe and tranquility through its grand mountain landscape and serene reflection.,7,3,none,1,1,5,1,4,2,5
+contentment_0070,"The image evokes a sense of peaceful solitude and natural beauty, with a lone figure gazing at a serene sunset over water.",6,2,people_present,1,1,4,1,4,2,5
+contentment_0071,The image evokes a sense of calm and peacefulness with its serene water and soft lighting.,6,2,people_present,1,1,3,1,4,1,4
+contentment_0072,"The image evokes a cozy, peaceful, and slightly nostalgic feeling through warm lighting and a comfortable bedroom setting.",6,2,none,1,1,2,3,5,1,4
+contentment_0073,The image evokes a sense of quiet melancholy and stillness through its muted colors and solitary subject.,3,1,none,1,1,2,1,2,1,4
+contentment_0074,"The image evokes a sense of calm and wonder through its surreal juxtaposition of a starfish in water and a bird in flight against a soft, warm sky.",6,2,none,1,1,4,2,5,1,4
+contentment_0075,The image evokes a sense of calm and tranquility through its serene seascape and soft lighting.,5,2,none,1,1,3,1,3,2,4
+contentment_0076,"The image evokes a sense of awe and tranquility through its dramatic, moody sky and serene waters.",5,3,people_present,1,1,4,1,3,2,4
+contentment_0077,The image evokes a sense of calm and majesty through the lion's serene expression and warm lighting.,6,3,none,2,1,4,1,5,2,5
+contentment_0078,"The image evokes a sense of calm and peacefulness through its serene winter landscape, clear blue sky, and snow-covered pier.",6,2,none,1,1,3,1,2,1,4
+contentment_0080,The image evokes a strong sense of peace and relaxation through the cat's closed eyes and serene posture in the grass.,7,2,none,1,1,2,3,5,1,4
+contentment_0082,"The image evokes a profound sense of sadness and isolation through the solitary figure, the gloomy atmosphere, and the stark contrast between the light and the dark interior.",2,2,people_present,2,1,3,1,1,1,3
+contentment_0084,"The image evokes a sense of calm and beauty through its soft focus and gentle color palette, suggesting contentment and aesthetic pleasure.",6,2,none,1,1,3,2,4,1,5
+contentment_0085,"The image evokes a sense of awe and tranquility through its vast, serene landscape and dramatic sky.",6,2,none,1,1,4,1,3,1,5
+contentment_0087,"The image evokes a sense of awe and tranquility through its vast, natural landscape and the dramatic sunset.",6,3,none,1,1,4,1,4,2,5
+contentment_0090,"The image evokes a sense of melancholy and stillness through its monochromatic palette, overcast sky, and reflective water, suggesting sadness.",2,1,none,1,1,3,1,2,1,4
+contentment_0092,"The image evokes a deep sense of peace and tranquility through its serene lake, wooden dock, and soft sunset lighting.",7,2,none,1,1,3,1,5,1,5
+contentment_0093,The image evokes a sense of calm and solitude through its muted tones and stillness.,5,1,none,1,1,3,1,4,1,4
+contentment_0094,"The image evokes a sense of calm and vastness through its expansive landscape and dramatic sky, suggesting awe and contentment.",6,3,none,1,1,4,1,3,2,4
+contentment_0096,"The image evokes a sense of peace and tranquility through its serene sunset, calm water, and distant silhouettes, suggesting contentment.",6,2,none,1,1,4,1,5,1,5
+contentment_0097,"The image evokes a sense of awe and wonder through its dramatic, colorful sky and vast landscape.",6,4,none,1,1,5,1,3,3,5
+contentment_0098,"The image evokes a sense of awe and tranquility through its dramatic sky and serene water, creating a feeling of calm and grandeur.",6,3,none,1,1,4,1,3,2,5
+contentment_0099,"The image evokes a sense of foreboding and melancholy through its dark, heavy storm clouds and muted colors.",2,3,none,4,1,3,1,2,2,3
+contentment_0101,"The image evokes a quiet, melancholic mood through its stark winter landscape and fallen fence.",3,1,none,1,1,2,1,2,1,3
+contentment_0102,The image evokes a sense of awe and tranquility through its majestic mountain and serene lake.,7,3,none,1,1,5,1,4,2,5
+contentment_0106,The image evokes a sense of calm and tranquility through its serene water and natural setting.,6,2,none,1,1,3,1,4,1,4
+contentment_0107,"The image evokes a sense of melancholy and solitude through its desaturated, sepia-toned palette and the empty, isolated dock extending into a vast, still body of water.",3,2,none,1,1,3,1,3,1,4
+contentment_0109,"The image evokes a sense of melancholy and quiet reflection through its muted colors and vast, empty landscape.",3,2,none,1,1,3,1,3,2,4
+contentment_0110,"The image evokes a sense of calm and wonder through its serene harbor scene, warm lighting, and grand nautical elements.",6,2,none,1,1,4,1,4,1,4
+contentment_0111,"The image evokes a sense of calm and elegance through its soft lighting, flowing fabric, and graceful pose, suggesting contentment and aesthetic appeal without strong emotional intensity.",6,2,people_present,1,1,3,2,4,2,5
+contentment_0113,"The image evokes a calm, slightly melancholic or pensive mood through the subject's expression and the natural, somewhat desolate setting.",3,2,prominent_faces,1,1,2,1,3,2,4
+contentment_0114,The image evokes a sense of peaceful solitude and quiet beauty through its serene sunset lighting and calm water.,6,2,none,1,1,3,1,4,1,4
+contentment_0115,"The image evokes a quiet, melancholic mood through its muted tones, stillness, and the presence of dried flowers, suggesting sadness.",3,1,none,1,1,2,1,2,1,3
+contentment_0117,The image evokes a sense of peace and tranquility through its soft colors and calm water.,6,2,none,1,1,3,1,5,1,5
+contentment_0119,"The image evokes a sense of awe and wonder through the vast, dramatic sky and the striking red landscape, creating a feeling of grandeur and natural beauty.",6,4,people_present,1,1,5,2,3,3,5
+contentment_0120,"The image evokes a sense of awe and melancholy through its dramatic, stormy sky and crashing waves against dark rocks.",3,4,none,2,1,4,1,2,4,5
+contentment_0123,"The image evokes a sense of quiet contemplation and stillness, with a large bridge stretching into a misty, calm water surface, suggesting peace and solitude.",5,2,none,1,1,3,1,3,1,4
+contentment_0124,The image evokes a sense of calm and vastness through its layered mountain silhouettes and soft lighting.,6,2,none,1,1,4,1,3,1,5
+contentment_0125,"The image evokes a somber, melancholic mood through its cold color palette, foggy atmosphere, and bare trees, suggesting sadness.",2,2,none,2,1,3,1,1,1,4
+contentment_0126,The image evokes a sense of peace and tranquility through its serene sunset reflection and calm water.,7,2,none,1,1,4,1,5,1,5
+contentment_0127,"The image evokes a sense of quiet solitude and melancholy through the vast, empty snowy landscape and the bare branches, suggesting sadness.",3,2,none,1,1,4,1,2,1,4
+contentment_0129,"The image evokes a calm, slightly melancholic mood through its focus on water textures and raindrops, suggesting tranquility and introspection.",4,2,none,1,1,3,1,2,2,4
+contentment_0130,"The image evokes a sense of awe and tranquility through its vast, snow-covered mountains and calm water reflection.",7,2,none,1,1,4,1,3,1,5
+contentment_0131,"The image evokes a sense of peaceful awe through its serene landscape, clear blue sky, and reflective water.",7,2,none,1,1,4,1,3,1,5
+disgust_0757,"The image is a dark, grainy close-up of a textured surface with no clear subject, evoking a sense of unease or mystery rather than a specific emotion.",2,3,none,3,1,2,1,1,2,2
+disgust_0758,"The image evokes a strong sense of decay and neglect through its rusted, corroded appearance, which triggers feelings of unease and potential danger.",2,3,none,4,3,2,1,2,2,2
+disgust_0759,"The image evokes a sense of unease and unease due to its abstract, textured appearance and lack of clear context.",2,3,none,2,1,3,1,1,2,2
+disgust_0763,"The image evokes a strong sense of disgust and unease due to the grotesque, blood-stained mouth and distorted features.",1,4,prominent_faces,4,5,3,1,1,3,1
+disgust_0764,"The image evokes a strong sense of horror and disgust through the graphic depiction of blood and injury, creating a highly negative and intense emotional response.",1,5,prominent_faces,5,5,3,1,1,4,2
+disgust_0765,"The image evokes a sense of unease and fear through its distorted, unsettling composition and the presence of a ghostly face.",2,4,prominent_faces,4,3,4,1,1,3,2
+disgust_0766,"The image shows a close-up of biological tissue that appears raw, fibrous, and possibly necrotic or diseased, evoking a strong sense of unease and repulsion.",2,4,none,4,5,2,1,1,3,1
+disgust_0767,"The image evokes a strong sense of disgust and unease due to the vivid red liquid resembling blood splashing from a drain, creating a disturbing and visceral reaction.",2,4,none,4,5,3,1,1,3,2
+disgust_0768,"The image evokes a strong sense of decay and abandonment through peeling paint, rust, and broken glass, creating a feeling of neglect and unease.",2,3,none,3,4,3,1,1,2,2
+disgust_0769,The image evokes a strong sense of unease and revulsion due to the grotesque pig mask and the distressed pose of the figure.,2,4,people_present,4,5,4,1,1,3,2
+disgust_0771,"The image evokes a strong sense of fear and disgust through the distorted facial expression and dark, chaotic aesthetic.",1,5,prominent_faces,5,4,3,1,1,4,2
+disgust_0772,"The image evokes a sense of unease and unease due to its dark, grainy aesthetic and the presence of what appears to be a patterned fabric with holes or markings, suggesting decay or disturbance.",2,3,none,3,2,2,1,1,2,2
+disgust_0773,"The image evokes a strong sense of fear and disgust through its graphic depiction of blood and gore, creating a disturbing and intense atmosphere.",1,5,prominent_faces,5,5,3,1,1,4,2
+disgust_0774,"The image evokes a strong sense of disgust and unease due to the black, bead-like objects filling the mouth and cheek, creating a disturbing and repulsive visual.",2,4,prominent_faces,3,5,4,2,1,2,2
+disgust_0775,"The image evokes a sense of unease and disgust due to its macabre subject matter, which is a dead or decaying mushroom-like object, suggesting a negative emotional response.",2,2,none,3,4,3,1,1,1,2
+disgust_0776,"The image evokes a mild sense of unease or disgust due to the presence of an insect on a leaf, but it is not overwhelmingly negative or threatening.",3,2,none,2,2,2,1,2,1,3
+disgust_0777,"The image evokes a sense of unease and repulsion due to the presence of a fly on a decaying flower, creating a feeling of disgust and mild threat.",3,3,none,3,4,3,1,2,2,3
+disgust_0778,The image evokes amusement through the exaggerated facial expression and playful pose.,5,4,prominent_faces,1,2,3,5,3,3,3
+disgust_0779,"The image evokes a strong sense of disgust and unease due to the decay, rust, and filth visible in the scene.",1,2,none,4,5,2,1,1,1,1
+disgust_0783,"The image evokes a strong sense of decay and abandonment, creating a feeling of unease and dread.",2,3,none,4,3,2,1,1,1,2
+disgust_0785,"The image evokes a strong sense of horror and disgust through the grotesque, decaying appearance of the subject.",1,4,prominent_faces,5,5,3,1,1,3,2
+disgust_0786,"The image evokes a strong sense of disgust and unease due to the graphic wound, which dominates the visual field and creates a visceral reaction.",2,4,people_present,4,5,3,1,1,2,2
+disgust_0790,"The image depicts a grim, disturbing scene with a face contorted in distress and a hand reaching toward a bubbling, possibly toxic substance, evoking strong feelings of horror and disgust.",1,4,prominent_faces,5,5,2,1,1,3,1
+disgust_0791,"The image shows a hand covered in black ink next to a drawing of ink splatters, evoking a sense of messy creativity or accidental chaos.",3,3,people_present,1,2,2,3,2,2,2
+disgust_0793,"The image evokes a sense of unease and disgust due to its dark, textured, and somewhat grotesque appearance, with no clear positive or playful elements.",2,3,none,3,4,3,1,1,2,2
+disgust_0794,"The image evokes a strong sense of disgust and unease through the graphic depiction of bodily fluids, creating a disturbing and repulsive atmosphere.",2,4,prominent_faces,3,5,4,1,1,3,2
+disgust_0795,"The image evokes a strong sense of revulsion and unease due to the grotesque, blood-stained appearance of the teeth and lips, which are central to the concept of disgust.",2,4,none,4,5,3,1,1,2,1
+disgust_0797,"The image evokes a strong sense of shock and revulsion due to the graphic red makeup resembling blood, combined with the intense, aggressive styling.",2,4,prominent_faces,3,4,4,1,1,3,2
+disgust_0798,"The image evokes a sense of unease and disgust through its slimy, bubbling texture and unnatural green color, which are often associated with sickness or decay.",2,3,none,3,4,3,1,1,2,2
+disgust_0799,"The image evokes a strong sense of horror and unease through its grotesque, blood-stained depiction of a person, creating a deeply unsettling and negative emotional response.",1,5,prominent_faces,5,5,3,1,1,4,2
+disgust_0801,"The image evokes a sense of unease and potential danger due to the presence of bare feet near dark, undefined terrain, suggesting fear or anxiety.",2,3,people_present,4,1,2,1,1,2,2
+disgust_0804,"The image shows a preserved, mummified-looking object that appears grotesque and unsettling, evoking strong negative emotions like disgust and fear.",2,3,none,4,5,3,1,1,2,1
+disgust_0805,"The image evokes a sense of unease and decay through its gritty textures, dark tones, and unsettling composition.",2,3,none,4,3,3,1,1,2,2
+disgust_0806,"The image evokes a sense of mystery and slight unease through the dark, shadowed lighting and the bold, almost aggressive black lipstick, creating a feeling of hidden intensity.",3,4,prominent_faces,3,2,4,2,2,3,4
+disgust_0809,"The image evokes a strong sense of horror and unease through its depiction of a person covered in blood, creating a disturbing and unsettling atmosphere.",1,4,prominent_faces,5,5,3,1,1,2,2
+disgust_0879,"The image evokes a sense of unease and disgust due to the dark, decaying appearance of the mushrooms, which are often associated with rot or decay.",2,2,none,3,4,2,1,1,1,2
+disgust_0880,"The image evokes a strong sense of disgust and horror due to the graphic depiction of blood and injury, creating a highly negative and disturbing emotional response.",1,4,people_present,5,5,3,1,1,2,1
+disgust_0883,"The image evokes a strong sense of disgust and unease due to the person's reaction to the insect-covered object, combined with a slightly unsettling, gritty aesthetic.",2,4,prominent_faces,3,5,3,2,2,3,3
+disgust_0886,The image evokes a strong sense of disgust and discomfort through the exaggerated facial expressions and the man's grotesque pose.,2,4,prominent_faces,3,5,3,2,1,3,2
+disgust_0888,"The image shows a person making a disgusted face while holding a cupcake, conveying a strong negative reaction to the food.",2,4,prominent_faces,1,3,2,3,3,3,3
+disgust_0890,"The image evokes a sense of playful curiosity and mild disgust through the act of eating flowers, creating a complex emotional response.",3,3,prominent_faces,1,3,3,4,2,2,4
+disgust_0891,"The image evokes a sense of awe and wonder through its abstract, glowing, and ethereal quality, suggesting something grand or mysterious.",6,4,none,2,1,5,1,4,3,4
+disgust_0892,"The image evokes a sense of eerie calm and melancholy through its black-and-white aesthetic, the obscured eye, and the rose held close to the face.",3,2,prominent_faces,2,1,4,1,2,1,4
+disgust_0893,"The image shows a close-up of a bloodshot eye, which evokes discomfort or unease rather than positive emotion, suggesting low valence and high threat/disgust levels.",2,3,people_present,4,3,2,1,2,2,2
+disgust_0894,"The image evokes a strong sense of fear or distress through the dark lighting, the boy's wide-open mouth, and the shadowy background.",2,4,prominent_faces,4,1,3,1,1,3,2
+disgust_0895,"The image depicts a hammer with nails driven into it, covered in dark liquid resembling blood, evoking a sense of violence and gore.",1,4,none,5,5,2,1,1,2,1
+disgust_0896,The image evokes a sense of unease and potential danger through the person's expression and the objects near their mouth.,2,4,prominent_faces,4,2,3,1,2,2,3
+disgust_0899,The image evokes a strong sense of disgust and unease due to the graphic depiction of blood and the distorted facial expression.,1,4,prominent_faces,4,5,3,1,1,3,2
+disgust_0900,The image evokes a strong sense of disgust and unease due to the graphic depiction of blood and a syringe piercing the mouth.,1,4,prominent_faces,5,5,3,1,1,3,2
+excitement_0165,"The image captures a joyful, spontaneous moment of a child feeding birds, evoking feelings of happiness and connection with nature.",6,4,prominent_faces,1,1,3,5,4,4,4
+excitement_0169,"The image evokes a sense of awe and melancholy through its dramatic, stormy sky and solitary tree, creating a powerful but slightly ominous atmosphere.",3,4,none,3,1,4,1,2,3,4
+excitement_0170,"The image evokes a strong sense of excitement and playfulness through the dog's wide-eyed, open-mouthed expression, which feels energetic and engaging rather than threatening or negative.",6,5,none,2,1,4,5,4,5,4
+excitement_0173,"The image evokes a gentle, peaceful feeling through its soft focus, warm colors, and delicate flowers.",7,2,none,1,1,3,2,5,1,5
+excitement_0176,"The image displays a vibrant, dense cluster of colorful gerbera daisies, evoking feelings of joy, warmth, and natural beauty.",7,4,none,1,1,3,4,5,3,5
+excitement_0178,"The image shows three children jumping joyfully in a beach setting, conveying high energy and happiness.",7,5,prominent_faces,1,1,3,5,4,5,4
+excitement_0179,"The image evokes a sense of wonder and beauty through its vibrant colors and intricate floral details, suggesting awe and appreciation.",6,4,none,1,1,4,2,3,3,5
+excitement_0181,The image evokes a sense of wonder and appreciation for nature's beauty through its vibrant colors and delicate details.,6,3,none,1,1,4,2,4,2,5
+excitement_0183,"The image captures a joyful, energetic moment of two people jumping on a beach, evoking feelings of excitement and playfulness.",7,5,prominent_faces,1,1,3,5,4,5,4
+excitement_0184,"The image shows people running joyfully on a beach, evoking a strong sense of happiness and energy.",7,5,people_present,1,1,3,5,5,5,5
+excitement_0186,"The image evokes a gentle, nostalgic, and peaceful feeling through its soft colors, vintage filter, and serene beach setting.",7,2,people_present,1,1,3,4,5,2,5
+excitement_0187,"The image evokes a sense of playful chaos and warmth through its vibrant, textured background and central object, suggesting a lighthearted, cozy atmosphere.",6,4,none,1,1,3,4,5,3,4
+excitement_0189,The image evokes a sense of calm beauty and tranquility through the delicate orchid and clear blue sky.,7,2,none,1,1,3,2,4,1,5
+excitement_0190,"The image evokes a sense of warmth and festivity through the glowing, colorful bokeh lights and the ornate, shiny bell ornament, creating a cozy and joyful atmosphere.",7,4,none,1,1,3,4,5,3,5
+excitement_0191,"The image evokes a sense of quiet wonder and safety through its warm, glowing light and symmetrical, protective ironwork.",6,2,none,1,1,3,1,5,1,4
+excitement_0193,"The image evokes a sense of awe and contentment through its vast, beautiful sunset and solitary figure.",7,3,people_present,1,1,4,1,5,2,5
+excitement_0194,"The image evokes a gentle, peaceful feeling through the soft smile and the act of holding a small bird, suggesting contentment and warmth.",6,2,prominent_faces,1,1,2,3,5,1,4
+excitement_0195,"The image evokes a strong sense of joy and freedom through the playful interaction between two people in a vast, beautiful landscape.",7,4,people_present,1,1,4,5,5,3,5
+excitement_0196,"The image evokes a calm, pleasant feeling due to the bright, warm colors of the tulips against a clear sky, suggesting contentment and warmth.",6,2,none,1,1,2,2,4,1,4
+excitement_0200,"The image evokes a sense of mystery and technological allure through its dark, moody lighting and dynamic light trails, suggesting excitement and novelty without being overtly positive or negative.",3,4,none,2,1,4,2,2,4,3
+excitement_0201,"The image evokes a sense of mystery and slight unease through the obscured face and intense eye, creating a contemplative but slightly unsettling mood.",3,3,prominent_faces,2,1,4,1,2,2,4
+excitement_0203,"The image evokes a sense of peaceful contentment through its serene landscape, soft lighting, and lack of human presence or threat.",6,2,none,1,1,3,1,4,2,5
+excitement_0204,The image evokes a strong sense of joy and wonder through the children's expressive body language and the beautiful autumn setting.,7,4,prominent_faces,1,1,3,5,5,4,5
+excitement_0205,The image evokes a sense of joy and playfulness through the subject's smile and the whimsical snowfall.,6,4,prominent_faces,1,1,3,5,4,3,4
+excitement_0206,"The image evokes a calm, serene, and slightly melancholic mood through its cool blue tones and soft focus, suggesting contentment or quiet reflection rather than strong emotion.",5,2,none,1,1,3,2,3,1,4
+excitement_0207,"The image evokes a sense of wonder and happiness through the subject's upward gaze and the colorful, festive background.",6,3,prominent_faces,1,1,4,4,4,2,4
+excitement_0208,The image evokes excitement and playfulness through the dynamic pose and floating papers against a bright sky.,7,5,prominent_faces,1,1,4,5,3,5,4
+excitement_0209,"The image evokes a playful, cheerful, and energetic feeling due to the bright, saturated colors and the abundance of round, candy-like shapes.",7,4,none,1,1,2,5,4,3,4
+excitement_0211,"The image shows two people laughing and smiling in a casual, playful setting, evoking amusement and warmth.",6,3,prominent_faces,1,1,2,4,4,2,3
+excitement_0212,"The image evokes a calm, peaceful feeling through its soft focus and delicate white blossoms.",6,2,none,1,1,2,2,4,1,4
+excitement_0213,"The image shows two women smiling and posing closely together, conveying a strong sense of happiness and friendliness.",7,4,prominent_faces,1,1,2,5,5,3,4
+excitement_0214,"The image evokes a sense of unease and mystery through the juxtaposition of a gas-masked figure against a backdrop of floating balloons, creating a surreal and slightly unsettling atmosphere.",3,3,people_present,3,2,4,2,2,2,3
+excitement_0215,"The image evokes a calm, peaceful feeling of contentment and safety as two people walk together on a gentle beach.",6,2,people_present,1,1,2,2,4,2,4
+excitement_0216,"The image evokes a sense of joy and lightheartedness through the subject's smile and bright clothing, suggesting amusement and playfulness.",6,3,prominent_faces,1,1,2,4,4,2,4
+excitement_0219,The image evokes a feeling of carefree joy and lightheartedness through the subject's dynamic movement and relaxed posture.,6,4,prominent_faces,1,1,2,4,3,4,3
+excitement_0221,"The image evokes a sense of calm and peacefulness through its serene winter landscape, with no signs of distress or danger.",5,2,none,1,1,3,1,2,1,4
+excitement_0222,"The image evokes a sense of calm and warmth through its soft focus, golden tones, and the gentle act of holding a bouquet.",6,2,people_present,1,1,2,1,5,1,4
+excitement_0223,"The image shows a cat peacefully interacting with grass, evoking a calm and pleasant mood.",6,2,none,1,1,2,3,4,1,4
+excitement_0224,"The image evokes a sense of excitement and playfulness through the vibrant, somewhat chaotic stage setup and the whimsical mural, creating an energetic and engaging atmosphere.",5,4,none,1,1,4,4,3,4,3
+excitement_0225,The image evokes a sense of wonder and excitement through the dynamic pose of the whale and the vibrant water background.,6,5,none,2,1,4,4,3,5,4
+excitement_0226,"The image evokes a sense of calm contentment through its warm, soft colors and gentle floral patterns.",7,2,none,1,1,2,3,5,1,5
+excitement_0229,The image evokes a strong sense of joy and playfulness through the child's delighted expression and the cheerful red balloon.,7,4,prominent_faces,1,1,3,5,4,3,4
+excitement_0230,"The image evokes a strong sense of peace and relaxation through the low-angle perspective of someone lying on grass, suggesting contentment.",6,2,people_present,1,1,3,2,4,1,3
+excitement_0231,"The image evokes a sense of wonder and joy through the silhouette of a child reaching toward a vibrant sunset, suggesting awe and excitement.",7,4,people_present,1,1,4,4,5,3,5
+excitement_0232,The image evokes excitement and joy through the dynamic pose of two people jumping against a sunset.,6,5,people_present,1,1,3,5,4,5,4
+excitement_0233,The image evokes a strong sense of joy and happiness through the children's expressions and body language.,7,3,prominent_faces,1,1,2,4,5,2,4
+excitement_0234,"The image evokes a sense of dark humor and absurdity through the anthropomorphized fruit and the knife, creating a playful yet slightly disturbing scene.",3,3,none,3,2,4,4,2,2,2
+excitement_0235,"The image evokes a strong sense of awe and excitement through the silhouette of a person celebrating against a vast, colorful sky.",7,5,people_present,1,1,5,3,4,5,5
+excitement_0236,"The image evokes a surreal, dreamlike atmosphere through its inverted color palette and stark contrast, creating a sense of wonder and unease rather than direct emotion.",3,4,none,2,1,5,1,1,2,4
+excitement_0237,The image evokes a sense of peaceful contentment through its serene forest setting and warm lighting.,6,2,none,1,1,3,1,5,1,4
+excitement_0238,"The image evokes a calm, peaceful, and slightly melancholic mood through the subject's quiet posture and the soft, natural lighting.",5,2,people_present,1,1,2,2,4,1,4
+excitement_0239,"The image evokes a gentle, whimsical feeling through its soft colors, heart motifs, and gift-like structure, suggesting contentment and playfulness.",6,2,none,1,1,3,4,4,1,4
+excitement_0241,"The image evokes a sense of calm and aesthetic appreciation through its dark, minimalist composition and vibrant, contrasting colors.",5,2,none,1,1,3,2,3,1,4
+excitement_0242,"The image evokes a sense of calm and peacefulness through the stillness of the water and the soft, natural setting.",5,2,people_present,1,1,3,2,4,2,4
+excitement_0243,"The image shows a close-up of a smiling person looking down, conveying a gentle, pleasant, and calm mood.",6,2,prominent_faces,1,1,1,3,4,1,4
+excitement_0244,"The image evokes a sense of quiet contemplation and stillness through its sepia tone, soft lighting, and absence of people or action.",4,1,none,1,1,2,1,3,1,3
+excitement_0245,"The silhouette of a swinging ride against a warm sunset creates a nostalgic, playful, and energetic mood.",6,4,people_present,1,1,2,5,5,4,4
+excitement_0246,"The image evokes a sense of playful energy through the dynamic, dancing silhouettes against a stark background.",4,4,none,1,1,3,4,2,4,3
+excitement_0248,"The image evokes a sense of wonder and happiness through the subject's upward gaze and the colorful, festive background.",6,3,prominent_faces,1,1,4,4,4,2,4
+excitement_0249,The image evokes excitement and playfulness through the dynamic pose and floating papers against a bright sky.,7,5,prominent_faces,1,1,4,5,3,5,4
+excitement_0250,"The image evokes a playful, cheerful, and energetic feeling due to the bright, saturated colors and the abundance of round, candy-like shapes.",7,4,none,1,1,2,5,4,3,4
+excitement_0251,"The image evokes a sense of wonder and curiosity through the child's upward gaze and reaching hand, creating an atmosphere of awe and playfulness.",6,4,prominent_faces,1,1,4,4,3,3,4
+excitement_0252,"The image evokes a gentle, cozy feeling through the soft yellow fabric and the child's calm, slightly smiling expression.",6,2,prominent_faces,1,1,2,3,5,1,4
+excitement_0253,"The image evokes a sense of awe and smallness in the face of nature, with a dramatic, stormy sky and a lone figure reaching up.",3,4,people_present,3,1,4,2,2,3,4
+excitement_0255,The image evokes a sense of playful curiosity and lightheartedness through the juxtaposition of a relaxed person and oversized musical instruments.,5,3,people_present,1,1,4,4,3,2,3
+excitement_0257,"The image evokes a sense of wonder and awe through its dramatic silhouette and artistic composition, suggesting a feeling of being small in the presence of something grand or mysterious.",5,4,none,2,1,5,3,2,3,4
+excitement_0258,"The image evokes excitement through the woman's dynamic pose, joyful expression, and vibrant colors against a serene backdrop.",7,5,prominent_faces,1,1,4,5,4,5,5
+excitement_0259,"The image evokes a sense of calm and warmth through the golden lighting and stillness of the glass, suggesting contentment.",6,2,none,1,1,3,1,5,1,4
+excitement_0261,"The image evokes a sense of playful rebellion and familial bonding through the shared 'punk' aesthetic of the mohawks, creating a humorous and lighthearted mood.",6,4,prominent_faces,1,1,3,5,4,3,4
+excitement_0262,"The image evokes a calm, slightly melancholic mood through its muted colors and static composition, leaning towards contentment or mild sadness.",3,1,people_present,1,1,1,2,2,1,3
+excitement_0265,"The image depicts a tender, intimate moment between two people, conveying deep affection and comfort.",7,3,prominent_faces,1,1,2,3,5,2,4
+excitement_0266,The image evokes excitement and joy through the dynamic pose of two people jumping against a sunset.,6,5,people_present,1,1,3,5,4,5,4
+excitement_0268,The image evokes a sense of awe and wonder through its grandeur and beauty.,7,4,none,1,1,5,1,5,2,5
+excitement_0269,"The image evokes a sense of comfort and indulgence through its warm, cozy presentation of a dessert, which aligns with feelings of contentment.",6,2,none,1,1,2,2,5,1,4
+fear_0667,"The image is extremely blurry and abstract, showing indistinct shapes that resemble a traffic light or similar object, evoking a sense of confusion or lack of clarity rather than a specific emotion.",3,2,none,2,1,2,1,2,1,2
+fear_0668,"The image evokes fear through the combination of a wide, fearful eye and the disturbing visual of tape over the mouth, suggesting silence or suppression.",2,4,prominent_faces,5,3,3,1,1,2,3
+fear_0673,"The image evokes a sense of eerie stillness and potential danger through its foggy, desolate forest setting.",2,2,none,4,1,3,1,2,1,3
+fear_0674,"The image shows a swarm of insects in flight, creating a sense of chaotic movement and slight unease, which evokes mild fear or disgust rather than positive emotions.",3,4,none,3,2,3,1,1,4,2
+fear_0676,The image evokes a strong sense of excitement and playfulness through exaggerated facial expressions and intense energy.,5,5,prominent_faces,2,1,4,5,3,5,2
+fear_0677,The image evokes a strong sense of fear and disgust due to the simulated blood and distressed expression.,2,4,prominent_faces,4,4,3,1,1,2,2
+fear_0678,"The image evokes fear through the wide, staring eyes and the hand covering the mouth, suggesting shock or hiding.",2,5,prominent_faces,4,2,3,1,1,4,3
+fear_0679,"The image evokes fear through the aggressive posture, bared teeth, and intense red filter.",2,5,none,5,2,3,1,1,4,2
+fear_0683,"The image evokes a sense of unease and potential danger through its dark, enclosed tunnel setting and motion blur, suggesting fear or anxiety.",2,4,none,4,1,3,1,1,4,2
+fear_0684,"The image evokes a sense of unease and vulnerability through the depiction of a bound figure, suggesting fear or distress.",2,3,none,4,2,3,1,1,2,3
+fear_0685,"The image evokes a strong sense of fear and unease through its dark, dilapidated setting and the person's distressed posture.",2,4,people_present,5,3,3,1,1,2,2
+fear_0687,"The image evokes fear through the subject's screaming expression, darkened eyes, and distressed posture.",1,5,prominent_faces,5,2,2,1,1,4,2
+fear_0688,"The image shows a dog with an aggressive, snarling expression, evoking fear and anger rather than positive emotions.",2,5,none,5,2,2,1,1,4,2
+fear_0691,"The image evokes fear through the dark, claustrophobic lighting and the person's distressed expression.",2,4,prominent_faces,4,1,3,1,1,2,3
+fear_0694,"The image evokes fear through the unsettling presence of hands reaching out from a dark void, creating a sense of vulnerability and threat.",2,4,people_present,5,1,4,1,1,3,3
+fear_0695,"The image evokes a sense of unease and potential danger through the dark, hollow eyes and industrial gas mask aesthetic.",2,4,none,4,2,3,1,1,2,3
+fear_0696,"The image evokes fear through the presence of a shadowy, threatening figure looming over a hand, creating a sense of danger and unease.",2,4,people_present,5,1,2,1,1,3,2
+fear_0697,"The image evokes a strong sense of unease and potential danger through the submerged face and the presence of blood, creating a disturbing and unsettling atmosphere.",2,4,prominent_faces,4,3,3,1,1,2,2
+fear_0698,"The image evokes a sense of melancholy and unease through its decaying industrial setting, overcast atmosphere, and barbed wire in the foreground.",2,2,none,3,1,3,1,1,1,2
+fear_0700,"The image evokes a sense of unease and fear through the cracked, distorted hand against a dark, textured background.",2,4,people_present,4,3,4,1,1,2,3
+fear_0701,"The image evokes a sense of intense, focused attention with a slightly menacing or predatory quality due to the direct gaze and high contrast.",3,4,none,4,1,3,1,2,3,4
+fear_0703,"The image evokes a strong sense of fear and distress through the distorted face and dark, chaotic background.",2,4,prominent_faces,4,3,4,1,1,3,2
+fear_0705,"The image evokes fear through its dark, blurry composition and the ominous, skull-like shape in the background.",2,4,none,5,2,3,1,1,2,2
+fear_0706,The image evokes a sense of awe and tranquility through its dramatic sky and silhouetted trees.,5,3,none,2,1,4,1,3,2,4
+fear_0707,The image evokes a sense of calm and serenity through the subject's peaceful expression and relaxed posture.,6,2,prominent_faces,1,1,3,2,4,1,4
+fear_0708,"The image evokes a sense of calm and mystery through its abstract, flowing patterns and cool color palette.",4,2,none,1,1,3,1,2,2,3
+fear_0709,"The image evokes a strong sense of fear and disgust through the grotesque, blood-stained face and intense, wide-eyed expression.",1,5,prominent_faces,5,5,4,1,1,4,2
+fear_0710,"The image evokes a sense of wonder and beauty through its artistic light painting, suggesting awe and excitement rather than negative or mundane emotions.",6,5,none,2,1,5,3,4,5,5
+fear_0711,"The image evokes a strong sense of horror and unease through the juxtaposition of a calm-looking man and his bloody, violent reflection.",2,4,prominent_faces,5,5,4,1,1,3,2
+fear_0712,"The image evokes a sense of awe and grandeur through the dramatic, powerful waves crashing against rocks and the imposing lighthouse, creating a feeling of being small in the face of nature's power.",5,5,people_present,3,1,5,1,4,5,5
+fear_0714,The image evokes a sense of fear and vulnerability through the confined space and the man's posture.,2,4,prominent_faces,4,1,4,1,1,2,3
+fear_0903,"The image evokes fear through the wide, staring eyes and the hand covering the mouth, suggesting shock or hiding something.",2,5,prominent_faces,4,1,3,2,2,4,3
+fear_0906,"The image evokes a sense of quiet intimacy and vulnerability through the pose and lighting, leaning toward contentment or mild sadness.",4,2,people_present,1,1,2,1,3,1,3
+fear_0909,"The image evokes a sense of quiet melancholy and mystery through its narrow, shadowed alleyway and weathered architecture.",3,2,none,2,1,4,1,2,1,4
+fear_0910,"The image evokes a sense of mystery and slight unease through the dark, high-contrast lighting and the person's obscured face, creating an ambiguous and somewhat unsettling mood.",3,4,prominent_faces,3,1,4,2,2,3,4
+fear_0913,"The image evokes a strong sense of distress and vulnerability through the bandaged hand and the subject's intense, weary gaze.",2,4,prominent_faces,3,2,3,1,1,2,3
+fear_0914,"The image evokes a sense of playful teasing or mild disgust through the tongue-out gesture, with a neutral to slightly negative emotional tone.",3,3,prominent_faces,1,3,2,4,2,2,2
+fear_0916,"The image evokes a sense of mystery and slight unease through the obscured face and gothic accessories, leaning towards fear or disgust rather than positive emotions.",3,4,prominent_faces,3,2,3,2,2,3,4
+fear_0917,"The image evokes a sense of playful curiosity and whimsy through the subject's interaction with a small toy, balanced by a slightly moody, stylized aesthetic.",5,3,prominent_faces,1,1,3,4,3,2,4
+fear_0918,"The image evokes a gentle, comforting feeling through the puppy's soft appearance and the warm, natural lighting.",6,2,none,1,1,2,3,5,2,4
+fear_0920,"The image shows a close-up of a human eye and mouth, evoking a sense of curiosity and mild playfulness, with no clear signs of strong emotion or threat.",4,2,prominent_faces,1,1,2,3,3,1,3
+fear_0921,"The image evokes a sense of unease and vulnerability through the subject's expression and pose, suggesting fear or anxiety rather than positive emotions.",2,4,prominent_faces,3,1,3,1,1,2,3
+fear_0922,"The image evokes a sense of melancholy and unease through its foggy, desaturated atmosphere and looming trees.",2,2,none,3,1,3,1,2,1,3
+fear_0924,"The image evokes a sense of unease and unease due to its dark, grainy aesthetic and the ambiguous, possibly unsettling presence of a face-like shape.",2,3,none,4,2,4,1,1,2,2
+fear_0925,"The image shows a person hiding behind a crib, suggesting fear or anxiety.",2,3,people_present,3,1,2,1,2,2,2
+fear_0927,"The image evokes a somber, melancholic mood through its dark tones, shadowy figure, and abstract, distressed texture.",2,2,people_present,2,1,3,1,1,2,3
+fear_0928,"The image evokes a strong sense of fear and unease through the characters' expressions and the dark, gritty aesthetic.",2,4,prominent_faces,4,2,4,1,1,3,3
+fear_0932,"The image evokes a sense of mystery and unease through the obscured face and dramatic lighting, creating a feeling of hidden identity and potential danger.",2,4,prominent_faces,4,1,4,1,1,2,3
+fear_0934,"The image evokes fear through the distorted, chaotic reflection in the eye and the explicit text, creating a sense of unease and threat.",2,4,none,4,2,4,1,1,3,3
+fear_0935,The image evokes a strong sense of sadness and vulnerability through the subject's posture and obscured face.,2,2,people_present,2,1,2,1,2,1,3
+fear_0936,The image evokes a feeling of quiet contemplation or mild sadness through the subject's pensive expression and hand gesture.,3,2,prominent_faces,1,1,2,1,3,1,4
+fear_0938,"The image evokes a somber, melancholic mood through its dark silhouette and ominous red sky, suggesting sadness.",2,2,none,3,1,3,1,1,1,4
+fear_0939,The image evokes a strong sense of fear and distress through the child's protective posture and intense gaze.,2,4,prominent_faces,4,1,3,1,2,3,3
+fear_0942,"The image evokes a sense of curiosity and slight apprehension through the child's wide-eyed gaze and the dark, shadowy background.",3,3,prominent_faces,2,1,2,2,2,2,3
+fear_0943,"The image evokes a sense of unease and fear through its dark, shadowy figure and distressed texture.",2,4,people_present,4,1,3,1,1,2,2
+fear_0946,"The image evokes a sense of mystery and unease through the obscured face and hand gesture, suggesting fear or anxiety rather than positive emotions.",2,4,people_present,3,1,4,1,1,2,3
+fear_0947,"The image evokes fear through a shadowy, ambiguous figure with a raised hand against a textured background, creating a sense of unease and potential threat.",2,4,people_present,4,1,3,1,1,3,2
+fear_0948,"The image evokes fear through the dark, claustrophobic lighting and the person's distressed expression.",2,4,prominent_faces,4,1,3,1,1,2,3
+fear_0949,"The image evokes fear through the distressed facial expression, blood-stained body, and threatening handprint.",2,4,prominent_faces,5,4,3,1,1,3,2
+fear_0950,"The image evokes fear through the intense, wide-eyed gaze and visible bloodshot veins.",2,5,prominent_faces,4,2,3,1,1,4,3
+fear_0951,"The image evokes fear through the unsettling presence of hands reaching out from a dark void, creating a sense of vulnerability and threat.",2,4,people_present,5,1,4,1,1,3,3
+fear_0952,"The image evokes a sense of unease and potential danger through the dark, hollow eyes and industrial gas mask aesthetic.",2,4,none,4,2,3,1,1,2,3
+fear_0953,"The image is dark, grainy, and features a blurry, ambiguous figure in a potentially vulnerable or distressing pose, evoking unease and sadness.",2,3,people_present,3,1,2,1,1,2,2
+fear_0954,"The image evokes fear through the presence of a shadowy, threatening figure looming over a hand, creating a sense of danger and unease.",2,4,people_present,5,1,2,1,1,3,2
+fear_0956,"The image evokes a sense of unease and unease due to the dark lighting, the person's expression, and the overall mood.",2,4,prominent_faces,3,2,2,1,1,3,2
+fear_0957,"The image evokes fear through the dark, ominous atmosphere and the person holding a knife.",2,4,prominent_faces,5,1,3,1,1,3,2
+fear_0958,"The image evokes fear through its dark, blurry composition and the ominous, skull-like shape in the background.",2,4,none,5,2,3,1,1,2,2
+fear_0959,"The image evokes a sense of unease and potential danger through the gas masks and dark setting, creating a low valence and high threat perception.",2,3,prominent_faces,4,2,4,1,1,2,3
+fear_0960,"The image evokes fear through the intense, wide eyes and the disturbing element of the mouth being taped shut.",2,5,prominent_faces,5,3,4,1,1,4,2
+fear_0962,"The image evokes a somber, melancholic mood through its dark, dilapidated setting and the solitary figure in a white dress, suggesting sadness or despair.",2,2,people_present,3,2,3,1,1,1,3
+fear_0963,"The image evokes a sense of thrill and danger through its dramatic silhouette against a moody sky, suggesting excitement and fear.",3,5,none,4,1,4,3,2,4,4
+fear_0964,"The image evokes a sense of dread and unease through its dilapidated, gothic architecture and ominous atmosphere.",2,3,none,4,2,4,1,1,2,3
+fear_0965,"The image evokes a somber, melancholic mood through the subject's posture, expression, and the stark, gritty environment.",2,2,people_present,2,1,3,1,2,1,3
+fear_0966,"The kitten's wide, curious eyes and soft fur evoke a sense of innocent wonder and gentle curiosity.",6,3,none,1,1,3,2,4,2,4
+fear_0968,"The image evokes a sense of unease and sadness through the submerged, distorted appearance of the face and the dark, murky environment.",2,3,prominent_faces,4,3,4,1,1,2,3
+fear_0969,"The image evokes a sense of wonder and vastness through the view of clouds and sunlight from an airplane window, creating a feeling of awe and calm.",6,3,none,1,1,4,1,4,2,4
+fear_0970,"The image evokes a sense of mystery and slight unease through the dark, veiled aesthetic and the intense, staring eye, creating a feeling of hidden danger or intrigue.",3,4,prominent_faces,3,1,4,1,1,2,4
+fear_0971,"The image evokes fear through the wide, staring eyes and the grotesque, smeared makeup that distorts the face.",2,5,prominent_faces,4,3,4,1,1,4,3
+fear_0972,"The image evokes a somber, introspective mood through its dark lighting and solitary figure, suggesting sadness or melancholy rather than joy or excitement.",2,2,people_present,1,1,3,1,2,2,4
+fear_0974,"The image evokes a sense of loss or sadness through the broken glasses, which symbolize a disruption or end.",3,2,none,2,1,2,1,2,1,3
+sad_0288,"The image evokes a somber, melancholic mood through the subject's pensive expression, the barren forest setting, and the muted, desaturated color palette.",2,2,prominent_faces,2,1,3,1,2,1,4
+sad_0289,"The image evokes a somber, melancholic mood through the visual of wilting roses and a gritty, textured background, suggesting loss or sadness.",2,2,people_present,1,1,3,1,2,1,3
+sad_0290,"The image features white daisies against a dark, blurred background, evoking a sense of calm and natural beauty without strong emotional intensity.",5,2,none,1,1,2,2,3,1,4
+sad_0293,"The image evokes a sense of dread and unease through its dark, empty corridor and the presence of a wheelchair, suggesting abandonment or loss.",2,3,none,4,1,3,1,1,2,3
+sad_0294,"The image evokes a calm, slightly melancholic mood through the subject's neutral expression and soft lighting.",3,2,prominent_faces,1,1,2,1,3,1,4
+sad_0296,"The image evokes a somber, melancholic mood due to the heavy storm clouds and desaturated colors, suggesting sadness.",2,3,none,2,1,2,1,1,2,3
+sad_0297,"The image evokes a somber, melancholic feeling through the clown makeup and the subject's downward gaze.",2,2,prominent_faces,2,2,4,1,1,1,3
+sad_0300,"The image evokes a somber, melancholic mood through the child's posture and the cool, desaturated color palette.",2,2,people_present,2,1,3,1,1,1,3
+sad_0301,"The image evokes a sense of melancholy and solitude through the lone tree against a vast, dim landscape.",3,2,none,1,1,4,1,2,1,4
+sad_0303,"The image evokes a sense of awe and melancholy through its dramatic, moody sky and reflective surface, creating a feeling of vastness and slight unease.",3,4,none,2,1,4,1,2,3,4
+sad_0306,"The image evokes a sense of loss or disappointment through the fallen bicycle in the snow, suggesting sadness.",2,2,none,1,1,2,1,1,1,2
+sad_0307,"The image evokes a sense of wonder and tranquility through its soft focus, dreamy lighting, and delicate subject matter.",6,2,none,1,1,4,2,4,2,5
+sad_0308,The image evokes a sense of calm and natural beauty through its soft focus and vibrant red blossoms against a cool blue background.,6,2,none,1,1,3,2,4,2,4
+sad_0309,"The image evokes a sense of calm and introspection through the solitary figure against a vast, serene seascape at twilight.",5,2,people_present,1,1,4,1,3,2,4
+sad_0311,The image evokes a sense of peaceful solitude and quiet beauty through its moody lighting and reflective water.,5,2,none,1,1,3,1,4,1,4
+sad_0312,"The image evokes a somber, melancholic mood through its desaturated, sepia-toned filter and the barren, leaf-strewn forest setting.",2,2,none,2,1,3,1,2,2,3
+sad_0314,"The image evokes a somber, melancholic mood through the subject's downward gaze, dark lighting, and the ambiguous, potentially dangerous nature of the bottle.",2,3,prominent_faces,3,1,3,1,2,2,4
+sad_0315,"The image evokes a somber, melancholic mood through the subject's downward gaze, shadowed expression, and grainy, high-contrast aesthetic.",2,2,prominent_faces,1,1,3,1,2,1,3
+sad_0316,"The image evokes a strong sense of sadness through the tear-like streaks and the somber, introspective expression.",2,3,prominent_faces,2,1,3,1,2,2,4
+sad_0318,"The image evokes a quiet, melancholic mood through its empty bench and soft, muted lighting.",3,1,none,1,1,2,1,3,1,4
+sad_0322,"The image evokes a gentle, affectionate feeling through the dog's soft fur, dark eyes, and calm expression.",6,2,none,1,1,2,3,5,1,4
+sad_0324,The image evokes a strong sense of comfort and cuteness through the puppy's relaxed posture and soft features.,7,2,none,1,1,3,4,5,1,4
+sad_0325,"The image evokes a somber, melancholic mood through the subject's expression and the dramatic, high-contrast lighting.",2,3,prominent_faces,1,1,2,1,2,2,4
+sad_0326,"The image evokes a somber, melancholic mood through its desaturated tones, overcast sky, and solitary, decaying pier.",2,2,none,1,1,3,1,1,1,4
+sad_0328,"The image evokes a sense of vulnerability and unease through the subject's expression and the dim, moody lighting.",2,3,prominent_faces,3,1,2,1,2,2,3
+sad_0330,"The image evokes sadness and distress through the depiction of a captive animal's hand gripping bars, suggesting confinement and suffering.",2,2,none,3,2,1,1,1,1,2
+sad_0331,"The image evokes a sense of dread and unease through its dilapidated setting, dark tones, and ominous red curtains, creating a feeling of fear and melancholy.",2,3,none,4,2,3,1,1,2,3
+sad_0334,"The image evokes a sense of disgust and unease due to the juxtaposition of a sweet treat with a gritty, dirty environment.",2,2,none,3,4,2,2,1,1,2
+sad_0335,"The image evokes a sense of quiet contemplation and slight unease due to the dog's intense, staring gaze and the dramatic, shadowy lighting.",3,2,none,2,1,4,1,2,1,4
+sad_0337,The image evokes a sense of sadness or melancholy through the subject's expression and posture.,2,2,prominent_faces,1,1,1,1,2,1,2
+sad_0339,"The image evokes a strong sense of sadness through the posture of the person and the stark, high-contrast black-and-white aesthetic.",2,2,people_present,1,1,2,1,1,1,3
+sad_0340,"The image evokes a somber, melancholic mood through the subject's downward gaze and the heavy chains, suggesting sadness or distress rather than joy or excitement.",2,2,people_present,3,1,2,1,2,2,3
+sad_0341,"The image evokes a calm, peaceful feeling through the lioness's relaxed posture and soft gaze.",6,2,none,1,1,2,1,4,1,4
+sad_0342,"The image evokes a strong sense of sadness through the puppy's large, watery eyes and soft, vulnerable expression.",3,2,none,1,1,2,2,4,1,4
+sad_0343,"The image evokes a sense of melancholy and loss through the drooping, withered flower against a stark black background, suggesting sadness.",2,2,none,1,1,3,1,1,2,4
+sad_0347,"The image evokes a somber, melancholic mood through the subject's downward gaze and stillness, suggesting sadness rather than neutral or positive affect.",3,2,prominent_faces,1,1,2,1,3,1,4
+sad_0348,"The image evokes a calm, comforting feeling through the presence of a soft teddy bear and colorful pencils, suggesting safety and playfulness.",6,2,none,1,1,2,4,5,1,4
+sad_0351,"The image evokes sadness through the sad face drawn on the paper held by the person, creating a somber and melancholic mood.",2,2,people_present,1,1,2,2,3,1,3
+sad_0355,"The image evokes a sense of unease and mystery through its distorted, ghostly appearance and lack of clear facial features.",2,3,people_present,3,1,4,1,1,2,3
+sad_0357,"The image evokes sadness through its somber, grungy texture and the distinct frowning face formed by holes and a wire.",2,2,none,2,1,3,2,1,1,2
+sad_0358,"The image evokes a somber, melancholic mood through its dark, high-contrast monochrome aesthetic and the withered, desolate appearance of the plant.",2,2,none,1,1,3,1,1,1,4
+sad_0359,"The image evokes a sense of calm and contentment through its relaxed posture and soft focus, with the red shoes adding a touch of warmth and playfulness.",5,2,people_present,1,1,3,3,4,1,4
+sad_0361,"The image evokes a calm, peaceful feeling through the gentle presence of a small fish and floating bubbles.",6,2,none,1,1,2,3,4,2,3
+sad_0364,The image evokes a sense of quiet sadness and loss through the handwritten note and the person's withdrawn posture.,2,2,people_present,1,1,2,1,3,1,3
+sad_0366,"The image evokes a sense of sadness or melancholy through the tiger's somber expression and the soft, muted lighting.",3,2,none,2,1,3,1,3,1,4
+sad_0367,"The image evokes a strong sense of sadness through the subject's posture, facial expression, and the somber, muted color palette.",2,2,prominent_faces,1,1,2,1,2,1,3
+sad_0370,"The image evokes a strong sense of sadness and vulnerability through the subject's posture and the gloomy, claustrophobic setting.",2,2,people_present,3,1,2,1,1,1,2
+sad_0382,"The image evokes a somber, introspective mood through the subject's downward gaze and shadowed lighting, suggesting sadness or melancholy.",3,2,people_present,1,1,2,1,2,1,3
+sad_0385,The image evokes a sense of quiet contemplation and melancholy through its silhouette and muted lighting.,3,2,none,1,1,3,1,2,1,4
+sad_0387,"The image evokes a quiet, melancholic mood through the abandoned, dusty teddy bear and dim lighting, suggesting sadness rather than joy or excitement.",3,2,none,1,1,2,2,3,1,3
+sad_0390,"The image evokes a somber, melancholic mood through its muted colors, bare trees, and still water, suggesting sadness.",2,1,none,2,1,3,1,2,1,4
+sad_0391,"The image evokes a somber, melancholic mood through the dark, stormy sky and the woman's downward gaze.",2,4,prominent_faces,3,1,4,1,1,3,4
+sad_0396,"The image evokes a somber, melancholic feeling through the depiction of a withered, dark rose, suggesting loss or the end of something beautiful.",2,2,none,1,2,2,1,2,1,3
+sad_0397,"The image evokes a sense of unease and potential danger due to the dark, shadowy figure and the eerie lighting, creating a feeling of fear.",2,3,people_present,4,1,2,1,2,1,2
+sad_0398,"The image evokes a somber, melancholic mood through the weathered stone texture and the downward gaze of the angelic figure.",2,1,none,1,1,2,1,2,1,3
+sad_0401,"The image evokes a sense of calm and freshness through its focus on dew-covered grass, suggesting contentment and tranquility.",6,2,none,1,1,3,2,4,1,5
+sad_0409,"The image evokes a somber, melancholic mood through its foggy atmosphere and decaying natural elements.",2,2,none,2,1,3,1,2,1,3
+sad_0410,"The image evokes a somber, melancholic mood through the subject's downward gaze and furrowed brow, suggesting sadness or deep contemplation.",2,2,prominent_faces,1,1,2,1,2,2,4
+sad_0411,"The image evokes a somber, melancholic mood through its desaturated tones, heavy vignette, and empty, dilapidated setting.",2,1,none,2,1,2,1,1,1,3
+sad_0414,"The image evokes a sense of unease and potential danger through its dark, tangled branches against a grey sky.",2,3,none,4,1,3,1,1,2,3
+sad_0415,"The image evokes a somber, melancholic mood through the subject's downward gaze and soft, shadowed lighting.",2,2,prominent_faces,1,1,2,1,2,1,4
+sad_0419,"The image evokes a profound sense of sadness and despair through the subject's huddled posture and the bleak, desolate environment.",1,2,people_present,3,1,2,1,1,1,2
+sad_0420,"The image evokes a quiet, melancholic mood through its stark, snowy landscape and bare branches, suggesting sadness without overt distress.",3,1,none,1,1,2,1,2,1,4
+sad_0427,"The image evokes a sense of melancholy and quiet beauty through its stark contrast and monochromatic palette, suggesting sadness rather than joy or excitement.",3,2,none,1,1,3,1,2,1,4
+sad_0430,"The image evokes a somber, melancholic mood through the figure's posture and the foggy, desolate setting.",2,1,people_present,1,1,2,1,1,1,3
+sad_0433,"The image evokes a sense of sadness or melancholy due to the solitary red domino with a frowning face standing out against a sea of white, static dominoes.",2,2,none,2,1,3,2,2,1,3
+sad_0434,"The image evokes a sense of peaceful solitude and quiet reflection through its misty, muted tones and solitary boat.",6,2,people_present,1,1,4,1,4,1,5
+sad_0435,"The image shows a dense, overgrown wall of ivy and a close-up of a withered, dying vine, evoking a sense of decay and neglect rather than positive emotion.",2,2,none,2,2,2,1,2,1,2
+sad_0436,"The image evokes a sense of melancholy and quiet loss through the withered plant against a blurred, somber background.",2,1,none,1,1,2,1,2,1,4
+sad_0441,"The image evokes a sense of sadness or melancholy through the subject's posture and expression, with no clear signs of joy or threat.",3,2,people_present,1,1,2,1,2,2,3
+sad_0443,"The image evokes a sense of solemnity and slight unease through its stark, imposing architecture and the presence of birds against a textured sky.",3,2,none,2,1,3,1,2,1,3
+sad_0444,"The image evokes a melancholic, quiet mood through its muted colors and isolated, withering leaves against a dark, moody background.",3,2,none,1,1,2,1,2,1,4
+sad_0446,"The image evokes a somber, melancholic mood through the crouching posture and muted colors, suggesting sadness or introspection.",2,2,people_present,2,1,2,1,2,1,2
+sad_0447,"The image evokes a somber, melancholic mood through its cool blue monochromatic palette, droplets on petals, and soft focus, suggesting sadness.",2,2,none,1,1,3,1,1,1,4
+sad_0448,"The image evokes a sense of vulnerability and potential distress through its dark, shadowy composition and ambiguous posture, leaning towards fear or sadness.",2,3,people_present,3,1,2,1,2,2,2
+sad_0449,"The image evokes a somber, melancholic feeling due to the solitary figure and rows of graves.",2,2,people_present,2,1,3,1,2,1,3
+sad_0450,"The image evokes a calm, contemplative mood through the juxtaposition of delicate glass spheres on classical sheet music, suggesting quiet appreciation or nostalgia.",5,2,none,1,1,3,2,4,1,4
+sad_0451,"The cat's wide, alert eyes and soft focus create a sense of gentle curiosity and calmness, evoking a feeling of peaceful observation.",6,3,none,1,1,2,2,4,2,4
+sad_0454,"The image evokes a somber, melancholic feeling due to the sepia tone, bare trees, and solemn gravestones.",2,1,none,2,1,3,1,2,1,3
+sad_0455,"The image evokes a sense of isolation and low energy, with the person's posture suggesting sadness or contemplation.",2,1,people_present,1,1,1,1,2,1,2
+sad_0456,"The image evokes a somber, introspective mood through the heavy smoke and dim lighting, suggesting sadness or melancholy rather than positive or high-energy emotions.",2,3,prominent_faces,2,1,3,1,2,2,3
+sad_0457,"The image evokes a somber, melancholic mood through the closed eyes and the striking red streak resembling a tear or blood, suggesting deep sadness or distress.",2,3,prominent_faces,3,2,2,1,2,2,3
+sad_0458,"The image evokes sadness through the prominent tear and the intense, focused gaze of the eye.",2,4,prominent_faces,2,1,4,1,1,3,4
+sad_0459,"The image evokes a sense of melancholy and isolation through its foggy, muted tones and bare trees, suggesting sadness.",2,2,none,2,1,3,1,2,1,4
+sad_0460,"The image evokes a sense of awe and solemnity through the dramatic, heavy clouds and the solitary church, creating a feeling of grandeur and slight unease.",3,4,none,3,1,4,1,2,3,4
+sad_0461,"The image evokes a somber, melancholic mood through the statue's sorrowful expression and the presence of a lily, suggesting sadness.",2,2,none,1,1,3,1,2,1,4
+sad_0462,"The image evokes amusement through the anthropomorphic face formed by holes in the leaf, creating a lighthearted and humorous effect.",6,3,none,1,1,4,5,4,2,4
+sad_0464,"The image evokes a sense of solitude and perhaps slight melancholy due to the dark, dense tree against a moody sky, suggesting sadness.",3,2,none,2,1,3,1,2,1,3
+sad_0610,"The image evokes a sense of peaceful solitude and natural beauty, with a lone tree and bird flight suggesting calmness and wonder.",6,3,none,1,1,4,2,4,2,5
+sad_0612,"The image evokes a profound sense of melancholy and isolation through its vast, empty landscape and solitary figure.",2,2,people_present,2,1,4,1,2,1,4
+sad_0614,"The image evokes a sense of unease and unease through the juxtaposition of a human face and a mannequin, creating a feeling of artificiality and potential danger.",2,4,people_present,4,3,4,1,2,2,3
+sad_0616,"The image evokes a sense of wonder and anticipation through the vast, dark space and the solitary figure reaching upward, suggesting awe.",5,3,people_present,1,1,4,2,2,2,4
+sad_0617,"The image evokes a sense of melancholy and abandonment through the weathered boat and desolate beach, creating a somber mood.",3,3,none,1,1,4,1,2,2,4
+sad_0619,"The image evokes a strong sense of unease and dread through its surreal, disturbing composition of a disembodied torso suspended by a hook against a bleak seascape.",2,4,none,5,4,5,1,1,2,2
+sad_0620,"The image evokes a sense of vulnerability and isolation through the hands reaching out from the water onto a decaying wooden structure, suggesting sadness or fear.",2,2,people_present,3,2,3,1,2,1,3
+sad_0621,"The image evokes a sense of vastness and solitude, with a small sailboat on a shimmering sea under a cloudy sky, suggesting awe and calmness.",4,2,none,1,1,4,1,2,2,4
+sad_0622,"The image evokes a sense of melancholy and unease through the scattered feathers and the cold, eerie atmosphere.",2,2,none,3,1,4,1,1,2,3
+sad_0623,"The image evokes a sense of awe and tranquility through its vast, colorful sunset and solitary figures.",6,3,people_present,1,1,4,1,4,2,5
+sad_0624,"The image evokes a sense of quiet solitude and melancholy through the heavy snowfall and lone figure, suggesting sadness.",3,2,people_present,1,1,4,1,2,1,4
+sad_0625,"The image evokes a sense of impending storm or natural power, creating a feeling of awe and slight unease.",3,4,none,3,1,4,1,2,3,4
+sad_0626,"The image evokes a sense of awe and mystery through its dramatic lighting, dark atmosphere, and solitary figure, creating a feeling of wonder and slight unease.",3,4,people_present,3,1,5,1,2,2,4
+sad_0627,"The image evokes a somber, melancholic mood through its desaturated color palette, snowy setting, and abandoned playground equipment, suggesting sadness.",2,1,none,1,1,2,1,1,1,3
+sad_0630,"The image evokes a sense of solitude and vastness through the lone tree and expansive sky, creating a feeling of awe and quiet contemplation.",4,2,none,1,1,4,1,2,2,4
+sad_0631,"The image evokes a sense of awe and tranquility through its vast, serene landscape and the solitary horse at sunset.",6,2,none,1,1,4,1,4,1,5
+sad_0635,"The image evokes a somber, melancholic, and slightly eerie mood through its dark, textured aesthetic and the subject's distant, sorrowful expression.",2,2,prominent_faces,3,2,4,1,1,1,4
+sad_0636,"The image evokes a strong sense of fear and unease through its dark, claustrophobic setting and the unsettling figure.",2,4,people_present,5,3,4,1,1,2,3
+sad_0637,"The image evokes a sense of melancholy and introspection, with the subject leaning against a graffiti-covered wall, suggesting loneliness or contemplation.",3,2,people_present,1,1,2,1,2,1,3
+sad_0639,"A lone yellow flower against a dark, textured background evokes a sense of quiet resilience and subtle beauty, suggesting mild contentment or awe.",5,2,none,1,1,3,2,3,1,4
+sad_0640,"The image evokes a sense of awe and melancholy through the vast, stormy sky and the solitary figure, creating a feeling of smallness against nature.",3,4,people_present,3,1,4,1,2,3,4
+sad_0641,"The foggy, desolate path with a solitary figure evokes a somber, melancholic mood typical of sadness.",2,2,people_present,2,1,3,1,2,1,4
+sad_0642,"The image evokes a sense of quiet melancholy and loneliness through the anthropomorphic wire figures sitting on a railing, suggesting sadness.",2,2,none,1,1,3,2,2,1,3
+sad_0643,"The image evokes a sense of peaceful solitude and quiet wonder through its serene night scene, large moon, and solitary figure.",6,2,none,1,1,4,1,4,1,5
+sad_0645,"The image evokes a strong sense of sadness through the subject's hunched posture, head bowed, and isolated setting.",2,2,people_present,1,1,2,1,2,1,4
+sad_0647,"The image evokes a sense of melancholy and abandonment through the stillness of the swings and the solitary teddy bear, creating a somber mood.",2,1,none,1,1,2,2,2,1,3
+sad_0648,"The image evokes a sense of solitude and quiet contemplation, with a lone figure gazing out over a vast, calm body of water under a wide sky.",4,1,people_present,1,1,2,1,2,1,3
+sad_0649,"The image evokes a somber, melancholic mood through its desaturated color palette, overcast sky, and the solitary figure standing motionless on the tracks.",2,2,people_present,3,1,3,1,2,1,3
+amusement_0489,"The image evokes a sense of calm and contentment through the soft lighting, the presence of yellow balloons, and the relaxed posture of the person.",6,2,people_present,1,1,2,3,4,2,3
+amusement_0494,"The image evokes a sense of awe and contentment through the vast, beautiful sunset and the person's open, embracing posture.",7,3,people_present,1,1,4,2,5,2,5
+amusement_0504,"The image shows a person in a playful, energetic pose, suggesting amusement and lightheartedness.",6,4,prominent_faces,1,1,2,5,3,4,3
+amusement_0507,"The image evokes a serene, peaceful feeling through the warm sunset colors and the calm walk of two figures on the beach.",7,2,people_present,1,1,3,2,5,2,5
+amusement_0512,"The image evokes a sense of nostalgic joy and playfulness through the children running hand-in-hand, set against a dramatic, moody sky that adds emotional depth.",6,4,people_present,1,1,3,5,4,4,4
+amusement_0513,The image evokes a strong sense of contentment and warmth through the golden hour lighting and the family interaction with birds.,7,3,people_present,1,1,3,4,5,3,4
+amusement_0514,The image evokes a strong sense of joy and freedom through the subject's dynamic movement and genuine smile.,7,4,prominent_faces,1,1,2,5,5,4,4
+amusement_0515,"The image evokes a sense of calm and contentment through its bright, cheerful colors and the peaceful interaction with nature.",6,3,people_present,1,1,3,4,5,2,4
+amusement_0516,The image evokes a sense of calm and natural beauty through its soft focus and delicate flowers.,6,2,none,1,1,2,2,4,1,4
+amusement_0520,"The image evokes a sense of whimsy and lightness through the bright red object against a vast blue sky, suggesting playfulness and joy.",6,3,none,1,1,4,5,4,2,4
+amusement_0525,"The image shows a close-up of a smiling mouth, conveying a positive, lighthearted, and friendly emotion.",6,3,prominent_faces,1,1,2,4,4,2,3
+amusement_0534,"The image captures a moment of intense, uninhibited joy and freedom, characterized by the subject's open-mouthed laughter and upward gaze against a vast, bright sky.",7,5,prominent_faces,1,1,4,5,4,5,4
+amusement_0535,"The image shows a relaxed, smiling person lying on a patterned surface, conveying a sense of comfort and lightheartedness.",6,3,prominent_faces,1,1,2,4,5,2,4
+amusement_0538,"The image evokes a sense of wonder and beauty through its vibrant, swirling colors and intricate floral structure.",7,4,none,1,1,5,3,4,3,5
+amusement_0541,"The image evokes a sense of peaceful solitude and quiet beauty through its soft lighting, snow-covered landscape, and solitary trees.",6,2,none,1,1,4,1,4,1,5
+amusement_0543,"The image evokes a sense of awe and wonder through the dramatic sky and the ethereal quality of the yellow fabric, creating a visually striking and somewhat surreal atmosphere.",5,4,people_present,1,1,4,2,3,3,4
+amusement_0547,"The image evokes a sense of unease and slight fear due to the stark red background and the repetitive, slightly unsettling text inside the doorway.",3,4,none,3,1,4,2,2,2,3
+amusement_0722,"The image evokes a sense of playful surprise and lightheartedness through the juxtaposition of a superhero costume and a group of children and ducks, creating a whimsical and engaging scene.",6,4,prominent_faces,1,1,4,5,4,3,3
+amusement_0723,"The image evokes a sense of playful absurdity and whimsy through the surreal fox-head costume and the dynamic, almost frantic movement of the figure, creating a feeling of lighthearted excitement rather than genuine fear or distress.",5,4,people_present,2,1,4,5,3,4,4
+amusement_0724,"The image evokes a gentle, comforting feeling through the cute, wrapped chick, suggesting safety and playfulness.",6,2,none,1,1,3,4,5,1,4
+amusement_0727,The image evokes a sense of playful suspense and mild fear through the juxtaposition of a toy gun and a strawberry with a shocked face.,4,3,none,3,1,4,4,2,2,3
+amusement_0730,"The image evokes amusement through the juxtaposition of a cute plush toy with snack packaging, creating a lighthearted and humorous scene.",6,3,none,1,1,3,5,4,2,3
+amusement_0731,"The image evokes a sense of anticipation and mild excitement as a group of people wait by the water, with a relaxed and playful atmosphere.",6,3,prominent_faces,1,1,2,4,4,2,3
+amusement_0739,"The image evokes a calm, slightly humorous, and peaceful feeling through the juxtaposition of a curious cat and a row of colorful shoes.",5,2,none,1,1,2,3,4,1,3
+amusement_0741,"The image evokes a strong sense of intimacy and playfulness through the close-up of a man and a child sharing a kiss, with the man's wide-eyed expression suggesting surprise or delight.",6,4,prominent_faces,1,1,3,5,5,3,4
+amusement_0744,"The cat's wide eyes and open mouth create a comical, startled expression that is highly amusing and lighthearted.",6,4,none,1,1,3,5,4,3,4
+amusement_0750,"The image evokes a sense of awe and grandeur through the dramatic silhouette against a vast sky, suggesting a powerful, almost spiritual or heroic moment.",5,4,people_present,2,1,4,2,2,4,4
+amusement_0752,"The image evokes a sense of unease and slight disgust due to the anthropomorphic faces drawn on citrus fruits, which are typically associated with food and freshness.",3,3,none,2,3,4,3,2,2,2
+amusement_0753,"The image evokes a sense of playful curiosity and slight unease through the tilted frame and the person's intense gaze, creating a mood that is intriguing but not overtly positive or negative.",4,3,prominent_faces,2,1,4,3,2,2,3
+amusement_0754,"The image evokes amusement through the absurdity of a kitten in a blender, with a mix of playful and slightly disturbing elements.",5,4,none,3,2,4,5,3,3,3
+anger_0001,The image evokes a sense of peaceful contentment through the relaxed posture of the cat in soft sunlight.,6,2,none,1,1,2,2,5,1,4
+anger_0006,"The image evokes a sense of intense, focused attention or perhaps anger through the narrowed eye and aggressive lighting.",2,5,prominent_faces,3,1,3,1,1,4,3
+anger_0008,"The image evokes a feeling of intense, brooding anger or aggression through the man's glaring eye and the act of smoking.",2,5,prominent_faces,4,2,3,1,1,4,3
+anger_0011,"The image evokes a strong sense of anger and aggression through the subject's intense facial expression, furrowed brows, and direct gaze.",2,5,prominent_faces,4,1,2,1,1,4,3
+anger_0016,"The image shows a hand drawing a stick figure and a shocked face on a whiteboard, evoking a sense of playful storytelling or teaching.",5,4,people_present,1,1,2,4,3,3,2
+anger_0020,"The image evokes a sense of awe and dramatic tension through the towering, turbulent storm clouds looming over the white buildings, creating a feeling of smallness and grandeur.",4,5,none,4,1,5,1,2,5,4
+anger_0023,"The image depicts a person screaming in distress with hands on their head, conveying intense negative emotion and fear.",1,5,prominent_faces,4,2,2,1,1,5,2
+anger_0024,"The image shows a person in a bathroom with a distressed or intense facial expression, hands clasped near the face, suggesting high emotional arousal but not necessarily positive valence.",3,5,prominent_faces,2,1,2,2,2,4,2
+anger_0027,"The image evokes a sense of seduction and allure through the subject's direct gaze, confident expression, and elegant attire, creating a feeling of intrigue rather than overt emotion.",5,4,prominent_faces,1,1,3,2,3,2,5
+anger_0028,"The image shows a horse in mid-motion, possibly rearing or jumping, which conveys high energy and playfulness but lacks human presence or clear emotional cues from faces.",4,5,none,2,1,3,4,3,5,3
+anger_0029,"The image evokes a sense of unease and fear through the dark, chaotic hair and intense, staring eyes.",2,4,prominent_faces,4,2,4,1,1,3,3
+anger_0252,The image evokes a sense of wonder and excitement through the dynamic light trails and the person's expressive face.,6,5,prominent_faces,1,1,5,3,2,5,4
+anger_0257,"The image evokes a sense of awe and power through the dramatic, crashing waves and the dramatic lighting, creating a feeling of intense natural beauty and grandeur.",5,5,none,3,1,5,1,2,5,5
+anger_0260,"The image evokes a somber, melancholic mood through its gloomy sky, flock of birds, and weathered architecture, suggesting sadness.",2,3,none,2,1,3,1,1,3,3
+anger_0263,"The image evokes excitement through the man's intense, energetic pose and facial expression, set against a warm, slightly cluttered indoor backdrop.",5,5,prominent_faces,1,1,3,4,4,5,3
+anger_0268,"The image evokes a sense of awe and power through the crashing waves and rugged rocks, creating a dramatic and intense atmosphere.",3,5,none,3,1,4,1,1,5,4
+anger_0800,"The image evokes a sense of mystery and slight unease through the shadowy hand reaching toward the candle, creating an atmosphere of suspense rather than comfort.",3,4,people_present,3,1,4,1,3,2,3
+anger_0802,"The image evokes excitement and energy through the dynamic movement of the subject's hair and body, creating a sense of motion and intensity.",4,5,people_present,1,1,3,2,2,5,4
+anger_0803,"The image evokes a sense of frustration or suppressed anger through the clenched fist and obscured face, creating a feeling of tension and conflict.",3,4,people_present,2,1,2,1,2,3,3
+anger_0808,The image evokes a sense of vulnerability and sadness through the redness and irritation of the eye.,2,2,people_present,2,1,2,1,2,1,3
+anger_0813,"The image evokes a feeling of intense, brooding sadness or fear through the direct, piercing gaze and the stark, high-contrast lighting.",2,4,prominent_faces,3,1,3,1,1,3,4
+anger_0814,"The image evokes a strong sense of fear and unease through its dark, gothic aesthetic and the subject's intense, unsettling expression.",2,5,prominent_faces,4,3,4,1,1,4,3
+anger_0826,"The image evokes a sense of unease and potential danger through the juxtaposition of a teddy bear holding a knife, creating a disturbing and unsettling feeling.",2,3,none,5,3,4,1,1,2,2
+awe_0032,"The image evokes a sense of calm and solitude through its minimalist composition, vast sky, and solitary tree.",5,2,none,1,1,3,1,3,2,4
+awe_0049,The image evokes a sense of calm and peacefulness through the serene sunset and silhouetted figures.,6,2,people_present,1,1,3,1,5,2,4
+awe_0051,The image evokes a sense of calm and wonder through the vast ocean and the child's contemplative stance.,6,3,people_present,1,1,4,2,4,2,4
+awe_0052,"The image evokes a sense of peaceful contentment through its warm, golden lighting and serene natural setting.",7,2,none,1,1,3,1,5,1,4
+awe_0053,The image evokes a sense of calm and vastness through its minimalist composition and soft water textures.,5,2,none,1,1,3,1,3,2,4
+awe_0055,The image evokes a sense of quiet nostalgia and peaceful stillness through its muted colors and simple architectural elements.,5,2,none,1,1,3,2,4,1,4
+awe_0056,"The image evokes a sense of calm and gentle beauty through its soft focus, natural subject, and warm lighting.",6,2,none,1,1,3,2,4,1,4
+awe_0057,"The image evokes a sense of melancholy and solitude through the lone figure under an umbrella against a dramatic, stormy sky.",3,4,people_present,2,1,4,1,2,3,4
+awe_0058,"The image evokes a sense of wonder and curiosity as the children gaze out the window, suggesting awe and mild excitement.",6,3,prominent_faces,1,1,3,2,4,2,3
+awe_0060,"The image evokes a calm, peaceful feeling through its soft focus, warm colors, and natural setting.",6,2,none,1,1,3,1,5,1,4
+awe_0579,"The image evokes a sense of quiet contentment and warmth through the cozy embrace and soft lighting, with no signs of distress or high energy.",6,2,people_present,1,1,2,2,5,1,4
+awe_0583,"The image evokes a sense of wonder and protection through the glowing orb held in hands, suggesting awe and safety.",6,3,people_present,1,1,4,2,5,2,4
+awe_0591,"The image shows a person jumping in a field under a bright sky, conveying joy and freedom.",7,5,people_present,1,1,3,5,4,5,4
+awe_0597,"The image evokes a sense of awe and unease through its low-angle perspective, industrial architecture, and ominous sky.",3,4,none,3,1,4,1,1,2,3
+awe_0598,"The image evokes a sense of quiet beauty and gentle renewal through blooming flowers against a soft, muted background.",6,2,none,1,1,3,2,4,1,4
+awe_0599,"The image evokes a sense of wonder and mystery through its dark, moody atmosphere and the glowing, jewel-like object nestled within the flower, creating an awe-inspiring yet slightly unsettling feeling.",3,4,none,2,1,5,1,2,2,4
+awe_0600,The image evokes a sense of wonder and quiet contemplation through the surreal act of a girl playing a flute on a ladder in a vast field.,6,3,people_present,1,1,5,2,4,2,4
+awe_0603,The image evokes a strong sense of joy and contentment through the children's expressions and physical closeness.,7,3,prominent_faces,1,1,2,4,5,2,4
+awe_0832,The image evokes a sense of awe and melancholy through the dramatic storm clouds and solitary tree.,3,4,none,2,1,4,1,2,3,5
+awe_0841,"The image evokes a sense of quiet contemplation and wonder at the cityscape and moon, suggesting a calm, slightly melancholic but peaceful mood.",5,2,people_present,1,1,4,1,3,2,4
+awe_0843,"The image evokes a sense of unease and entrapment due to the spiral pattern and the person's posture, suggesting fear or anxiety rather than positive emotions.",2,3,people_present,4,1,3,1,1,2,2
+awe_0847,The image evokes a sense of calm and natural beauty through the serene fox in a snowy landscape.,6,3,none,1,1,4,2,4,2,5
+awe_0848,The image evokes a sense of awe and tranquility through its dramatic sunset and reflective wetlands.,6,4,none,1,1,4,1,5,3,5
+awe_0850,The image evokes a sense of wonder and grandeur through its architectural scale and warm lighting.,6,3,none,1,1,4,1,5,2,5
+awe_0852,The image evokes a sense of wonder and awe through its unique perspective and vibrant colors.,6,4,none,1,1,5,2,4,3,5
+awe_0860,"The image evokes a sense of vastness and mystery through its monochromatic palette and dramatic cloud formations, creating an atmosphere of awe and contemplation.",4,3,none,2,1,4,1,2,2,4
+awe_0863,The image evokes a sense of calm and awe through its serene seascape and long-exposure water effects.,5,2,none,1,1,4,1,2,2,5
+awe_0865,"The image evokes a sense of ethereal beauty and emotional release, with soft lighting and flowing fabric creating a dreamlike atmosphere.",6,4,prominent_faces,1,1,4,2,3,3,5
+awe_0870,"The image evokes a sense of awe and tranquility through its dramatic sky and reflective water, creating a peaceful yet grand atmosphere.",7,3,none,1,1,5,1,4,2,5
+awe_0876,"The image evokes a sense of quiet solitude and melancholy through its soft, dreamy colors and the lone bird perched on bare branches.",3,1,none,1,1,2,1,2,1,4
+awe_0877,The image evokes a strong sense of calm and comfort through the soft textures and the cat's relaxed posture.,7,2,none,1,1,3,3,5,1,5
+contentment_0062,"The image evokes a sense of calm and mild melancholy through the subject's subdued expression and the overcast, static environment.",3,2,prominent_faces,1,1,2,2,3,1,3
+contentment_0067,"The image evokes a sense of wonder and beauty through its bokeh effect and warm lighting, suggesting awe and positive emotion.",6,4,none,1,1,4,3,5,3,5
+contentment_0079,"The image evokes a sense of quiet contemplation and artistic appreciation through its monochromatic tone, dramatic lighting, and carefully arranged objects.",4,2,none,1,1,3,1,3,2,4
+contentment_0081,"The image evokes a sense of fear or unease due to the stark contrast between the vibrant red dress and the cold, grey, imposing wall, combined with the woman's raised, somewhat vulnerable posture.",3,4,people_present,3,1,4,1,2,2,4
+contentment_0083,"The image evokes a sense of calm and vastness through its expansive sky and golden field, suggesting contentment and awe.",6,2,none,1,1,3,1,4,1,4
+contentment_0086,The image evokes a deep sense of peace and tranquility through its serene sunset over calm water.,7,2,none,1,1,3,1,5,1,5
+contentment_0088,"The image evokes a gentle, peaceful feeling through soft pink blossoms and a clean, bright composition.",7,2,none,1,1,2,2,5,1,5
+contentment_0089,"The image evokes a sense of awe and tranquility through its ethereal, long-exposure seascape and dramatic sky.",6,3,none,1,1,4,1,3,2,5
+contentment_0091,The image evokes a sense of calm and peacefulness through the serene underwater scene and the girl's tranquil expression.,6,2,prominent_faces,1,1,3,2,4,2,4
+contentment_0095,The image evokes a sense of awe and tranquility through its dramatic sky and serene water.,6,3,none,1,1,4,1,3,2,5
+contentment_0100,"The image evokes a calm, peaceful feeling through the relaxed posture of the white cat in soft sunlight.",6,2,none,1,1,2,3,5,1,4
+contentment_0103,"The image evokes a sense of playful, theatrical performance with a slightly provocative or avant-garde aesthetic, leaning toward amusement and novelty rather than strong emotion.",4,3,prominent_faces,1,1,4,3,2,2,3
+contentment_0104,"The image evokes a somber, melancholic mood through the cool blue lighting and the subject's pensive expression.",2,2,prominent_faces,1,1,3,1,2,1,4
+contentment_0105,"The image evokes a sense of calm and tranquility through its serene water and soft lighting, suggesting contentment.",6,2,none,1,1,3,1,4,2,4
+contentment_0108,"The image evokes a sense of awe and melancholy through its dramatic, dark clouds and golden horizon.",3,4,none,2,1,4,1,2,3,4
+contentment_0112,The image evokes a sense of calm and peace through its serene natural setting.,6,2,none,1,1,3,1,4,1,4
+contentment_0116,"The image evokes a sense of peaceful rest and intimacy, with soft lighting and a relaxed posture suggesting contentment.",6,2,people_present,1,1,2,1,5,1,4
+contentment_0118,"The image evokes a sense of melancholy and introspection through its dark, shadowy silhouette and moody lighting.",2,2,people_present,1,1,3,1,2,2,3
+contentment_0121,"The image evokes a sense of awe and tranquility through its vast, serene seascape and dramatic sky.",6,2,none,1,1,4,1,4,2,5
+contentment_0122,"The image evokes a sense of awe and potential danger through its dramatic, dark storm clouds and ominous silhouette.",3,4,none,4,1,4,1,1,4,4
+contentment_0128,"The image evokes a sense of calm and stillness through its muted colors and smooth water, suggesting a peaceful but somewhat melancholic mood.",3,1,none,1,1,3,1,2,1,4
+disgust_0760,"The image evokes a sense of awe and intensity through its vibrant, textured abstract composition.",4,5,none,2,1,5,1,2,5,4
+disgust_0761,"The image evokes a strong sense of disgust and unease due to the graphic makeup resembling blood and injury, creating a disturbing and repulsive visual.",2,4,prominent_faces,4,5,3,1,1,2,2
+disgust_0770,"The image evokes a sense of disgust and negativity due to the burnt cigarette and its placement on a rough, cracked surface.",2,2,none,2,4,1,1,1,1,1
+disgust_0780,"The image evokes a sense of unease or mild fear due to the presence of a spider, which is often associated with disgust or fear in affective computing contexts.",3,2,none,3,2,2,1,1,1,2
+disgust_0782,"The image shows a close-up of insect larvae, which are generally considered unappealing or repulsive, evoking a sense of disgust rather than positive emotion.",2,2,none,2,4,2,1,1,1,2
+disgust_0784,"The image evokes a sense of awe and wonder through its abstract, symmetrical, and ethereal composition.",6,4,none,1,1,5,2,3,3,4
+disgust_0787,"The image evokes a sense of unease and unease through its chaotic, abstract composition and warm, earthy tones.",3,4,none,3,2,4,1,4,4,3
+disgust_0792,"The image evokes a strong sense of horror and revulsion through its graphic depiction of blood and injury, creating a deeply unsettling and negative emotional response.",1,4,people_present,5,5,2,1,1,2,1
+disgust_0796,"The image evokes a strong sense of disgust and unease due to the graphic depiction of blood and gore, which dominates the visual experience.",2,4,prominent_faces,4,5,3,1,1,2,2
+disgust_0800,"The image evokes a sense of mild disgust or unease due to the presence of a fly on a mushroom, which is a common trigger for negative affect in affective computing studies.",3,2,none,2,3,2,1,3,1,2
+disgust_0802,"The image evokes a sense of unease and disgust through its close-up, chaotic arrangement of slimy, wet, and tangled organic matter, which feels repulsive and unsettling.",2,3,none,2,4,2,1,1,2,2
+disgust_0803,"The image evokes a strong sense of disgust and unease due to the blood splatter and broken thermometer, creating a disturbing and negative emotional response.",2,4,none,5,5,3,1,1,3,1
+disgust_0807,"The image depicts a graphic, bloody wound on a human body, which is inherently disturbing and evokes strong negative emotions like disgust and fear.",1,4,people_present,5,5,2,1,1,2,1
+disgust_0882,"The image evokes a mix of playfulness and slight disgust due to the tongue piercing and open mouth, but the red rose adds a romantic or aesthetic element.",3,4,prominent_faces,2,3,3,4,2,3,3
+disgust_0884,"The image evokes sadness through the orange's carved facial expression, which resembles a crying face.",2,2,people_present,1,2,3,3,3,1,2
+disgust_0885,"The image evokes a dark, gothic aesthetic with a distressed subject, creating a feeling of unease and sadness rather than positive emotion.",2,4,prominent_faces,3,2,3,1,1,3,3
+disgust_0887,"The image evokes a strong sense of disgust and shock through the exposed tongue and unusual glasses, creating a jarring, high-energy, and slightly disturbing visual.",2,5,prominent_faces,3,4,4,3,1,5,3
+disgust_0889,"The image evokes a sense of unease and potential danger through the presence of blood-like stains and a person wearing protective gear, suggesting a disturbing or threatening scenario.",2,4,people_present,4,3,3,1,1,3,2
+disgust_0897,"The image depicts a grotesque, stitched wound on a face, evoking horror and revulsion rather than a standard discrete emotion, which drives the negative valence and high disgust/threat scores.",1,4,prominent_faces,5,5,3,1,1,2,1
+disgust_0898,"The image evokes a strong sense of unease and revulsion due to the distorted mouth and dark, shadowy atmosphere.",2,4,prominent_faces,4,5,3,1,1,3,2
+disgust_0901,"The image evokes a sense of mild disgust or unease due to the act of eating wires, which is unusual and potentially repulsive, but the overall tone is not highly negative or threatening.",3,2,prominent_faces,2,4,3,2,2,1,2
+excitement_0161,"The image evokes a sense of dread and foreboding due to the ominous, dark smoke billowing over a residential area, suggesting a threat or disaster.",2,4,none,5,2,4,1,2,3,3
+excitement_0164,"The image shows a joyful child swinging with an open-mouthed expression, conveying pure happiness and excitement.",7,5,prominent_faces,1,1,2,5,4,5,4
+excitement_0166,"The image shows a close-up of a human eye with a calm, neutral expression, evoking a sense of quiet observation or mild curiosity.",4,2,people_present,1,1,3,1,3,1,4
+excitement_0167,"The image evokes excitement and playfulness through the dynamic motion of the swing ride against a bright sky, with no visible faces to convey specific emotions.",6,5,people_present,1,1,3,5,3,5,4
+excitement_0172,"The image evokes a sense of playful curiosity and slight unease through the distorted, layered faces and vintage aesthetic.",4,4,prominent_faces,2,1,4,4,3,3,3
+excitement_0174,"The image evokes a strong sense of triumph and awe through the silhouette of a person celebrating against a vast, colorful sky.",7,4,people_present,1,1,4,3,4,4,5
+excitement_0175,"The image evokes a sense of wonder and delight through its vibrant, glowing colors and abstract, organic shapes that suggest movement and warmth.",7,5,none,1,1,4,4,5,4,5
+excitement_0177,"The image evokes a strong sense of joy and lightheartedness through the group's playful poses and the bright, sunny setting.",7,4,people_present,1,1,3,5,5,3,4
+excitement_0180,The image evokes a sense of delicate beauty and natural wonder through its intricate floral patterns and vibrant colors.,6,3,none,1,1,4,2,4,2,5
+excitement_0182,"The image evokes a sense of melancholy and loss through its autumnal colors and barren tree, suggesting sadness.",3,2,none,1,1,3,1,3,2,4
+excitement_0185,"The image evokes a calm, peaceful feeling through its soft focus and gentle colors.",6,2,none,1,1,2,2,4,1,4
+excitement_0188,"The image shows a joyful interaction between a child and pigeons, evoking feelings of playfulness and happiness.",6,4,prominent_faces,1,1,2,5,4,5,3
+excitement_0192,"The image evokes a sense of quiet beauty and resilience through the contrast of red berries against snow, suggesting a calm, slightly melancholic but aesthetically pleasing mood.",5,2,none,1,1,3,1,3,1,4
+excitement_0197,"The image evokes a strong sense of joy and freedom through the silhouette of a child running at sunset, creating a feeling of happiness and vitality.",7,5,people_present,1,1,4,5,5,5,5
+excitement_0198,"The image evokes a sense of calm and appreciation for nature through its soft, warm colors and delicate subject matter.",6,2,none,1,1,3,2,5,1,5
+excitement_0199,The image evokes a sense of calm contentment and playfulness through the relaxed pose and bubble gum activity.,6,2,prominent_faces,1,1,2,4,4,2,4
+excitement_0202,The image evokes a sense of wonder and appreciation for natural beauty through its vibrant colors and intricate details.,6,4,none,1,1,4,2,3,3,5
+excitement_0210,"The image evokes a sense of awe and smallness in the face of nature, with a dramatic, stormy sky and a lone figure reaching up.",3,4,people_present,3,1,4,2,2,3,4
+excitement_0217,"The image evokes a sense of calm and elegance through the soft lighting, poised expression, and artistic composition.",6,2,prominent_faces,1,1,4,2,3,2,5
+excitement_0218,"The image shows a young girl swinging with expressions of joy and excitement, conveying a strong sense of happiness and playfulness.",7,4,prominent_faces,1,1,2,5,5,4,4
+excitement_0220,"The image shows a young child with a calm, slightly curious expression, evoking a gentle, peaceful mood.",6,2,prominent_faces,1,1,2,2,4,1,3
+excitement_0227,"The image evokes a playful, energetic mood through the subject's dynamic pose and vibrant colors.",6,5,people_present,1,1,3,5,3,5,4
+excitement_0228,"The image evokes excitement through the woman's dynamic pose, joyful expression, and vibrant colors against a serene backdrop.",7,5,prominent_faces,1,1,4,5,4,5,5
+excitement_0240,"The image evokes a somber, melancholic mood through the contrast between the vibrant red flowers and the desaturated, gritty background, suggesting loss or sadness.",2,2,none,1,1,3,2,2,1,3
+excitement_0247,The image evokes a sense of joy and playfulness through the subject's smile and the whimsical snowfall.,6,4,prominent_faces,1,1,3,5,4,3,4
+excitement_0254,"The image shows a person smiling broadly, suggesting amusement or happiness, with a casual, everyday setting.",6,3,prominent_faces,1,1,2,4,3,2,3
+excitement_0256,"The image evokes a sense of calm and warmth through its soft focus, golden tones, and the gentle act of holding a bouquet.",6,2,people_present,1,1,2,1,5,1,4
+excitement_0260,"The image evokes a strong sense of peace and relaxation through the low-angle perspective of someone lying on grass, suggesting contentment.",6,2,people_present,1,1,3,2,4,1,3
+excitement_0263,"The image evokes a sense of intimacy and mystery through the underwater setting and the embrace of two figures, creating a calm yet emotionally charged atmosphere.",5,3,people_present,1,1,4,2,4,2,4
+excitement_0264,"The image evokes a sense of wonder and joy through the silhouette of a child reaching toward a vibrant sunset, suggesting awe and excitement.",7,4,people_present,1,1,4,4,5,3,5
+excitement_0267,"The image evokes a sense of decay and abandonment, with a weathered glass bottle containing rust and debris, suggesting neglect and the passage of time.",2,2,none,2,3,3,1,2,1,3
+fear_0670,"The image evokes sadness through the child's bruised eye, bandage, and somber expression.",2,2,prominent_faces,3,1,2,1,2,1,3
+fear_0672,"The image evokes a sense of unease and apprehension through the subject's wide-eyed, upward gaze and the cold, gritty aesthetic.",2,4,prominent_faces,3,1,3,1,1,2,3
+fear_0680,"The image evokes fear through the distorted, chaotic reflection in the eye and the explicit text, creating a sense of unease and threat.",2,4,none,4,2,4,1,1,3,3
+fear_0681,"The image evokes a sense of playful curiosity and mild tension, as the cat appears to be playfully investigating the small rodent, which is not showing fear but rather a neutral or slightly surprised expression.",5,4,none,2,1,3,4,3,3,3
+fear_0682,"The image evokes a sense of unease and isolation through its foggy, desaturated atmosphere and the looming, bare tree.",2,2,none,3,1,2,1,1,1,3
+fear_0686,"The image evokes a somber, melancholic mood through its dark silhouette and ominous red sky, suggesting sadness.",2,2,none,3,1,3,1,1,1,4
+fear_0690,"The image evokes a strong sense of sadness and vulnerability through the subject's huddled posture, grimy appearance, and somber expression.",2,3,prominent_faces,3,2,3,1,2,2,3
+fear_0692,"The image evokes fear through the distressed facial expression, blood-stained body, and threatening handprint.",2,4,prominent_faces,5,4,3,1,1,3,2
+fear_0693,"The image evokes a sense of unease and mystery through its dark, shadowy figure and eerie lighting.",2,3,people_present,4,1,4,1,2,2,3
+fear_0699,The image evokes a strong sense of fear and sadness through the distressed child and the looming shadow.,1,4,people_present,5,3,3,1,1,2,2
+fear_0702,"The image evokes a sense of dread and unease through its dark, gritty setting and the woman's menacing pose with a knife.",2,4,people_present,5,2,3,1,1,3,3
+fear_0704,"The image evokes a sense of dread and unease through its dark, chaotic, and distorted visual style, suggesting fear or anxiety.",2,5,none,5,2,4,1,1,5,3
+fear_0713,"The image evokes fear through the distorted facial expression and the hand covering the eye, creating a sense of unease and vulnerability.",2,4,prominent_faces,4,2,4,1,1,3,3
+fear_0904,"The image evokes a sense of foreboding and power through its dark, stormy atmosphere and imposing infrastructure.",2,4,none,3,1,4,1,1,3,4
+fear_0905,"The image evokes a dark, intense, and somewhat unsettling mood through heavy makeup, dramatic lighting, and aggressive styling.",2,4,prominent_faces,3,2,4,1,1,3,3
+fear_0907,"The image evokes fear through the woman's intense gaze, the weapon she holds, and the shadowy figure in the background.",2,4,prominent_faces,5,1,3,1,1,3,3
+fear_0908,The image evokes a sense of vastness and quiet contemplation through its dramatic sky and silhouetted foliage.,4,3,none,1,1,4,1,2,3,4
+fear_0911,The image evokes a sense of wonder and joy through the child's expression and the atmospheric setting.,6,3,prominent_faces,1,1,4,4,3,2,4
+fear_0912,"The image evokes a somber, melancholic mood through the subject's pensive expression and the moody, shadowed lighting.",2,2,prominent_faces,2,1,3,1,2,1,4
+fear_0919,"The image evokes fear through the distressed expression, bandaged appearance, and intense gaze.",2,4,prominent_faces,4,3,4,1,1,2,3
+fear_0923,"The image evokes a sense of unease and vulnerability due to the obscured face and dark, grainy aesthetic.",2,3,people_present,3,1,4,1,1,2,3
+fear_0926,"The image evokes a quiet, slightly melancholic mood through the children's solemn expressions and the cold, wintry forest setting.",3,2,prominent_faces,1,1,2,1,3,1,4
+fear_0929,"The image evokes fear through the dark, high-contrast lighting and the unsettling, almost ghostly appearance of the teddy bear.",2,4,none,4,1,3,1,1,1,3
+fear_0930,"The image evokes a gentle, romantic, and peaceful mood through the heart drawn in sand and the soft, intimate close-up of a person, suggesting contentment and warmth.",6,2,prominent_faces,1,1,2,3,5,1,4
+fear_0931,"The image evokes a sense of unease and fear through the child's intense gaze, heavy makeup, and the eerie forest setting.",2,4,prominent_faces,4,2,4,1,1,2,3
+fear_0933,The image evokes a strong sense of fear and disgust due to the simulated blood and distressed expression.,2,4,prominent_faces,4,4,3,1,1,2,2
+fear_0937,"The image evokes a sense of unease and vulnerability through the depiction of a bound figure, suggesting fear or distress.",2,3,none,4,2,3,1,1,2,3
+fear_0940,"The image shows a dog with an aggressive, snarling expression, evoking fear and anger rather than positive emotions.",2,5,none,5,2,2,1,1,4,2
+fear_0941,"The image evokes a strong sense of sadness and isolation through the subject's huddled posture and the stark, tiled environment.",2,2,people_present,2,1,2,1,1,1,3
+fear_0944,"The image evokes a strong sense of sadness and distress through the subject's posture and the dramatic, shadowy lighting.",2,3,prominent_faces,2,1,3,1,1,2,4
+fear_0945,"The image evokes a sense of mystery and slight unease through its dark, misty forest setting and towering trees.",3,3,none,3,1,4,1,2,2,4
+fear_0955,The image evokes a strong sense of fear and sadness through the distressed child and the looming shadow.,1,4,people_present,5,3,3,1,1,2,2
+fear_0961,"The image evokes fear through the woman's distressed expression and the dark, ominous setting.",2,4,prominent_faces,4,1,3,1,2,2,3
+fear_0967,"The image evokes a sense of melancholy and introspection through the subject's pensive expression and the moody, cool-toned lighting.",3,2,prominent_faces,1,1,2,1,2,1,4
+fear_0973,The image evokes a sense of fear and vulnerability through the confined space and the man's posture.,2,4,prominent_faces,4,1,4,1,1,2,3
+sad_0291,"The image evokes a sense of calm and contentment through the close-up of a cat grooming itself, with soft textures and a monochromatic tone that feels soothing.",6,2,none,1,1,2,3,5,1,4
+sad_0298,"The image evokes a sense of quiet sadness or melancholy through the doll's expression and the soft, somewhat eerie lighting.",3,2,none,2,1,3,2,3,1,4
+sad_0299,"The image evokes a sense of calm and peacefulness through its soft, warm colors and delicate, swaying plant silhouettes.",6,2,none,1,1,3,1,5,2,4
+sad_0302,"The image evokes a sense of awe and fear through its dramatic, stormy atmosphere and the juxtaposition of a serene face with a howling wolf and lightning.",3,5,prominent_faces,4,1,5,1,1,5,4
+sad_0304,"The image evokes a calm, slightly melancholic mood through its soft focus and muted tones, suggesting contentment or quiet reflection rather than strong emotion.",4,2,none,1,1,2,1,3,1,3
+sad_0305,"The image evokes sadness through the person's somber expression, white face paint resembling a mask, and the presence of what appears to be angel wings, suggesting themes of loss or mourning.",2,2,prominent_faces,1,1,3,1,2,1,3
+sad_0313,"The image evokes a calm, serene mood through its cool blue tones and stillness of dew-covered grass.",5,2,none,1,1,3,1,2,1,4
+sad_0317,The image evokes a sense of calm and quiet contemplation through its soft focus and monochromatic purple palette.,4,2,none,1,1,3,1,3,1,4
+sad_0323,"The image evokes a somber, melancholic mood through the woman's pensive expression and the stark, minimalist setting.",2,2,prominent_faces,1,1,2,1,2,1,3
+sad_0327,"The image evokes a somber, melancholic mood through its gloomy lighting, bare tree, and still water, suggesting sadness.",2,2,none,1,1,3,1,2,1,4
+sad_0333,"The image evokes a somber, melancholic mood through the visible 'SAD' tattoo and the person's hunched posture.",2,2,people_present,1,1,2,1,2,1,3
+sad_0338,"The image evokes a somber, melancholic mood through the subject's posture and the moody lighting.",2,2,prominent_faces,1,1,3,1,2,2,4
+sad_0345,"The image evokes a somber, melancholic mood through its dark silhouette and reflective floor, suggesting sadness.",2,2,people_present,1,1,2,1,1,1,3
+sad_0350,"The image evokes sadness through the prominent tear and the somber, close-up framing of the eye.",2,2,people_present,1,1,2,1,2,1,4
+sad_0356,"The image evokes a sense of intense focus or curiosity through the detailed, close-up view of the eye.",5,4,prominent_faces,1,1,4,1,3,2,4
+sad_0363,"The image evokes a somber, melancholic mood through its dark lighting, shadowed figure, and classical music setting, suggesting sadness.",2,2,people_present,2,1,3,1,2,1,3
+sad_0368,"The image evokes a somber, melancholic mood through the subject's posture and the desaturated, gritty aesthetic.",2,2,people_present,1,1,2,1,2,1,3
+sad_0371,"The image evokes a sense of melancholy and loss through its desaturated, high-contrast aesthetic and the looming, stormy sky, which creates a somber and slightly threatening atmosphere.",3,4,none,3,1,3,1,2,3,4
+sad_0373,"The image evokes a gentle, soothing feeling through the soft fur and calm expression of the puppy.",6,2,none,1,1,2,3,5,1,4
+sad_0379,"The image evokes a somber, introspective mood through the subject's huddled posture, downward gaze, and the moody green lighting, suggesting sadness or melancholy.",2,2,people_present,1,1,2,1,2,1,3
+sad_0380,"The image evokes a somber, melancholic mood through its grainy, low-quality aesthetic and the subject's hunched, isolated posture.",2,2,people_present,2,1,2,1,2,1,2
+sad_0381,"The image evokes a sense of calm and tranquility through its serene, natural subject matter.",6,2,none,1,1,3,1,3,1,4
+sad_0384,"The image evokes a quiet, melancholic, and solitary feeling due to the stark, bare tree against a vast, empty snowy landscape.",3,1,none,1,1,3,1,2,1,4
+sad_0388,"The image evokes a somber, melancholic mood through its dark, shadowy composition and the texture of the dried leaf, suggesting sadness.",2,2,none,1,1,3,1,2,1,4
+sad_0402,The image evokes sadness through the visible tear and somber expression.,2,2,prominent_faces,1,1,1,1,2,1,3
+sad_0417,"The image evokes a sense of awe and tranquility through its dramatic lighting, vast landscape, and solitary figures, creating a feeling of peaceful contemplation.",6,3,people_present,1,1,4,1,4,2,5
+sad_0418,"The image evokes a sense of calm and solitude through its vast, empty landscape and the silhouette of the lone tree against a soft, warm sky.",5,2,none,1,1,3,1,4,1,4
+sad_0421,"The image evokes a somber, melancholic mood through its dark tones, the prone posture of the figure, and the isolated, tense hand in the foreground.",2,3,people_present,2,1,2,1,1,2,3
+sad_0422,"The image is extremely blurry and dark, dominated by a warm, yellowish glow that suggests a candle or lamp, creating a cozy but indistinct atmosphere.",4,2,people_present,1,1,2,1,5,1,2
+sad_0424,"The image evokes a sense of melancholy and solitude through its dark silhouette and moody, overcast sky.",2,2,people_present,1,1,3,1,1,1,4
+sad_0432,"The image evokes a somber, melancholic mood through the gloomy weather, the clown's sad expression, and the solitary figures walking in the rain.",2,2,people_present,1,1,2,1,1,1,2
+sad_0438,"The image evokes a somber, melancholic mood through the subject's downward gaze, dark makeup, and the use of a black veil, suggesting sadness.",2,3,prominent_faces,1,1,4,1,1,2,4
+sad_0445,"The image evokes a somber, melancholic mood through the subject's pensive expression and the warm, dim lighting, suggesting sadness.",3,2,people_present,1,1,3,1,4,1,4
+sad_0452,"The image evokes a sense of unease and artificiality through the surreal makeup, suggesting a disturbing or unsettling emotion.",2,4,prominent_faces,3,2,5,1,1,2,3
+sad_0453,"The image evokes a strong sense of distress, vulnerability, and emotional pain through the subject's posture and facial expression.",2,3,people_present,2,1,2,1,1,2,2
+sad_0463,"The image evokes a sense of solemnity and slight unease due to the ominous, dark storm clouds looming over the architectural structure, creating a feeling of impending danger or melancholy.",2,3,none,4,1,4,1,1,2,3
+sad_0465,"The image evokes a sense of calm and peacefulness through its natural landscape, open sky, and solitary tree.",6,2,none,1,1,3,1,4,2,4
+sad_0611,"The image evokes a sense of quiet contemplation and solitude, with a silhouette standing beneath a large tree against a soft, textured background.",4,2,people_present,1,1,3,1,2,1,4
+sad_0613,"The image evokes a sense of eerie melancholy and unease through the obscured face and flowing hair, creating a haunting atmosphere.",2,3,people_present,3,1,4,1,1,3,3
+sad_0615,"The image evokes a sense of awe and mystery through its dramatic, stormy mountain landscape, with a mix of dark and light elements that create a powerful emotional impact.",3,4,none,3,1,5,1,2,3,4
+sad_0618,The image evokes a sense of wonder and peaceful solitude through its silhouette composition and starry night sky.,6,3,people_present,1,1,4,3,4,2,5
+sad_0628,"The image evokes a sense of melancholy and desolation through its bleak, monochromatic palette, empty landscape, and isolated, weathered structure.",2,2,none,2,1,3,1,1,1,4
+sad_0629,"The image evokes a strong sense of sadness and isolation through the silhouette of a person huddled in a dark corner, illuminated only by a harsh backlight.",2,2,people_present,3,1,2,1,1,1,3
+sad_0632,"The image evokes a strong sense of fear and distress through the gesture of covering the face, suggesting anxiety or terror.",2,4,people_present,4,1,2,1,2,2,3
+sad_0633,"The image evokes a somber, melancholic mood through its confined perspective and the solitary, hunched figure, suggesting sadness or introspection.",2,2,people_present,2,1,3,1,2,1,3
+sad_0634,"The image evokes a somber, melancholic mood through the subject's posture and facial expression, suggesting sadness or distress.",2,2,people_present,2,1,2,1,2,1,3
+sad_0638,"The image evokes a sense of awe and solitude through its dramatic lighting, vast sky, and solitary animal, creating a feeling of grandeur and quiet contemplation.",6,4,none,2,1,5,1,4,3,5
+sad_0644,"The image evokes a somber, melancholic mood through the stark contrast of a dead tree against a dramatic sky.",2,3,none,2,1,3,1,1,2,3
+sad_0646,"The image evokes a sense of awe and contemplation through its vast, dramatic sky and solitary figure, creating a feeling of smallness against nature.",6,3,people_present,1,1,4,1,3,2,5
+sad_0650,"The image evokes a sense of awe and grandeur through the dramatic, towering clouds and the solitary tree, creating a feeling of smallness and wonder.",6,4,none,2,1,5,1,3,3,5

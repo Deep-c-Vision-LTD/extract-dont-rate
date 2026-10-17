@@ -7,7 +7,7 @@ Tables and figures for the revised manuscript, all computed from results/*.json 
   tab_equal.tex    hybrid - CLIP-PCA2k (equal-size test; supplementary)
   tab_prereg.tex   verdict on the four pre-registered predictions
   fig_curves.png   learning curves, five datasets
-  fig_rule.png     gain at 20 labels against zero-shot agreement, 12 dataset x VLM cells
+  fig_rule.png     gain at 20 labels against zero-shot agreement, every dataset x VLM cell (17 with Qwen3.5-4B)
 Significance marks: Holm over every contrast in the four tables x dataset x VLM x budget (linear probe, 30 subsets);
 "*" also marks significance under Benjamini-Hochberg only. Usage: python make_assets.py -> tables/ (tables and their JSON sources) and figures/
 """
@@ -19,8 +19,8 @@ from sklearn.metrics import cohen_kappa_score
 
 HERE = Path(__file__).resolve().parent; RES = HERE / "results"; OUT = HERE / "tables"; FIG = HERE / "figures"
 OUT.mkdir(exist_ok=True); FIG.mkdir(exist_ok=True)
-VLMS = {"claude": "Claude Sonnet 4.6", "qwen": "Qwen2.5-VL-7B", "gemma": "Gemma-3-4B"}
-SHORT = {"claude": "Claude", "qwen": "Qwen", "gemma": "Gemma"}
+VLMS = {"claude": "Claude Sonnet 4.6", "qwen": "Qwen2.5-VL-7B", "gemma": "Gemma-3-4B", "qwen35": "Qwen3.5-4B"}
+SHORT = {"claude": "Claude", "qwen": "Qwen2.5", "gemma": "Gemma", "qwen35": "Qwen3.5"}
 DS = {"emoset": "EmoSet", "artphoto": "ArtPhoto", "abstract": "Abstract", "lamem": "LaMem", "memcat": "MemCat"}
 EMOTION = ("emoset", "artphoto", "abstract")
 CONTR = {"added": ("hybrid", "pcak"), "vsclip": ("hybrid", "clip"), "subst": ("attrs", "pcak"), "equal": ("hybrid", "pca2k")}
@@ -104,7 +104,7 @@ NOTE = (r" Emotion datasets in accuracy points, memorability datasets in Spearma
         + r" images; budgets not smaller than the pool appear only under Full). $^{\dagger}$significant under Holm "
         r"correction over all " + f"{M:,}" + r" contrasts of Tables~\ref{tab:added}--\ref{tab:subst} and "
         r"\ref{tab:equal}, which include the 640- and 1,280-label budgets not shown; $^{*}$significant under "
-        r"Benjamini--Hochberg only.")
+        r"Benjamini-Hochberg only.")
 contrast_table("added", r"Adding VLM attributes to the same compressed encoder: hybrid minus CLIP-PCA$k$." + NOTE, "tab:added")
 contrast_table("vsclip", r"The compact hybrid against the full 768-dimensional CLIP probe: hybrid minus CLIP." + NOTE, "tab:vsclip")
 contrast_table("subst", r"Substitute test: VLM attributes alone minus the dimension-matched CLIP-PCA$k$." + NOTE, "tab:subst")
@@ -121,7 +121,7 @@ def kappa_emotion(d, v):
         (_, _, _, _, _), (_, yte, _, _, dte), _, _ = A.emoset()
     else:
         import os
-        os.environ["VLMS"] = "qwen,gemma"
+        os.environ["VLMS"] = ",".join(R[(d, v)]["vlms_for_ids"])     # the id set the result file was computed on
         sys.argv = ["x", v]
         import importlib, analysis_new as N
         importlib.reload(N)
@@ -142,8 +142,8 @@ json.dump({f"{d}/{v}": z for (d, v), z in ZS.items()}, open(OUT / "zero_shot.jso
 L = [r"\begin{table}[t]", r"\centering",
      r"\caption{Zero-shot direct rating against human labels on each test set: accuracy and Cohen's $\kappa$ for the "
      r"eight-way emotion datasets (chance accuracy 12.5\% on balanced EmoSet), Spearman $\rho$ for the memorability "
-     r"datasets. Claude was run on EmoSet and LaMem only.}", r"\label{tab:direct}", r"\footnotesize",
-     r"\begin{tabular}{@{}lccc@{}}", r"\toprule", r"Dataset & " + " & ".join(VLMS.values()) + r" \\", r"\midrule"]
+     r"datasets. Claude was run on EmoSet and LaMem only.}", r"\label{tab:direct}", r"\footnotesize\setlength{\tabcolsep}{4pt}",
+     r"\begin{tabular}{@{}l" + "c" * len(VLMS) + r"@{}}", r"\toprule", r"Dataset & " + " & ".join(VLMS.values()) + r" \\", r"\midrule"]
 for d in DS:
     vals = []
     for v in VLMS:
@@ -157,7 +157,7 @@ open(OUT / "tab_direct.tex", "w").write("\n".join(L) + "\n")
 # ---------------- pre-registered predictions ----------------
 V = json.load(open(RES / "predictions_verdict.json"))
 P1 = V["P1"]["cells"]; P3 = V["P3"]["cells"]
-NAME = {"qwen": "Qwen", "gemma": "Gemma"}
+NAME = SHORT
 fails = {}
 for k, ok in P1.items():
     if not ok:
@@ -174,7 +174,9 @@ rows = [
      "Confirmed" if V["P2"]["confirmed"] else "Not confirmed", "on every dataset and VLM"),
     ("P3", r"the VLM with the higher zero-shot score gains more at 20 labels",
      "Confirmed" if V["P3"]["confirmed"] else "Not confirmed",
-     "; ".join(f"{DS[d]}: " + ", ".join(f"{NAME[v]} ${g:+.3f}$" for v, g in P3[d]["gain_at_20"].items()) for d in P3)
+     "; ".join(f"{DS[d]}: " + ", ".join(f"{NAME[v]} " + (f"${g * 100:+.1f}$" if d in EMOTION else f"${g:+.3f}$")
+                                         for v, g in P3[d]["gain_at_20"].items())
+               + (" points" if d in EMOTION else r" in $\rho$") for d in P3)
      + r"; every margin is small relative to its 95\% interval"),
     ("P4", r"attributes alone do not beat CLIP-PCA$k$ at 160 labels or more",
      "Confirmed" if V["P4"]["confirmed"] else "Not confirmed", r"no Holm-significant exception"),
@@ -183,7 +185,8 @@ L = [r"\begin{table}[t]", r"\centering",
      r"\caption{Predictions fixed before any VLM label, CLIP feature or result existed for ArtPhoto, Abstract and MemCat, and "
      r"their outcome (Qwen2.5-VL-7B and Gemma-3-4B; Holm correction over the pre-specified family of "
      r"hybrid$-$CLIP-PCA$2k$, attributes$-$CLIP-PCA$k$ and hybrid$-$CLIP contrasts).}", r"\label{tab:prereg}", r"\small",
-     r"\begin{tabular}{@{}p{0.05\linewidth}p{0.35\linewidth}p{0.13\linewidth}p{0.37\linewidth}@{}}", r"\toprule",
+     r"\begin{tabular}{@{}>{\raggedright\arraybackslash}p{0.05\linewidth}>{\raggedright\arraybackslash}p{0.35\linewidth}"
+     r">{\raggedright\arraybackslash}p{0.13\linewidth}>{\raggedright\arraybackslash}p{0.37\linewidth}@{}}", r"\toprule",
      r"& Prediction & Outcome & Detail \\", r"\midrule"]
 for a, b, c, e in rows:
     L.append(f"{a} & {b} & {c} & {e} " + r"\\")
@@ -196,8 +199,8 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 plt.rcParams.update({"font.size": 8, "axes.titlesize": 9, "legend.fontsize": 7, "axes.spines.top": False,
                      "axes.spines.right": False, "axes.grid": True, "grid.color": "#e6e5e0", "grid.linewidth": 0.6})
-COL = {"claude": "#2a78d6", "qwen": "#eb6834", "gemma": "#1baf7a"}
-MK = {"claude": "o", "qwen": "^", "gemma": "s"}
+COL = {"claude": "#2a78d6", "qwen": "#eb6834", "gemma": "#1baf7a", "qwen35": "#eda100"}
+MK = {"claude": "o", "qwen": "^", "gemma": "s", "qwen35": "D"}
 
 # two rows: memorability (2 panels, centred) above emotion (3 panels)
 fig = plt.figure(figsize=(10.5, 7.4))
@@ -223,11 +226,11 @@ handles = {}
 for ax in axes:
     for h, l in zip(*ax.get_legend_handles_labels()):
         handles.setdefault(l, h)
-fig.legend(list(handles.values()), list(handles.keys()), loc="lower center", ncol=5, frameon=False, fontsize=9,
+fig.legend(list(handles.values()), list(handles.keys()), loc="lower center", ncol=3, frameon=False, fontsize=9,
            bbox_to_anchor=(0.5, 0.0))
 fig.text(0.5, 0.965, "Memorability", ha="center", fontsize=12, weight="bold")
 fig.text(0.5, 0.505, "Emotion", ha="center", fontsize=12, weight="bold")
-fig.subplots_adjust(left=0.07, right=0.98, top=0.91, bottom=0.12)
+fig.subplots_adjust(left=0.07, right=0.98, top=0.91, bottom=0.15)
 fig.savefig(FIG / "fig_curves.png", dpi=300); plt.close(fig)
 
 fig, ax = plt.subplots(figsize=(4.6, 3.3))
@@ -237,18 +240,27 @@ for (d, v) in CELLS:
     x = ZS[(d, v)]["agree"]; g = FAM[(d, v, 20, "added")]["m"]
     xs.append(x); ys.append(g)
     ax.scatter(x, g, s=46, color=COL[v], marker=MKD[d], edgecolor="#fcfcfb", linewidth=1.2, zorder=3)
-    off = {("artphoto", "qwen"): (-44, 5), ("lamem", "qwen"): (6, 4), ("lamem", "gemma"): (7, -8),
-           ("emoset", "qwen"): (6, -9)}.get((d, v), (5, 3))
-    ax.annotate(f"{DS[d]}", (x, g), textcoords="offset points", xytext=off, fontsize=6.5, color="#52514e")
 ax.axhline(0, color="#8c8b86", lw=0.8)
 rho, pv = spearmanr(xs, ys)
+three = [i for i, (d, v) in enumerate(CELLS) if v != "qwen35"]             # the 12 cells the post-hoc rule was found on
+rho3, pv3 = spearmanr([xs[i] for i in three], [ys[i] for i in three])
+SUB = {"emotion": [i for i, (d, v) in enumerate(CELLS) if d in EMOTION],
+       "memorability": [i for i, (d, v) in enumerate(CELLS) if d not in EMOTION],
+       "qwen35_only": [i for i, (d, v) in enumerate(CELLS) if v == "qwen35"]}
+SUBSTAT = {}
+for k, idx in SUB.items():
+    r_, p_ = spearmanr([xs[i] for i in idx], [ys[i] for i in idx])
+    SUBSTAT.update({f"rho_{k}": float(r_), f"p_{k}": float(p_), f"n_cells_{k}": len(idx)})
 ax.set_xlabel(r"zero-shot agreement with humans (Cohen's $\kappa$ or Spearman $\rho$)")
 ax.set_ylabel("gain from adding attributes, 20 labels")
-for v in VLMS:
-    ax.scatter([], [], color=COL[v], marker="s", label=VLMS[v])
-ax.legend(frameon=False, loc="upper left", title="colour: VLM; shape: dataset", title_fontsize=6.5)
+hv = [ax.scatter([], [], color=COL[v], marker="s", s=30) for v in VLMS]
+hd = [ax.scatter([], [], color="#8c8b86", marker=MKD[d], s=30) for d in DS]
+leg = ax.legend(hv, list(VLMS.values()), frameon=False, loc="upper left", title="colour: VLM", title_fontsize=6.5, fontsize=6.5)
+ax.add_artist(leg)
+ax.legend(hd, list(DS.values()), frameon=False, loc="lower right", title="shape: dataset", title_fontsize=6.5, fontsize=6.5)
 ax.set_title(f"Spearman over {len(xs)} dataset-VLM cells: {rho:.2f} (p = {pv:.1e})", fontsize=8)
 fig.tight_layout(); fig.savefig(FIG / "fig_rule.png", dpi=300); plt.close(fig)
-json.dump(dict(rho=rho, p=pv, cells=[dict(d=d, v=v, agree=x, gain20=y) for (d, v), x, y in zip(CELLS, xs, ys)]),
+json.dump(dict(rho=rho, p=pv, n_cells=len(xs), rho_without_qwen35=rho3, p_without_qwen35=pv3, n_cells_without_qwen35=len(three), **SUBSTAT, cells=[dict(d=d, v=v, agree=x, gain20=y) for (d, v), x, y in zip(CELLS, xs, ys)]),
           open(OUT / "rule.json", "w"), indent=1)
-print("rule: spearman", round(rho, 3), "p", round(pv, 4))
+print("rule: spearman", round(rho, 3), "p", round(pv, 4), f"({len(xs)} cells); without Qwen3.5", round(rho3, 3), "p", round(pv3, 4))
+print("rule subsets:", {k: round(x, 4) for k, x in SUBSTAT.items()})

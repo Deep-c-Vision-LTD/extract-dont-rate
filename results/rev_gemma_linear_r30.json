@@ -4,12 +4,14 @@
   "emoset": [
    "",
    "qwen_",
-   "gemma_"
+   "gemma_",
+   "qwen35_"
   ],
   "lamem": [
    "",
    "qwen_",
-   "gemma_"
+   "gemma_",
+   "qwen35_"
   ]
  },
  "probe": "linear",

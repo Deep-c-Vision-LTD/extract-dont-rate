@@ -1,0 +1,119 @@
+{
+ "test_run": {
+  "jobs": {
+   "emoset2k_features": {
+    "n": 3,
+    "identical": 3
+   },
+   "emoset_direct": {
+    "n": 3,
+    "identical": 3
+   },
+   "emoset_features": {
+    "n": 3,
+    "identical": 3
+   },
+   "lamem2k_direct": {
+    "n": 3,
+    "identical": 3
+   },
+   "lamem2k_features": {
+    "n": 3,
+    "identical": 3
+   },
+   "lamemtr2k_features": {
+    "n": 3,
+    "identical": 3
+   }
+  },
+  "n": 18,
+  "identical": 18
+ },
+ "relabel": {
+  "job": "emoset2k_features",
+  "rows": [
+   200,
+   225,
+   250,
+   275,
+   300,
+   325,
+   350,
+   375,
+   950,
+   958,
+   966,
+   974,
+   982,
+   990,
+   998,
+   1006,
+   1014,
+   1022,
+   1030,
+   1038,
+   1046
+  ],
+  "n": 21,
+  "identical": 21
+ },
+ "invalid_rating": {
+  "id": "excitement_02120",
+  "truth": "excitement",
+  "passing_answer": "excitement",
+  "n_test": 1522,
+  "excluded": {
+   "n": 1521,
+   "kappa": 0.49819706581783973,
+   "acc": 0.5608152531229454
+  },
+  "passing_answer_kept": {
+   "n": 1522,
+   "kappa": 0.49852768688511817,
+   "acc": 0.5611038107752957
+  },
+  "scored_wrong": {
+   "by_class": {
+    "amusement": {
+     "kappa": 0.49777797068795604,
+     "acc": 0.5604467805519053
+    },
+    "awe": {
+     "kappa": 0.49777722754452325,
+     "acc": 0.5604467805519053
+    },
+    "contentment": {
+     "kappa": 0.49777846611568954,
+     "acc": 0.5604467805519053
+    },
+    "anger": {
+     "kappa": 0.49777722754452336,
+     "acc": 0.5604467805519053
+    },
+    "disgust": {
+     "kappa": 0.49778168637213127,
+     "acc": 0.5604467805519053
+    },
+    "fear": {
+     "kappa": 0.49778292492130494,
+     "acc": 0.5604467805519053
+    },
+    "sadness": {
+     "kappa": 0.4977787138291896,
+     "acc": 0.5604467805519053
+    }
+   },
+   "kappa_max": 0.49778292492130494,
+   "acc": 0.5604467805519053
+  },
+  "gemma": {
+   "kappa": 0.4978346908127862,
+   "acc": 0.5604467805519053
+  },
+  "qwen35_above_gemma": {
+   "excluded": true,
+   "passing_answer_kept": true,
+   "scored_wrong": false
+  }
+ }
+}

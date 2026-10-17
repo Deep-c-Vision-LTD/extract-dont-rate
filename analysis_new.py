@@ -6,7 +6,7 @@ Near-duplicates (CLIP cosine > 0.95) are removed as in analysis.py: training ima
 images that match a training or test image.
 Ids = images that every VLM given in VLMS labelled completely.
 MemCat scores are not redistributed: set MEMCAT_CSV to your copy of memcat_image_data.csv (MemCat OSF project).
-Usage: MEMCAT_CSV=/path/to/memcat_image_data.csv VLMS=qwen,gemma REPS=30 python analysis_new.py qwen|gemma
+Usage: MEMCAT_CSV=/path/to/memcat_image_data.csv VLMS=qwen,gemma,qwen35 REPS=30 python analysis_new.py qwen|gemma|qwen35
        [artphoto] [abstract] [memcat]   -> results/new_<vlm>_<probe>_r<reps>.json
 """
 import json, os, sys
@@ -19,7 +19,7 @@ VLM = sys.argv[1]; SETS = sys.argv[2:] or ["artphoto", "abstract", "memcat"]
 sys.argv = [sys.argv[0], VLM]
 import analysis as A                                             # routes, probe, bootstrap, contrasts
 
-VLMS = os.environ.get("VLMS", "qwen,gemma").split(",")
+VLMS = os.environ.get("VLMS", "qwen,gemma,qwen35").split(",")
 BUDGETS = [20, 40, 80, 160, 320, 640, 1280]
 
 

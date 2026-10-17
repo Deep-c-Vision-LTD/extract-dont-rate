@@ -1,0 +1,4 @@
+id,reasoning,has_people,focal_subject_clarity_5,distinctiveness_5,visual_complexity_5,color_vividness_5,is_indoor_scene,text_amount_5,emotional_charge_5
+00000012,"The close-up of the cat's intense gaze and the soft, colorful background create a striking, emotionally engaging portrait that stands out as memorable.",none,5,4,3,4,indoor,1,4
+00000018,The striking contrast between the moonlit mountain and the deep blue sky creates a visually arresting and memorable scene.,none,4,4,3,5,outdoor,1,3
+00000023,"The image features a single clear subject (a sailboat) against a simple, overcast background, which enhances focus but lacks emotional depth or novelty.",none,4,2,2,2,outdoor,2,1

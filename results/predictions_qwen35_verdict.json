@@ -1,0 +1,299 @@
+{
+ "family_size": 68,
+ "Q1": {
+  "cells": {
+   "emoset": {
+    "vlms": [
+     "claude",
+     "qwen",
+     "gemma",
+     "qwen35"
+    ],
+    "gain20": {
+     "claude": 0.1395,
+     "qwen": 0.0592,
+     "gemma": 0.0822,
+     "qwen35": 0.1103
+    },
+    "agree": {
+     "claude": 0.5256284817018322,
+     "qwen": 0.38656525997647906,
+     "gemma": 0.4978346908127862,
+     "qwen35": 0.49819706581783973
+    },
+    "gain_rank": 2,
+    "agree_rank": 2,
+    "of": 4,
+    "outcome": "confirmed"
+   },
+   "artphoto": {
+    "vlms": [
+     "qwen",
+     "gemma",
+     "qwen35"
+    ],
+    "gain20": {
+     "qwen": 0.0649,
+     "gemma": 0.0836,
+     "qwen35": 0.0881
+    },
+    "agree": {
+     "qwen": 0.3184281306858635,
+     "gemma": 0.36412870972861444,
+     "qwen35": 0.3156128366033839
+    },
+    "gain_rank": 1,
+    "agree_rank": 3,
+    "of": 3,
+    "outcome": "not confirmed"
+   },
+   "abstract": {
+    "vlms": [
+     "qwen",
+     "gemma",
+     "qwen35"
+    ],
+    "gain20": {
+     "qwen": 0.0425,
+     "gemma": 0.0429,
+     "qwen35": 0.0534
+    },
+    "agree": {
+     "qwen": 0.18651261494930438,
+     "gemma": 0.30354505169867063,
+     "qwen35": 0.3169966199903429
+    },
+    "gain_rank": 1,
+    "agree_rank": 1,
+    "of": 3,
+    "outcome": "confirmed"
+   },
+   "lamem": {
+    "vlms": [
+     "claude",
+     "qwen",
+     "gemma",
+     "qwen35"
+    ],
+    "gain20": {
+     "claude": -0.0044,
+     "qwen": -0.0614,
+     "gemma": -0.0689,
+     "qwen35": -0.0777
+    },
+    "agree": {
+     "claude": 0.24266645332281797,
+     "qwen": 0.10088902612473323,
+     "gemma": 0.08549710860070721,
+     "qwen35": 0.17651290335305087
+    },
+    "gain_rank": 4,
+    "agree_rank": 2,
+    "of": 4,
+    "outcome": "not confirmed"
+   },
+   "memcat": {
+    "vlms": [
+     "qwen",
+     "gemma",
+     "qwen35"
+    ],
+    "gain20": {
+     "qwen": 0.0135,
+     "gemma": 0.0018,
+     "qwen35": -0.0191
+    },
+    "agree": {
+     "qwen": 0.004190183045795955,
+     "gemma": -0.029295848294316435,
+     "qwen35": 0.14302866667034098
+    },
+    "gain_rank": 3,
+    "agree_rank": 1,
+    "of": 3,
+    "outcome": "not confirmed"
+   }
+  },
+  "outcome": "not confirmed"
+ },
+ "Q2": {
+  "cells": {
+   "emoset": {
+    "kappa": 0.49819706581783973,
+    "cells": {
+     "20": {
+      "m": 0.1103,
+      "p": 7.310288201000869e-16,
+      "holm": true
+     },
+     "40": {
+      "m": 0.0814,
+      "p": 7.594847318690035e-23,
+      "holm": true
+     }
+    },
+    "outcome": "confirmed"
+   },
+   "artphoto": {
+    "kappa": 0.3156128366033839,
+    "cells": {
+     "20": {
+      "m": 0.0881,
+      "p": 5.071479754040871e-10,
+      "holm": true
+     },
+     "40": {
+      "m": 0.0808,
+      "p": 4.131796400769664e-08,
+      "holm": true
+     }
+    },
+    "outcome": "confirmed"
+   }
+  },
+  "outcome": "confirmed"
+ },
+ "Q3": {
+  "cells": {
+   "lamem": {
+    "rho": 0.17651290335305087,
+    "cells": {
+     "20": {
+      "m": -0.0777,
+      "p": 0.00028597664256103505,
+      "holm": true
+     },
+     "40": {
+      "m": -0.0073,
+      "p": 0.34749842218250804,
+      "holm": false
+     }
+    },
+    "outcome": "confirmed"
+   },
+   "memcat": {
+    "rho": 0.14302866667034098,
+    "cells": {
+     "20": {
+      "m": -0.0191,
+      "p": 0.22967713442183058,
+      "holm": false
+     },
+     "40": {
+      "m": -0.0069,
+      "p": 0.5318292565640793,
+      "holm": false
+     }
+    },
+    "outcome": "confirmed"
+   }
+  },
+  "outcome": "confirmed"
+ },
+ "Q4": {
+  "n_cells": 17,
+  "rho": 0.8431372549019609,
+  "p": 2.132810024519339e-05,
+  "outcome": "confirmed"
+ },
+ "Q5": {
+  "cells": {
+   "emoset/160": {
+    "m": -0.0275,
+    "holm": false,
+    "outcome": "confirmed"
+   },
+   "emoset/320": {
+    "m": -0.0349,
+    "holm": false,
+    "outcome": "confirmed"
+   },
+   "emoset/640": {
+    "m": -0.0385,
+    "holm": true,
+    "outcome": "confirmed"
+   },
+   "emoset/1280": {
+    "m": -0.0425,
+    "holm": true,
+    "outcome": "confirmed"
+   },
+   "emoset/1917": {
+    "m": -0.0395,
+    "holm": false,
+    "outcome": "confirmed"
+   },
+   "artphoto/160": {
+    "m": 0.07,
+    "holm": false,
+    "outcome": "confirmed"
+   },
+   "artphoto/320": {
+    "m": 0.0861,
+    "holm": false,
+    "outcome": "confirmed"
+   },
+   "artphoto/548": {
+    "m": 0.0621,
+    "holm": false,
+    "outcome": "confirmed"
+   },
+   "abstract/160": {
+    "m": -0.0147,
+    "holm": false,
+    "outcome": "confirmed"
+   },
+   "lamem/160": {
+    "m": -0.1488,
+    "holm": true,
+    "outcome": "confirmed"
+   },
+   "lamem/320": {
+    "m": -0.1462,
+    "holm": true,
+    "outcome": "confirmed"
+   },
+   "lamem/640": {
+    "m": -0.1405,
+    "holm": true,
+    "outcome": "confirmed"
+   },
+   "lamem/1280": {
+    "m": -0.1364,
+    "holm": true,
+    "outcome": "confirmed"
+   },
+   "lamem/1997": {
+    "m": -0.1355,
+    "holm": true,
+    "outcome": "confirmed"
+   },
+   "memcat/160": {
+    "m": -0.1004,
+    "holm": true,
+    "outcome": "confirmed"
+   },
+   "memcat/320": {
+    "m": -0.0963,
+    "holm": true,
+    "outcome": "confirmed"
+   },
+   "memcat/640": {
+    "m": -0.097,
+    "holm": true,
+    "outcome": "confirmed"
+   },
+   "memcat/1280": {
+    "m": -0.0952,
+    "holm": true,
+    "outcome": "confirmed"
+   },
+   "memcat/1975": {
+    "m": -0.0948,
+    "holm": true,
+    "outcome": "confirmed"
+   }
+  },
+  "outcome": "confirmed"
+ }
+}

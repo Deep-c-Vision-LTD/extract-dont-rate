@@ -1,0 +1,149 @@
+[
+ {
+  "id": "amusement_17391",
+  "row_index": 200,
+  "identical": true,
+  "attributes_identical": true,
+  "diff": {}
+ },
+ {
+  "id": "amusement_18476",
+  "row_index": 225,
+  "identical": true,
+  "attributes_identical": true,
+  "diff": {}
+ },
+ {
+  "id": "anger_04809",
+  "row_index": 250,
+  "identical": true,
+  "attributes_identical": true,
+  "diff": {}
+ },
+ {
+  "id": "anger_05467",
+  "row_index": 275,
+  "identical": true,
+  "attributes_identical": true,
+  "diff": {}
+ },
+ {
+  "id": "anger_06158",
+  "row_index": 300,
+  "identical": true,
+  "attributes_identical": true,
+  "diff": {}
+ },
+ {
+  "id": "anger_06689",
+  "row_index": 325,
+  "identical": true,
+  "attributes_identical": true,
+  "diff": {}
+ },
+ {
+  "id": "anger_07535",
+  "row_index": 350,
+  "identical": true,
+  "attributes_identical": true,
+  "diff": {}
+ },
+ {
+  "id": "anger_08185",
+  "row_index": 375,
+  "identical": true,
+  "attributes_identical": true,
+  "diff": {}
+ },
+ {
+  "id": "contentment_14618",
+  "row_index": 950,
+  "identical": true,
+  "attributes_identical": true,
+  "diff": {}
+ },
+ {
+  "id": "contentment_14906",
+  "row_index": 958,
+  "identical": true,
+  "attributes_identical": true,
+  "diff": {}
+ },
+ {
+  "id": "contentment_15079",
+  "row_index": 966,
+  "identical": true,
+  "attributes_identical": true,
+  "diff": {}
+ },
+ {
+  "id": "contentment_15499",
+  "row_index": 974,
+  "identical": true,
+  "attributes_identical": true,
+  "diff": {}
+ },
+ {
+  "id": "contentment_15845",
+  "row_index": 982,
+  "identical": true,
+  "attributes_identical": true,
+  "diff": {}
+ },
+ {
+  "id": "contentment_16199",
+  "row_index": 990,
+  "identical": true,
+  "attributes_identical": true,
+  "diff": {}
+ },
+ {
+  "id": "contentment_16468",
+  "row_index": 998,
+  "identical": true,
+  "attributes_identical": true,
+  "diff": {}
+ },
+ {
+  "id": "disgust_04666",
+  "row_index": 1006,
+  "identical": true,
+  "attributes_identical": true,
+  "diff": {}
+ },
+ {
+  "id": "disgust_04812",
+  "row_index": 1014,
+  "identical": true,
+  "attributes_identical": true,
+  "diff": {}
+ },
+ {
+  "id": "disgust_05024",
+  "row_index": 1022,
+  "identical": true,
+  "attributes_identical": true,
+  "diff": {}
+ },
+ {
+  "id": "disgust_05222",
+  "row_index": 1030,
+  "identical": true,
+  "attributes_identical": true,
+  "diff": {}
+ },
+ {
+  "id": "disgust_05441",
+  "row_index": 1038,
+  "identical": true,
+  "attributes_identical": true,
+  "diff": {}
+ },
+ {
+  "id": "disgust_05610",
+  "row_index": 1046,
+  "identical": true,
+  "attributes_identical": true,
+  "diff": {}
+ }
+]
