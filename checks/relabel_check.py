@@ -2,7 +2,7 @@
 with the MPS cache release) and compare with the stored rows: does CPU contention, swapping or the restart change outputs?"""
 import csv, json, os, sys
 import torch
-sys.path.insert(0, "/Users/hamitsoyel/Downloads/xsoyel_perceptual/paper_v2/extract-dont-rate")
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))  # repo root
 import label_with_open_vlm as L
 from transformers import AutoModelForImageTextToText, AutoProcessor
 job = "emoset2k_features"; J = L.JOBS[job]
